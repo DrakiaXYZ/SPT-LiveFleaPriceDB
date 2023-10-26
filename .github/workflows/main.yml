@@ -24,8 +24,8 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config user.name github-actions
+          git config user.email github-actions@github.com
           git add prices.json akiprices.json tarkovdevprices.json
           git commit -m "Update prices"
           git push
