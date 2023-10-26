@@ -1,0 +1,22 @@
+{
+  "name": "spt-livefleapricedb",
+  "version": "1.0.0",
+  "description": "SPT live flea price DB updater",
+  "main": "src/index.mjs",
+  "scripts": {
+    "fetch": "node src/index.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrakiaXYZ/SPT-LiveFleaPriceDB.git"
+  },
+  "author": "DrakiaXYZ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DrakiaXYZ/SPT-LiveFleaPriceDB/issues"
+  },
+  "homepage": "https://github.com/DrakiaXYZ/SPT-LiveFleaPriceDB#readme",
+  "dependencies": {
+    "graphql-request": "^6.1.0"
+  }
+}
