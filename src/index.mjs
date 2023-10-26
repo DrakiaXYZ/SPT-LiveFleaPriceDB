@@ -1,9 +1,6 @@
 import * as fs from 'fs';
-import { mkdir, writeFile } from 'fs/promises';
 import { Readable } from 'stream';
 import { finished } from 'stream/promises';
-import * as path from 'path';
-
 import { request, gql } from 'graphql-request'
 
 /**
