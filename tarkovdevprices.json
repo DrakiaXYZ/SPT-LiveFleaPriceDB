@@ -159,8 +159,8 @@
         {
             "id": "5448be9a4bdc2dfd2f8b456a",
             "name": "RGD-5 hand grenade",
-            "avg24hPrice": 17977,
-            "changeLast48hPercent": -9.83,
+            "avg24hPrice": 18729,
+            "changeLast48hPercent": -6.05,
             "historicalPrices": [
                 {
                     "price": 15121,
@@ -279,8 +279,8 @@
         {
             "id": "5448fee04bdc2dbc018b4567",
             "name": "Bottle of water (0.6L)",
-            "avg24hPrice": 17749,
-            "changeLast48hPercent": 3.09,
+            "avg24hPrice": 18375,
+            "changeLast48hPercent": 6.72,
             "historicalPrices": [
                 {
                     "price": 16153,
@@ -383,7 +383,7 @@
             "id": "544909bb4bdc2d6f028b4577",
             "name": "AN/PEQ-15 tactical device",
             "avg24hPrice": 16024,
-            "changeLast48hPercent": -21.28,
+            "changeLast48hPercent": -22.34,
             "historicalPrices": [
                 {
                     "price": 16540,
@@ -431,7 +431,7 @@
             "id": "54491bb74bdc2d09088b4567",
             "name": "ER FULCRUM BAYONET",
             "avg24hPrice": 16377,
-            "changeLast48hPercent": -1.74,
+            "changeLast48hPercent": 4.45,
             "historicalPrices": [
                 {
                     "price": 16244,
@@ -478,8 +478,8 @@
         {
             "id": "54491c4f4bdc2db1078b4568",
             "name": "MP-133 12ga pump-action shotgun",
-            "avg24hPrice": 34541,
-            "changeLast48hPercent": 26.36,
+            "avg24hPrice": 31938,
+            "changeLast48hPercent": 1.74,
             "historicalPrices": [
                 {
                     "price": 30554,
@@ -588,8 +588,8 @@
         {
             "id": "544a38634bdc2d58388b4568",
             "name": "AR-15 Colt USGI A2 5.56x45 flash hider",
-            "avg24hPrice": 9475,
-            "changeLast48hPercent": 222.83,
+            "avg24hPrice": 8388,
+            "changeLast48hPercent": 185.79,
             "historicalPrices": [
                 {
                     "price": 5277,
@@ -636,8 +636,8 @@
         {
             "id": "544a3a774bdc2d3a388b4567",
             "name": "Leupold Mark 4 HAMR 4x24 DeltaPoint hybrid assault scope",
-            "avg24hPrice": 35631,
-            "changeLast48hPercent": -7.34,
+            "avg24hPrice": 35330,
+            "changeLast48hPercent": -7.03,
             "historicalPrices": [
                 {
                     "price": 39911,
@@ -787,8 +787,8 @@
         {
             "id": "544fb3364bdc2d34748b456a",
             "name": "Immobilizing splint",
-            "avg24hPrice": 5363,
-            "changeLast48hPercent": 10.17,
+            "avg24hPrice": 5438,
+            "changeLast48hPercent": 11.71,
             "historicalPrices": [
                 {
                     "price": 4282,
@@ -883,8 +883,8 @@
         {
             "id": "544fb3f34bdc2d03748b456a",
             "name": "Morphine injector",
-            "avg24hPrice": 16905,
-            "changeLast48hPercent": 1,
+            "avg24hPrice": 17178,
+            "changeLast48hPercent": 2.63,
             "historicalPrices": [
                 {
                     "price": 17509,
@@ -932,7 +932,7 @@
             "id": "544fb45d4bdc2dee738b4568",
             "name": "Salewa first aid kit",
             "avg24hPrice": 36950,
-            "changeLast48hPercent": 3.32,
+            "changeLast48hPercent": 4.04,
             "historicalPrices": [
                 {
                     "price": 36292,
@@ -980,7 +980,7 @@
             "id": "544fb5454bdc2df8738b456a",
             "name": "Leatherman Multitool",
             "avg24hPrice": 20677,
-            "changeLast48hPercent": -19.41,
+            "changeLast48hPercent": -18.96,
             "historicalPrices": [
                 {
                     "price": 22013,
@@ -1028,7 +1028,7 @@
             "id": "544fb62a4bdc2dfb738b4568",
             "name": "Pack of Russian Army pineapple juice",
             "avg24hPrice": 13397,
-            "changeLast48hPercent": -6.24,
+            "changeLast48hPercent": -5.01,
             "historicalPrices": [
                 {
                     "price": 13448,
@@ -1075,8 +1075,8 @@
         {
             "id": "544fb6cc4bdc2d34748b456e",
             "name": "Slickers chocolate bar",
-            "avg24hPrice": 12257,
-            "changeLast48hPercent": -1.71,
+            "avg24hPrice": 12207,
+            "changeLast48hPercent": -1.93,
             "historicalPrices": [
                 {
                     "price": 12193,
@@ -1288,8 +1288,8 @@
         {
             "id": "55801eed4bdc2d89578b4588",
             "name": "SV-98 7.62x54R bolt-action sniper rifle",
-            "avg24hPrice": 48079,
-            "changeLast48hPercent": 0.36,
+            "avg24hPrice": 48551,
+            "changeLast48hPercent": 1.34,
             "historicalPrices": [
                 {
                     "price": 52873,
@@ -1624,8 +1624,8 @@
         {
             "id": "55d355e64bdc2d962f8b4569",
             "name": "M4A1 5.56x45 upper receiver",
-            "avg24hPrice": 72221,
-            "changeLast48hPercent": 164.99,
+            "avg24hPrice": 54777,
+            "changeLast48hPercent": 100.98,
             "historicalPrices": [
                 {
                     "price": 35296,
@@ -1672,8 +1672,8 @@
         {
             "id": "55d35ee94bdc2d61338b4568",
             "name": "AR-15 5.56x45 260mm barrel",
-            "avg24hPrice": 23580,
-            "changeLast48hPercent": -5.45,
+            "avg24hPrice": 23248,
+            "changeLast48hPercent": -5.88,
             "historicalPrices": [
                 {
                     "price": 27006,
@@ -2186,7 +2186,7 @@
             "id": "55d484b44bdc2d1d4e8b456d",
             "name": "MP-133 12ga 6-shell magazine",
             "avg24hPrice": 19124,
-            "changeLast48hPercent": 30.72,
+            "changeLast48hPercent": 25.66,
             "historicalPrices": [
                 {
                     "price": 18980,
@@ -2377,8 +2377,8 @@
         {
             "id": "55d48a634bdc2d8b2f8b456a",
             "name": "Kiba Arms SPRM rail mount for pump-action shotguns",
-            "avg24hPrice": 42640,
-            "changeLast48hPercent": 16.38,
+            "avg24hPrice": 42081,
+            "changeLast48hPercent": 10.01,
             "historicalPrices": [
                 {
                     "price": 36514,
@@ -2425,8 +2425,8 @@
         {
             "id": "55d48ebc4bdc2d8c2f8b456c",
             "name": "Delta-Tek Sprut mount for pump-action shotguns",
-            "avg24hPrice": 22248,
-            "changeLast48hPercent": 225.9,
+            "avg24hPrice": 21610,
+            "changeLast48hPercent": 216.55,
             "historicalPrices": [
                 {
                     "price": 9885,
@@ -2473,8 +2473,8 @@
         {
             "id": "55d4ae6c4bdc2d8b2f8b456e",
             "name": "High Standard M4SS Stock",
-            "avg24hPrice": 15615,
-            "changeLast48hPercent": 32.63,
+            "avg24hPrice": 13237,
+            "changeLast48hPercent": -10.8,
             "historicalPrices": [
                 {
                     "price": 18925,
@@ -3200,7 +3200,7 @@
             "id": "5644bd2b4bdc2d3b4c8b4572",
             "name": "Kalashnikov AK-74N 5.45x39 assault rifle",
             "avg24hPrice": 38134,
-            "changeLast48hPercent": -10.42,
+            "changeLast48hPercent": -17.19,
             "historicalPrices": [
                 {
                     "price": 39240,
@@ -3295,8 +3295,8 @@
         {
             "id": "5645bcc04bdc2d363b8b4572",
             "name": "Peltor ComTac 2 headset",
-            "avg24hPrice": 42350,
-            "changeLast48hPercent": 7.53,
+            "avg24hPrice": 42220,
+            "changeLast48hPercent": 4.85,
             "historicalPrices": [
                 {
                     "price": 42133,
@@ -3391,8 +3391,8 @@
         {
             "id": "5648a7494bdc2d9d488b4583",
             "name": "PACA Soft Armor",
-            "avg24hPrice": 31926,
-            "changeLast48hPercent": -9.42,
+            "avg24hPrice": 31909,
+            "changeLast48hPercent": -9.71,
             "historicalPrices": [
                 {
                     "price": 31878,
@@ -3439,8 +3439,8 @@
         {
             "id": "5648ac824bdc2ded0b8b457d",
             "name": "AK Zenit RP-1 charging handle",
-            "avg24hPrice": 7253,
-            "changeLast48hPercent": -54.57,
+            "avg24hPrice": 6914,
+            "changeLast48hPercent": -55.04,
             "historicalPrices": [
                 {
                     "price": 13813,
@@ -3487,8 +3487,8 @@
         {
             "id": "5648ae314bdc2d3d1c8b457f",
             "name": "AK CAA RS47 handguard",
-            "avg24hPrice": 14864,
-            "changeLast48hPercent": -9.64,
+            "avg24hPrice": 14596,
+            "changeLast48hPercent": -11.27,
             "historicalPrices": [
                 {
                     "price": 12445,
@@ -4192,8 +4192,8 @@
         {
             "id": "564caa3d4bdc2d17108b458e",
             "name": "AK-74 TGP-A 5.45x39 sound suppressor",
-            "avg24hPrice": 39891,
-            "changeLast48hPercent": -6.05,
+            "avg24hPrice": 41125,
+            "changeLast48hPercent": -3.14,
             "historicalPrices": [
                 {
                     "price": 46156,
@@ -4288,8 +4288,8 @@
         {
             "id": "5656eb674bdc2d35148b457c",
             "name": "40mm VOG-25 grenade",
-            "avg24hPrice": 34826,
-            "changeLast48hPercent": -10.16,
+            "avg24hPrice": 33060,
+            "changeLast48hPercent": -18.9,
             "historicalPrices": [
                 {
                     "price": 39022,
@@ -4384,8 +4384,8 @@
         {
             "id": "5672c92d4bdc2d180f8b4567",
             "name": "Dorm room 118 key",
-            "avg24hPrice": 19577,
-            "changeLast48hPercent": 18.85,
+            "avg24hPrice": 20795,
+            "changeLast48hPercent": 30.31,
             "historicalPrices": [
                 {
                     "price": 14899,
@@ -4906,7 +4906,7 @@
         {
             "id": "56d5a1f7d2720bb3418b456a",
             "name": "P226 9x19 112mm barrel",
-            "avg24hPrice": 0,
+            "avg24hPrice": 12000,
             "changeLast48hPercent": 0,
             "historicalPrices": []
         },
@@ -5193,8 +5193,8 @@
         {
             "id": "56dfef82d2720bbd668b4567",
             "name": "5.45x39mm BP gs",
-            "avg24hPrice": 821,
-            "changeLast48hPercent": 4.11,
+            "avg24hPrice": 895,
+            "changeLast48hPercent": 13.5,
             "historicalPrices": [
                 {
                     "price": 983,
@@ -5459,8 +5459,8 @@
         {
             "id": "56dff421d2720b5f5a8b4567",
             "name": "5.45x39mm SP",
-            "avg24hPrice": 446,
-            "changeLast48hPercent": 652.29,
+            "avg24hPrice": 371,
+            "changeLast48hPercent": 525.78,
             "historicalPrices": [
                 {
                     "price": 443,
@@ -5748,7 +5748,7 @@
             "id": "56e335e4d2720b6c058b456d",
             "name": "Scav backpack",
             "avg24hPrice": 19331,
-            "changeLast48hPercent": -8.78,
+            "changeLast48hPercent": -10.44,
             "historicalPrices": [
                 {
                     "price": 16597,
@@ -5795,8 +5795,8 @@
         {
             "id": "56e33634d2720bd8058b456b",
             "name": "Duffle bag",
-            "avg24hPrice": 32341,
-            "changeLast48hPercent": -19.21,
+            "avg24hPrice": 31921,
+            "changeLast48hPercent": -20.26,
             "historicalPrices": [
                 {
                     "price": 49190,
@@ -5939,8 +5939,8 @@
         {
             "id": "56ea70acd2720b844b8b4594",
             "name": "Hensoldt FF 4-16x56 34mm riflescope",
-            "avg24hPrice": 35737,
-            "changeLast48hPercent": -5.31,
+            "avg24hPrice": 35852,
+            "changeLast48hPercent": -5,
             "historicalPrices": [
                 {
                     "price": 34836,
@@ -6036,7 +6036,7 @@
             "id": "56ea7293d2720b8d4b8b45ba",
             "name": "P226 Sight Mount 220-239 rear sight bearing",
             "avg24hPrice": 6429,
-            "changeLast48hPercent": -1.74,
+            "changeLast48hPercent": 7.39,
             "historicalPrices": [
                 {
                     "price": 5851,
@@ -6132,7 +6132,7 @@
             "id": "56ea8222d2720b69698b4567",
             "name": "SV-98 bipod",
             "avg24hPrice": 10914,
-            "changeLast48hPercent": -8.32,
+            "changeLast48hPercent": -9.83,
             "historicalPrices": [
                 {
                     "price": 13195,
@@ -6515,8 +6515,8 @@
         {
             "id": "571659bb2459771fb2755a12",
             "name": "AR-15 Damage Industries ECS pistol grip (FDE)",
-            "avg24hPrice": 7196,
-            "changeLast48hPercent": -18.43,
+            "avg24hPrice": 6996,
+            "changeLast48hPercent": -20.7,
             "historicalPrices": [
                 {
                     "price": 4710,
@@ -6747,7 +6747,7 @@
             "id": "57235b6f24597759bf5a30f1",
             "name": "AN/PVS-14 Night Vision Monocular",
             "avg24hPrice": 64020,
-            "changeLast48hPercent": -0.59,
+            "changeLast48hPercent": 1.07,
             "historicalPrices": [
                 {
                     "price": 59958,
@@ -6842,8 +6842,8 @@
         {
             "id": "572b7d8524597762b472f9d1",
             "name": "Baseball cap",
-            "avg24hPrice": 15499,
-            "changeLast48hPercent": -16.72,
+            "avg24hPrice": 16142,
+            "changeLast48hPercent": -13.27,
             "historicalPrices": [
                 {
                     "price": 12691,
@@ -6890,8 +6890,8 @@
         {
             "id": "572b7f1624597762ae139822",
             "name": "Balaclava",
-            "avg24hPrice": 6745,
-            "changeLast48hPercent": 13.69,
+            "avg24hPrice": 6842,
+            "changeLast48hPercent": 10.58,
             "historicalPrices": [
                 {
                     "price": 4263,
@@ -6986,8 +6986,8 @@
         {
             "id": "572b7fa524597762b747ce82",
             "name": "Lower half-mask",
-            "avg24hPrice": 10642,
-            "changeLast48hPercent": -18.24,
+            "avg24hPrice": 10619,
+            "changeLast48hPercent": -16.84,
             "historicalPrices": [
                 {
                     "price": 9397,
@@ -7042,7 +7042,7 @@
             "id": "5733279d245977289b77ec24",
             "name": "Car battery",
             "avg24hPrice": 48122,
-            "changeLast48hPercent": 2.6,
+            "changeLast48hPercent": 0.41,
             "historicalPrices": [
                 {
                     "price": 44706,
@@ -7330,7 +7330,7 @@
             "id": "5734770f24597738025ee254",
             "name": "Strike Cigarettes",
             "avg24hPrice": 20940,
-            "changeLast48hPercent": -7.89,
+            "changeLast48hPercent": 2.43,
             "historicalPrices": [
                 {
                     "price": 9014,
@@ -7521,8 +7521,8 @@
         {
             "id": "5734781f24597737e04bf32a",
             "name": "DVD drive",
-            "avg24hPrice": 22904,
-            "changeLast48hPercent": -7.32,
+            "avg24hPrice": 22767,
+            "changeLast48hPercent": -7.88,
             "historicalPrices": [
                 {
                     "price": 30085,
@@ -7906,7 +7906,7 @@
             "id": "57347c77245977448d35f6e2",
             "name": "Screw nuts",
             "avg24hPrice": 26183,
-            "changeLast48hPercent": -27.77,
+            "changeLast48hPercent": -35.73,
             "historicalPrices": [
                 {
                     "price": 20905,
@@ -7953,8 +7953,8 @@
         {
             "id": "57347c93245977448d35f6e3",
             "name": "Toothpaste",
-            "avg24hPrice": 38081,
-            "changeLast48hPercent": 7.59,
+            "avg24hPrice": 37927,
+            "changeLast48hPercent": 7.16,
             "historicalPrices": [
                 {
                     "price": 17702,
@@ -8001,8 +8001,8 @@
         {
             "id": "57347ca924597744596b4e71",
             "name": "Graphics card",
-            "avg24hPrice": 210781,
-            "changeLast48hPercent": -20.64,
+            "avg24hPrice": 224674,
+            "changeLast48hPercent": -15.41,
             "historicalPrices": [
                 {
                     "price": 245046,
@@ -8050,7 +8050,7 @@
             "id": "57347cd0245977445a2d6ff1",
             "name": "T-Shaped plug",
             "avg24hPrice": 16309,
-            "changeLast48hPercent": -7.75,
+            "changeLast48hPercent": -13.28,
             "historicalPrices": [
                 {
                     "price": 20424,
@@ -8097,8 +8097,8 @@
         {
             "id": "57347d3d245977448f7b7f61",
             "name": "Rye croutons",
-            "avg24hPrice": 19031,
-            "changeLast48hPercent": -29.94,
+            "avg24hPrice": 19491,
+            "changeLast48hPercent": -21.54,
             "historicalPrices": [
                 {
                     "price": 29021,
@@ -8145,8 +8145,8 @@
         {
             "id": "57347d5f245977448b40fa81",
             "name": "Can of humpback salmon",
-            "avg24hPrice": 19597,
-            "changeLast48hPercent": 9.12,
+            "avg24hPrice": 19103,
+            "changeLast48hPercent": 6.37,
             "historicalPrices": [
                 {
                     "price": 21138,
@@ -8194,7 +8194,7 @@
             "id": "57347d692459774491567cf1",
             "name": "Can of green peas",
             "avg24hPrice": 17871,
-            "changeLast48hPercent": -20.31,
+            "changeLast48hPercent": -16.5,
             "historicalPrices": [
                 {
                     "price": 41365,
@@ -8241,8 +8241,8 @@
         {
             "id": "57347d7224597744596b4e72",
             "name": "Can of beef stew (Small)",
-            "avg24hPrice": 14678,
-            "changeLast48hPercent": -7.52,
+            "avg24hPrice": 14990,
+            "changeLast48hPercent": -5.56,
             "historicalPrices": [
                 {
                     "price": 16703,
@@ -8385,8 +8385,8 @@
         {
             "id": "57347d9c245977448b40fa85",
             "name": "Can of herring",
-            "avg24hPrice": 23430,
-            "changeLast48hPercent": -11.36,
+            "avg24hPrice": 25257,
+            "changeLast48hPercent": 1.32,
             "historicalPrices": [
                 {
                     "price": 21283,
@@ -8704,7 +8704,7 @@
             "id": "57371aab2459775a77142f22",
             "name": "9x18mm PMM PstM gzh",
             "avg24hPrice": 239,
-            "changeLast48hPercent": -5.85,
+            "changeLast48hPercent": -16.1,
             "historicalPrices": [
                 {
                     "price": 185,
@@ -8864,7 +8864,7 @@
             "id": "57371f2b24597761224311f1",
             "name": "9x18mm PM PS gs PPO",
             "avg24hPrice": 194,
-            "changeLast48hPercent": -81.26,
+            "changeLast48hPercent": -83.48,
             "historicalPrices": [
                 {
                     "price": 190,
@@ -9148,7 +9148,7 @@
             "id": "573722e82459776104581c21",
             "name": "9x18mm PM BZhT gzh ammo pack (16 pcs)",
             "avg24hPrice": 17500,
-            "changeLast48hPercent": -65.3,
+            "changeLast48hPercent": -57.42,
             "historicalPrices": [
                 {
                     "price": 90400,
@@ -9464,7 +9464,7 @@
             "id": "573728cc24597765cc785b5d",
             "name": "9x18mm PM SP7 gzh ammo pack (16 pcs)",
             "avg24hPrice": 29329,
-            "changeLast48hPercent": -21.4,
+            "changeLast48hPercent": -15.22,
             "historicalPrices": [
                 {
                     "price": 100000,
@@ -9608,7 +9608,7 @@
             "id": "57372ac324597767001bc261",
             "name": "5.45x39mm BP gs ammo pack (30 pcs)",
             "avg24hPrice": 26246,
-            "changeLast48hPercent": -43.86,
+            "changeLast48hPercent": -46.44,
             "historicalPrices": [
                 {
                     "price": 36610,
@@ -10184,7 +10184,7 @@
             "id": "574d967124597745970e7c94",
             "name": "Simonov SKS 7.62x39 carbine",
             "avg24hPrice": 23044,
-            "changeLast48hPercent": -26.59,
+            "changeLast48hPercent": -25.3,
             "historicalPrices": [
                 {
                     "price": 41966,
@@ -10383,8 +10383,8 @@
         {
             "id": "575062b524597720a31c09a1",
             "name": "Can of Ice Green tea",
-            "avg24hPrice": 13039,
-            "changeLast48hPercent": 0.03,
+            "avg24hPrice": 12988,
+            "changeLast48hPercent": -0.36,
             "historicalPrices": [
                 {
                     "price": 14365,
@@ -10432,7 +10432,7 @@
             "id": "57513f07245977207e26a311",
             "name": "Pack of apple juice",
             "avg24hPrice": 12351,
-            "changeLast48hPercent": -4.46,
+            "changeLast48hPercent": -2.35,
             "historicalPrices": [
                 {
                     "price": 11917,
@@ -10672,7 +10672,7 @@
             "id": "575146b724597720a27126d5",
             "name": "Pack of milk",
             "avg24hPrice": 21679,
-            "changeLast48hPercent": -21.4,
+            "changeLast48hPercent": -18.86,
             "historicalPrices": [
                 {
                     "price": 39842,
@@ -10720,7 +10720,7 @@
             "id": "5751487e245977207e26a315",
             "name": "Emelya rye croutons",
             "avg24hPrice": 13309,
-            "changeLast48hPercent": -2.89,
+            "changeLast48hPercent": 4.38,
             "historicalPrices": [
                 {
                     "price": 12811,
@@ -11186,8 +11186,8 @@
         {
             "id": "576a581d2459771e7b1bc4f1",
             "name": "Yarygin MP-443 \"Grach\" 9x19 pistol",
-            "avg24hPrice": 12570,
-            "changeLast48hPercent": -14.03,
+            "avg24hPrice": 12824,
+            "changeLast48hPercent": -12.3,
             "historicalPrices": [
                 {
                     "price": 10970,
@@ -11374,8 +11374,8 @@
         {
             "id": "576fd4ec2459777f0b518431",
             "name": "BelOMO PSO-1M2-1 4x24 scope",
-            "avg24hPrice": 18016,
-            "changeLast48hPercent": 10.13,
+            "avg24hPrice": 18600,
+            "changeLast48hPercent": 13.7,
             "historicalPrices": [
                 {
                     "price": 16802,
@@ -11518,8 +11518,8 @@
         {
             "id": "577e1c9d2459773cd707c525",
             "name": "Printer paper",
-            "avg24hPrice": 29197,
-            "changeLast48hPercent": -22.04,
+            "avg24hPrice": 30400,
+            "changeLast48hPercent": -18.83,
             "historicalPrices": [
                 {
                     "price": 28165,
@@ -11902,8 +11902,8 @@
         {
             "id": "5780d0532459777a5108b9a2",
             "name": "Tarcone Director's office key",
-            "avg24hPrice": 46045,
-            "changeLast48hPercent": 3.49,
+            "avg24hPrice": 47866,
+            "changeLast48hPercent": 6.46,
             "historicalPrices": [
                 {
                     "price": 51005,
@@ -11999,7 +11999,7 @@
             "id": "5780d07a2459777de4559324",
             "name": "Portable cabin key",
             "avg24hPrice": 41357,
-            "changeLast48hPercent": 26.18,
+            "changeLast48hPercent": 16.16,
             "historicalPrices": [
                 {
                     "price": 62729,
@@ -12197,8 +12197,8 @@
         {
             "id": "57838f9f2459774a150289a0",
             "name": "VSS 9x39 6L25 20-round magazine",
-            "avg24hPrice": 24058,
-            "changeLast48hPercent": 11.09,
+            "avg24hPrice": 22962,
+            "changeLast48hPercent": -1.88,
             "historicalPrices": [
                 {
                     "price": 51262,
@@ -13036,8 +13036,8 @@
         {
             "id": "57c44dd02459772d2e0ae249",
             "name": "AS VAL 9x39 integral barrel-suppressor",
-            "avg24hPrice": 68974,
-            "changeLast48hPercent": -27.4,
+            "avg24hPrice": 61509,
+            "changeLast48hPercent": -35.25,
             "historicalPrices": [
                 {
                     "price": 100000,
@@ -13340,8 +13340,8 @@
         {
             "id": "57c55f112459772d28133310",
             "name": "Hogue OverMolded Rubber Grip (Ghillie Green)",
-            "avg24hPrice": 14462,
-            "changeLast48hPercent": -24.02,
+            "avg24hPrice": 14380,
+            "changeLast48hPercent": -25.7,
             "historicalPrices": [
                 {
                     "price": 15932,
@@ -14020,7 +14020,7 @@
             "id": "57d14d2524597714373db789",
             "name": "PP-91 \"Kedr\" 9x18PM submachine gun",
             "avg24hPrice": 18987,
-            "changeLast48hPercent": -13.77,
+            "changeLast48hPercent": -9.87,
             "historicalPrices": [
                 {
                     "price": 19560,
@@ -14568,7 +14568,7 @@
             "id": "57e26ea924597715ca604a09",
             "name": "Bars A-2607 Damascus knife",
             "avg24hPrice": 21806,
-            "changeLast48hPercent": 70.44,
+            "changeLast48hPercent": 63,
             "historicalPrices": [
                 {
                     "price": 17080,
@@ -14779,8 +14779,8 @@
         {
             "id": "57f3c6bd24597738e730fa2f",
             "name": "PP-91-01 \"Kedr-B\" 9x18PM submachine gun",
-            "avg24hPrice": 46499,
-            "changeLast48hPercent": -4.78,
+            "avg24hPrice": 47443,
+            "changeLast48hPercent": -2.85,
             "historicalPrices": [
                 {
                     "price": 39945,
@@ -14899,8 +14899,8 @@
         {
             "id": "57f4c844245977379d5c14d1",
             "name": "PP-9 \"Klin\" 9x18PMM submachine gun",
-            "avg24hPrice": 16756,
-            "changeLast48hPercent": -28.63,
+            "avg24hPrice": 16657,
+            "changeLast48hPercent": -29.06,
             "historicalPrices": [
                 {
                     "price": 16735,
@@ -15092,7 +15092,7 @@
             "id": "57ffb0062459777a045af529",
             "name": "AKS-74U Zenit B-18 Mount",
             "avg24hPrice": 7118,
-            "changeLast48hPercent": -19.45,
+            "changeLast48hPercent": -26.61,
             "historicalPrices": [
                 {
                     "price": 7976,
@@ -15140,7 +15140,7 @@
             "id": "57ffb0e42459777d047111c5",
             "name": "AKS-74U PBS-4 5.45x39 sound suppressor",
             "avg24hPrice": 25814,
-            "changeLast48hPercent": -2.74,
+            "changeLast48hPercent": -0.44,
             "historicalPrices": [
                 {
                     "price": 32623,
@@ -15284,7 +15284,7 @@
             "id": "58272b842459774abc128d50",
             "name": "SOK-12 CSS rear sight rail mount",
             "avg24hPrice": 14369,
-            "changeLast48hPercent": -27.61,
+            "changeLast48hPercent": -34.21,
             "historicalPrices": [
                 {
                     "price": 11576,
@@ -15483,7 +15483,7 @@
             "id": "5841474424597759ba49be91",
             "name": "Kalashnikov AK-74N 5.45x39 assault rifle Default",
             "avg24hPrice": 38134,
-            "changeLast48hPercent": -10.42,
+            "changeLast48hPercent": -17.19,
             "historicalPrices": []
         },
         {
@@ -15517,15 +15517,15 @@
         {
             "id": "584148a524597759eb357a44",
             "name": "Yarygin MP-443 \"Grach\" 9x19 pistol Default",
-            "avg24hPrice": 12570,
-            "changeLast48hPercent": -14.03,
+            "avg24hPrice": 12824,
+            "changeLast48hPercent": -12.3,
             "historicalPrices": []
         },
         {
             "id": "584148f2245977598f1ad387",
             "name": "MP-133 12ga pump-action shotgun Default",
-            "avg24hPrice": 34541,
-            "changeLast48hPercent": 26.36,
+            "avg24hPrice": 31938,
+            "changeLast48hPercent": 1.74,
             "historicalPrices": []
         },
         {
@@ -15566,22 +15566,22 @@
         {
             "id": "584149ad2459775a7726350e",
             "name": "PP-9 \"Klin\" 9x18PMM submachine gun Default",
-            "avg24hPrice": 16756,
-            "changeLast48hPercent": -28.63,
+            "avg24hPrice": 16657,
+            "changeLast48hPercent": -29.06,
             "historicalPrices": []
         },
         {
             "id": "584149c42459775a77263510",
             "name": "PP-91 \"Kedr\" 9x18PM submachine gun Default",
             "avg24hPrice": 18987,
-            "changeLast48hPercent": -13.77,
+            "changeLast48hPercent": -9.87,
             "historicalPrices": []
         },
         {
             "id": "584149ea2459775a6c55e940",
             "name": "PP-91-01 \"Kedr-B\" 9x18PM submachine gun Default",
-            "avg24hPrice": 46499,
-            "changeLast48hPercent": -4.78,
+            "avg24hPrice": 47443,
+            "changeLast48hPercent": -2.85,
             "historicalPrices": []
         },
         {
@@ -15594,8 +15594,8 @@
         {
             "id": "58414a16245977599247970a",
             "name": "SV-98 7.62x54R bolt-action sniper rifle Default",
-            "avg24hPrice": 48079,
-            "changeLast48hPercent": 0.36,
+            "avg24hPrice": 48551,
+            "changeLast48hPercent": 1.34,
             "historicalPrices": []
         },
         {
@@ -16448,7 +16448,7 @@
             "id": "5888945a2459774bf43ba385",
             "name": "DVL-10 7.62x51 500mm barrel",
             "avg24hPrice": 43306,
-            "changeLast48hPercent": -14.62,
+            "changeLast48hPercent": -8.37,
             "historicalPrices": [
                 {
                     "price": 42023,
@@ -16927,8 +16927,8 @@
         {
             "id": "58949dea86f77409483e16a8",
             "name": "MPX A2 9x19 flash hider",
-            "avg24hPrice": 29499,
-            "changeLast48hPercent": 883.3,
+            "avg24hPrice": 28499,
+            "changeLast48hPercent": 849.97,
             "historicalPrices": [
                 {
                     "price": 61518,
@@ -17190,8 +17190,8 @@
         {
             "id": "5894a51286f77426d13baf02",
             "name": "MPX pistol grip",
-            "avg24hPrice": 11240,
-            "changeLast48hPercent": -19.75,
+            "avg24hPrice": 10378,
+            "changeLast48hPercent": -34.51,
             "historicalPrices": [
                 {
                     "price": 7000,
@@ -17608,8 +17608,8 @@
         {
             "id": "58d2664f86f7747fec5834f6",
             "name": "DeltaPoint Cross Slot Mount base",
-            "avg24hPrice": 28443,
-            "changeLast48hPercent": 13.41,
+            "avg24hPrice": 32544,
+            "changeLast48hPercent": 29.77,
             "historicalPrices": [
                 {
                     "price": 28078,
@@ -17849,7 +17849,7 @@
             "id": "58d2947686f774485c6a1ee5",
             "name": "Magpul MOE Carbine stock (Olive Drab)",
             "avg24hPrice": 11139,
-            "changeLast48hPercent": -9.24,
+            "changeLast48hPercent": -11.73,
             "historicalPrices": [
                 {
                     "price": 9640,
@@ -17945,7 +17945,7 @@
             "id": "58d399e486f77442e0016fe7",
             "name": "Aimpoint Micro T-1 reflex sight",
             "avg24hPrice": 24790,
-            "changeLast48hPercent": -3.42,
+            "changeLast48hPercent": 1.43,
             "historicalPrices": [
                 {
                     "price": 21201,
@@ -17992,8 +17992,8 @@
         {
             "id": "58d39b0386f77443380bf13c",
             "name": "Aimpoint Micro Spacer High",
-            "avg24hPrice": 8308,
-            "changeLast48hPercent": -16.02,
+            "avg24hPrice": 4499,
+            "changeLast48hPercent": -53.03,
             "historicalPrices": [
                 {
                     "price": 9628,
@@ -18158,7 +18158,7 @@
             "id": "58dffce486f77409f40f8162",
             "name": "Simonov SKS 7.62x39 carbine Default",
             "avg24hPrice": 23044,
-            "changeLast48hPercent": -26.59,
+            "changeLast48hPercent": -25.3,
             "historicalPrices": []
         },
         {
@@ -18268,7 +18268,7 @@
             "id": "590a358486f77429692b2790",
             "name": "Rechargeable battery",
             "avg24hPrice": 11684,
-            "changeLast48hPercent": 0.97,
+            "changeLast48hPercent": 2.84,
             "historicalPrices": [
                 {
                     "price": 11607,
@@ -18459,8 +18459,8 @@
         {
             "id": "590a3b0486f7743954552bdb",
             "name": "Printed circuit board",
-            "avg24hPrice": 19839,
-            "changeLast48hPercent": -9.19,
+            "avg24hPrice": 20239,
+            "changeLast48hPercent": -7.36,
             "historicalPrices": [
                 {
                     "price": 29843,
@@ -18844,7 +18844,7 @@
             "id": "590c2e1186f77425357b6124",
             "name": "Toolset",
             "avg24hPrice": 43065,
-            "changeLast48hPercent": 11.28,
+            "changeLast48hPercent": 12.46,
             "historicalPrices": [
                 {
                     "price": 50979,
@@ -19083,8 +19083,8 @@
         {
             "id": "590c37d286f77443be3d7827",
             "name": "SAS drive",
-            "avg24hPrice": 45917,
-            "changeLast48hPercent": 0.21,
+            "avg24hPrice": 45766,
+            "changeLast48hPercent": -0.12,
             "historicalPrices": [
                 {
                     "price": 45752,
@@ -19132,7 +19132,7 @@
             "id": "590c392f86f77444754deb29",
             "name": "SSD drive",
             "avg24hPrice": 39967,
-            "changeLast48hPercent": 0.4,
+            "changeLast48hPercent": 0.52,
             "historicalPrices": [
                 {
                     "price": 39916,
@@ -19323,8 +19323,8 @@
         {
             "id": "590c5c9f86f77477c91c36e7",
             "name": "WD-40 (400ml)",
-            "avg24hPrice": 15931,
-            "changeLast48hPercent": -0.85,
+            "avg24hPrice": 16094,
+            "changeLast48hPercent": 0.16,
             "historicalPrices": [
                 {
                     "price": 15102,
@@ -19420,7 +19420,7 @@
             "id": "590c5f0d86f77413997acfab",
             "name": "MRE ration pack",
             "avg24hPrice": 24637,
-            "changeLast48hPercent": 8.19,
+            "changeLast48hPercent": 14.6,
             "historicalPrices": [
                 {
                     "price": 22069,
@@ -19611,8 +19611,8 @@
         {
             "id": "590c645c86f77412b01304d9",
             "name": "Diary",
-            "avg24hPrice": 38246,
-            "changeLast48hPercent": 7.46,
+            "avg24hPrice": 38649,
+            "changeLast48hPercent": 8.6,
             "historicalPrices": [
                 {
                     "price": 33983,
@@ -19899,8 +19899,8 @@
         {
             "id": "590de71386f774347051a052",
             "name": "Antique teapot",
-            "avg24hPrice": 33788,
-            "changeLast48hPercent": -1.26,
+            "avg24hPrice": 33588,
+            "changeLast48hPercent": -1.86,
             "historicalPrices": [
                 {
                     "price": 32567,
@@ -20139,8 +20139,8 @@
         {
             "id": "5913651986f774432f15d132",
             "name": "VAZ car key",
-            "avg24hPrice": 17971,
-            "changeLast48hPercent": 19.11,
+            "avg24hPrice": 18291,
+            "changeLast48hPercent": 17.83,
             "historicalPrices": [
                 {
                     "price": 10099,
@@ -20283,8 +20283,8 @@
         {
             "id": "59136f6f86f774447a1ed173",
             "name": "Folding car key",
-            "avg24hPrice": 12734,
-            "changeLast48hPercent": -29.87,
+            "avg24hPrice": 12195,
+            "changeLast48hPercent": -28.84,
             "historicalPrices": [
                 {
                     "price": 14716,
@@ -20859,8 +20859,8 @@
         {
             "id": "591afe0186f77431bd616a11",
             "name": "ZB-014 key",
-            "avg24hPrice": 19975,
-            "changeLast48hPercent": -14.53,
+            "avg24hPrice": 20630,
+            "changeLast48hPercent": -11.73,
             "historicalPrices": [
                 {
                     "price": 18270,
@@ -21035,8 +21035,8 @@
         {
             "id": "5926bb2186f7744b1c6c6e60",
             "name": "HK MP5 9x19 submachine gun (Navy 3 Round Burst)",
-            "avg24hPrice": 31125,
-            "changeLast48hPercent": -15.26,
+            "avg24hPrice": 32179,
+            "changeLast48hPercent": -12.39,
             "historicalPrices": [
                 {
                     "price": 34575,
@@ -21199,8 +21199,8 @@
         {
             "id": "5926c3b286f774640d189b6b",
             "name": "HK MP5 9x19 30-round magazine",
-            "avg24hPrice": 19199,
-            "changeLast48hPercent": -6.06,
+            "avg24hPrice": 22563,
+            "changeLast48hPercent": 10.4,
             "historicalPrices": [
                 {
                     "price": 17864,
@@ -21538,8 +21538,8 @@
         {
             "id": "5926f34786f77469195bfe92",
             "name": "HK MP5SD polymer handguard",
-            "avg24hPrice": 66127,
-            "changeLast48hPercent": 33.52,
+            "avg24hPrice": 64829,
+            "changeLast48hPercent": 30.89,
             "historicalPrices": [
                 {
                     "price": 43099,
@@ -21690,7 +21690,7 @@
             "id": "5938144586f77473c2087145",
             "name": "Portable bunkhouse key",
             "avg24hPrice": 113990,
-            "changeLast48hPercent": 18.17,
+            "changeLast48hPercent": 13.25,
             "historicalPrices": [
                 {
                     "price": 94224,
@@ -21985,7 +21985,7 @@
             "id": "593aa4be86f77457f56379f8",
             "name": "Dorm room 303 key",
             "avg24hPrice": 15310,
-            "changeLast48hPercent": 2.77,
+            "changeLast48hPercent": -0.59,
             "historicalPrices": [
                 {
                     "price": 16575,
@@ -22081,7 +22081,7 @@
             "id": "593d489686f7745c6255d58a",
             "name": "AKM Hexagon 7.62x39 sound suppressor",
             "avg24hPrice": 25400,
-            "changeLast48hPercent": -3.29,
+            "changeLast48hPercent": -2.96,
             "historicalPrices": [
                 {
                     "price": 25000,
@@ -22128,8 +22128,8 @@
         {
             "id": "593d490386f7745ee97a1555",
             "name": "SKS Hexagon 7.62x39 sound suppressor",
-            "avg24hPrice": 29666,
-            "changeLast48hPercent": -9.71,
+            "avg24hPrice": 30014,
+            "changeLast48hPercent": -8.65,
             "historicalPrices": [
                 {
                     "price": 29395,
@@ -22224,8 +22224,8 @@
         {
             "id": "59411aa786f7747aeb37f9a5",
             "name": "HK MP5 9x19 submachine gun (Navy 3 Round Burst) Default",
-            "avg24hPrice": 31125,
-            "changeLast48hPercent": -15.26,
+            "avg24hPrice": 32179,
+            "changeLast48hPercent": -12.39,
             "historicalPrices": []
         },
         {
@@ -22246,7 +22246,7 @@
             "id": "5943ee5a86f77413872d25ec",
             "name": "AR-15 PWS CQB 5.56x45 muzzle brake",
             "avg24hPrice": 18526,
-            "changeLast48hPercent": -13.19,
+            "changeLast48hPercent": -2.72,
             "historicalPrices": [
                 {
                     "price": 18632,
@@ -23130,8 +23130,8 @@
         {
             "id": "59bfc5c886f7743bf6794e62",
             "name": "PP-19-01 \"Vityaz\" 9x19 sound suppressor",
-            "avg24hPrice": 18943,
-            "changeLast48hPercent": -7.42,
+            "avg24hPrice": 17702,
+            "changeLast48hPercent": -13.58,
             "historicalPrices": [
                 {
                     "price": 16623,
@@ -24071,8 +24071,8 @@
         {
             "id": "59db7e1086f77448be30ddf3",
             "name": "Trijicon ACOG TA11D 3.5x35 scope",
-            "avg24hPrice": 26603,
-            "changeLast48hPercent": 1.94,
+            "avg24hPrice": 26848,
+            "changeLast48hPercent": 2.88,
             "historicalPrices": [
                 {
                     "price": 25345,
@@ -24174,8 +24174,8 @@
         {
             "id": "59e0bdb186f774156f04ce82",
             "name": "Vltor CASV KeyMod 2 inch rail",
-            "avg24hPrice": 32289,
-            "changeLast48hPercent": -3.16,
+            "avg24hPrice": 35647,
+            "changeLast48hPercent": 12.78,
             "historicalPrices": [
                 {
                     "price": 35971,
@@ -24222,8 +24222,8 @@
         {
             "id": "59e0be5d86f7742d48765bd2",
             "name": "Vltor CASV KeyMod 4 inch rail",
-            "avg24hPrice": 20780,
-            "changeLast48hPercent": 23,
+            "avg24hPrice": 20315,
+            "changeLast48hPercent": 20.24,
             "historicalPrices": [
                 {
                     "price": 16861,
@@ -24661,8 +24661,8 @@
         {
             "id": "59e35ef086f7741777737012",
             "name": "Pack of screws",
-            "avg24hPrice": 19449,
-            "changeLast48hPercent": 18.98,
+            "avg24hPrice": 18744,
+            "changeLast48hPercent": 14.67,
             "historicalPrices": [
                 {
                     "price": 18015,
@@ -25045,8 +25045,8 @@
         {
             "id": "59e4cf5286f7741778269d8a",
             "name": "7.62x39mm T-45M1 gzh",
-            "avg24hPrice": 0,
-            "changeLast48hPercent": 0,
+            "avg24hPrice": 111,
+            "changeLast48hPercent": -66.87,
             "historicalPrices": [
                 {
                     "price": 15256,
@@ -25189,8 +25189,8 @@
         {
             "id": "59e5d83b86f7745aed03d262",
             "name": "AK 7.62x39 ribbed metal 10-round magazine",
-            "avg24hPrice": 2000,
-            "changeLast48hPercent": 8,
+            "avg24hPrice": 1665,
+            "changeLast48hPercent": -10.09,
             "historicalPrices": [
                 {
                     "price": 1097,
@@ -25285,8 +25285,8 @@
         {
             "id": "59e6152586f77473dc057aa1",
             "name": "Molot VPO-136 \"Vepr-KM\" 7.62x39 carbine",
-            "avg24hPrice": 36374,
-            "changeLast48hPercent": 15.36,
+            "avg24hPrice": 40483,
+            "changeLast48hPercent": 22.86,
             "historicalPrices": [
                 {
                     "price": 687633,
@@ -25445,7 +25445,7 @@
         {
             "id": "59e6542b86f77411dc52a77a",
             "name": ".366 TKM FMJ",
-            "avg24hPrice": 50,
+            "avg24hPrice": 0,
             "changeLast48hPercent": 0,
             "historicalPrices": [
                 {
@@ -25481,8 +25481,8 @@
         {
             "id": "59e655cb86f77411dc52a77b",
             "name": ".366 TKM EKO",
-            "avg24hPrice": 151,
-            "changeLast48hPercent": 2.72,
+            "avg24hPrice": 111,
+            "changeLast48hPercent": -24.49,
             "historicalPrices": [
                 {
                     "price": 162,
@@ -25602,7 +25602,7 @@
             "id": "59e68f6f86f7746c9f75e846",
             "name": "5.56x45mm M856",
             "avg24hPrice": 772,
-            "changeLast48hPercent": 3.23,
+            "changeLast48hPercent": 35.18,
             "historicalPrices": [
                 {
                     "price": 755,
@@ -25663,8 +25663,8 @@
         {
             "id": "59e6918f86f7746c9f75e849",
             "name": "5.56x45mm MK 255 Mod 0 (RRLP)",
-            "avg24hPrice": 216,
-            "changeLast48hPercent": -51.88,
+            "avg24hPrice": 190,
+            "changeLast48hPercent": -61.25,
             "historicalPrices": [
                 {
                     "price": 483,
@@ -25803,8 +25803,8 @@
         {
             "id": "59e7635f86f7742cbf2c1095",
             "name": "BNTI Module-3M body armor",
-            "avg24hPrice": 24887,
-            "changeLast48hPercent": -22.5,
+            "avg24hPrice": 23776,
+            "changeLast48hPercent": -23.23,
             "historicalPrices": [
                 {
                     "price": 21271,
@@ -25858,8 +25858,8 @@
         {
             "id": "59e7643b86f7742cbf2c109a",
             "name": "WARTECH TV-109 + TV-106 chest rig",
-            "avg24hPrice": 12349,
-            "changeLast48hPercent": 9.26,
+            "avg24hPrice": 15125,
+            "changeLast48hPercent": 38.72,
             "historicalPrices": [
                 {
                     "price": 14211,
@@ -26050,8 +26050,8 @@
         {
             "id": "59e7711e86f7746cae05fbe1",
             "name": "Kolpak-1S riot helmet",
-            "avg24hPrice": 15000,
-            "changeLast48hPercent": -13.98,
+            "avg24hPrice": 14814,
+            "changeLast48hPercent": -15.05,
             "historicalPrices": [
                 {
                     "price": 23100,
@@ -26146,8 +26146,8 @@
         {
             "id": "59e77a2386f7742ee578960a",
             "name": "7.62x54mm R PS gzh",
-            "avg24hPrice": 1777,
-            "changeLast48hPercent": 2.05,
+            "avg24hPrice": 1787,
+            "changeLast48hPercent": 2.62,
             "historicalPrices": [
                 {
                     "price": 1745,
@@ -26287,8 +26287,8 @@
         {
             "id": "59eb7ebe86f7740b373438ce",
             "name": "VSS/VAL TOZ 6P29M mount",
-            "avg24hPrice": 156121,
-            "changeLast48hPercent": 5.58,
+            "avg24hPrice": 170522,
+            "changeLast48hPercent": 15.32,
             "historicalPrices": [
                 {
                     "price": 115962,
@@ -26336,7 +26336,7 @@
             "id": "59ecc28286f7746d7a68aa8c",
             "name": "AKS-74/AKS-74U Zenit PT Lock",
             "avg24hPrice": 38472,
-            "changeLast48hPercent": 9.74,
+            "changeLast48hPercent": -3.45,
             "historicalPrices": [
                 {
                     "price": 66666,
@@ -26486,8 +26486,8 @@
         {
             "id": "59ef24b986f77439987b8762",
             "name": "Molot VPO-136 \"Vepr-KM\" 7.62x39 carbine Default",
-            "avg24hPrice": 36374,
-            "changeLast48hPercent": 15.36,
+            "avg24hPrice": 40483,
+            "changeLast48hPercent": 22.86,
             "historicalPrices": []
         },
         {
@@ -26555,8 +26555,8 @@
         {
             "id": "59f98b4986f7746f546d2cef",
             "name": "Serdyukov SR-1MP Gyurza 9x21 pistol",
-            "avg24hPrice": 19682,
-            "changeLast48hPercent": 2.95,
+            "avg24hPrice": 19572,
+            "changeLast48hPercent": 2.38,
             "historicalPrices": [
                 {
                     "price": 12628,
@@ -26796,7 +26796,7 @@
             "id": "59faf98186f774067b6be103",
             "name": "Alkaline cleaner for heat exchangers",
             "avg24hPrice": 18981,
-            "changeLast48hPercent": -26.16,
+            "changeLast48hPercent": -23.06,
             "historicalPrices": [
                 {
                     "price": 24407,
@@ -27049,8 +27049,8 @@
         {
             "id": "59fb023c86f7746d0d4b423c",
             "name": "Weapon case",
-            "avg24hPrice": 5272935,
-            "changeLast48hPercent": -5.89,
+            "avg24hPrice": 5315706,
+            "changeLast48hPercent": -3.08,
             "historicalPrices": [
                 {
                     "price": 5611655,
@@ -27200,8 +27200,8 @@
         {
             "id": "59fb375986f7741b681b81a6",
             "name": "AK Krebs Custom UFM KeyMod handguard",
-            "avg24hPrice": 16780,
-            "changeLast48hPercent": 7.38,
+            "avg24hPrice": 16594,
+            "changeLast48hPercent": 6.19,
             "historicalPrices": [
                 {
                     "price": 15954,
@@ -27662,8 +27662,8 @@
         {
             "id": "5a0d716f1526d8000d26b1e2",
             "name": "AKML system 7.62x39 flash hider",
-            "avg24hPrice": 15458,
-            "changeLast48hPercent": 63.2,
+            "avg24hPrice": 14641,
+            "changeLast48hPercent": 54.58,
             "historicalPrices": [
                 {
                     "price": 17409,
@@ -27855,7 +27855,7 @@
             "id": "5a0ea69f86f7741cd5406619",
             "name": "Health Resort east wing office room 108 key",
             "avg24hPrice": 16809,
-            "changeLast48hPercent": -32.7,
+            "changeLast48hPercent": -36.41,
             "historicalPrices": [
                 {
                     "price": 16925,
@@ -28101,8 +28101,8 @@
         {
             "id": "5a0ec6d286f7742c0b518fb5",
             "name": "Health Resort west wing room 205 key",
-            "avg24hPrice": 126404,
-            "changeLast48hPercent": -42.39,
+            "avg24hPrice": 122517,
+            "changeLast48hPercent": -44.16,
             "historicalPrices": [
                 {
                     "price": 86790,
@@ -28222,7 +28222,7 @@
             "id": "5a0ee30786f774023b6ee08f",
             "name": "Health Resort west wing room 216 key",
             "avg24hPrice": 137392,
-            "changeLast48hPercent": -31.47,
+            "changeLast48hPercent": -18.3,
             "historicalPrices": [
                 {
                     "price": 123557,
@@ -28461,8 +28461,8 @@
         {
             "id": "5a0ee72c86f77436955d3435",
             "name": "Health Resort east wing room 213 key",
-            "avg24hPrice": 17427,
-            "changeLast48hPercent": -44.29,
+            "avg24hPrice": 16171,
+            "changeLast48hPercent": -48.31,
             "historicalPrices": [
                 {
                     "price": 10609,
@@ -29085,8 +29085,8 @@
         {
             "id": "5a0f068686f7745b0d4ea242",
             "name": "Cottage safe key",
-            "avg24hPrice": 74679,
-            "changeLast48hPercent": -8.72,
+            "avg24hPrice": 72989,
+            "changeLast48hPercent": -10.79,
             "historicalPrices": [
                 {
                     "price": 111805,
@@ -29182,7 +29182,7 @@
             "id": "5a0f08bc86f77478f33b84c2",
             "name": "Health Resort management office safe key",
             "avg24hPrice": 36375,
-            "changeLast48hPercent": -31.32,
+            "changeLast48hPercent": -37.62,
             "historicalPrices": [
                 {
                     "price": 28829,
@@ -29387,8 +29387,8 @@
         {
             "id": "5a13ef0686f7746e5a411744",
             "name": "Health Resort west wing room 219 key",
-            "avg24hPrice": 62959,
-            "changeLast48hPercent": 2.65,
+            "avg24hPrice": 71139,
+            "changeLast48hPercent": 15.99,
             "historicalPrices": [
                 {
                     "price": 47323,
@@ -29436,7 +29436,7 @@
             "id": "5a13ef7e86f7741290491063",
             "name": "Health Resort west wing room 301 key",
             "avg24hPrice": 78749,
-            "changeLast48hPercent": -11.37,
+            "changeLast48hPercent": -11.67,
             "historicalPrices": [
                 {
                     "price": 68905,
@@ -29579,8 +29579,8 @@
         {
             "id": "5a13f46386f7741dd7384b04",
             "name": "Health Resort west wing room 306 key",
-            "avg24hPrice": 41412,
-            "changeLast48hPercent": -3.58,
+            "avg24hPrice": 41318,
+            "changeLast48hPercent": -3.8,
             "historicalPrices": [
                 {
                     "price": 39914,
@@ -29820,7 +29820,7 @@
             "id": "5a145d7b86f7744cbb6f4a13",
             "name": "Health Resort east wing room 308 key",
             "avg24hPrice": 45209,
-            "changeLast48hPercent": -53.4,
+            "changeLast48hPercent": -56.99,
             "historicalPrices": [
                 {
                     "price": 51952,
@@ -29977,8 +29977,8 @@
         {
             "id": "5a16b8a9fcdbcb00165aa6ca",
             "name": "Norotos Titanium Advanced Tactical Mount",
-            "avg24hPrice": 35230,
-            "changeLast48hPercent": -20.01,
+            "avg24hPrice": 36194,
+            "changeLast48hPercent": -13.16,
             "historicalPrices": [
                 {
                     "price": 43697,
@@ -30888,8 +30888,8 @@
         {
             "id": "5a327f6386f77479010da870",
             "name": "Serdyukov SR-1MP Gyurza 9x21 pistol Default",
-            "avg24hPrice": 19682,
-            "changeLast48hPercent": 2.95,
+            "avg24hPrice": 19572,
+            "changeLast48hPercent": 2.38,
             "historicalPrices": []
         },
         {
@@ -31445,7 +31445,7 @@
             "id": "5a33e75ac4a2826c6e06d759",
             "name": "AR-15 Hera Arms CQR pistol grip/buttstock",
             "avg24hPrice": 36256,
-            "changeLast48hPercent": 9.62,
+            "changeLast48hPercent": 12.58,
             "historicalPrices": [
                 {
                     "price": 34894,
@@ -31636,8 +31636,8 @@
         {
             "id": "5a34fd2bc4a282329a73b4c5",
             "name": "AR-10 AAC Blackout 51T 7.62x51 flash hider",
-            "avg24hPrice": 20738,
-            "changeLast48hPercent": -4.28,
+            "avg24hPrice": 20211,
+            "changeLast48hPercent": -11,
             "historicalPrices": [
                 {
                     "price": 30337,
@@ -31931,8 +31931,8 @@
         {
             "id": "5a38e6bac4a2826c6e06d79b",
             "name": "TOZ-106 20ga bolt-action shotgun",
-            "avg24hPrice": 15928,
-            "changeLast48hPercent": -41.72,
+            "avg24hPrice": 19982,
+            "changeLast48hPercent": 2.41,
             "historicalPrices": [
                 {
                     "price": 16800,
@@ -32173,8 +32173,8 @@
         {
             "id": "5a3a859786f7747e2305e8bf",
             "name": "TOZ-106 20ga bolt-action shotgun Default",
-            "avg24hPrice": 15928,
-            "changeLast48hPercent": -41.72,
+            "avg24hPrice": 19982,
+            "changeLast48hPercent": 2.41,
             "historicalPrices": []
         },
         {
@@ -32194,8 +32194,8 @@
         {
             "id": "5a3c16fe86f77452b62de32a",
             "name": "9x19mm Luger CCI",
-            "avg24hPrice": 469,
-            "changeLast48hPercent": -35.55,
+            "avg24hPrice": 516,
+            "changeLast48hPercent": -22.01,
             "historicalPrices": [
                 {
                     "price": 460,
@@ -32401,8 +32401,8 @@
         {
             "id": "5a6b5b8a8dc32e001207faf3",
             "name": "Glock 9x19 Lone Wolf AlphaWolf threaded barrel",
-            "avg24hPrice": 17291,
-            "changeLast48hPercent": 17.56,
+            "avg24hPrice": 17190,
+            "changeLast48hPercent": 16.88,
             "historicalPrices": [
                 {
                     "price": 14888,
@@ -32735,8 +32735,8 @@
         {
             "id": "5a7033908dc32e000a311392",
             "name": "Glock Lone Wolf AlphaWolf Custom pistol slide",
-            "avg24hPrice": 19421,
-            "changeLast48hPercent": -2.9,
+            "avg24hPrice": 20971,
+            "changeLast48hPercent": 35.88,
             "historicalPrices": [
                 {
                     "price": 11410,
@@ -33305,7 +33305,7 @@
             "id": "5a787f7ac5856700177af660",
             "name": "M870 12ga 508mm barrel",
             "avg24hPrice": 74277,
-            "changeLast48hPercent": -29.18,
+            "changeLast48hPercent": -18.84,
             "historicalPrices": [
                 {
                     "price": 136032,
@@ -33459,8 +33459,8 @@
         {
             "id": "5a788089c5856700142fdd9c",
             "name": "M870 SpeedFeed Short handguard",
-            "avg24hPrice": 13545,
-            "changeLast48hPercent": 66.66,
+            "avg24hPrice": 11393,
+            "changeLast48hPercent": 40.18,
             "historicalPrices": [
                 {
                     "price": 19055,
@@ -33827,7 +33827,7 @@
             "id": "5a78948ec5856700177b1124",
             "name": "M870 XS SHOTRAIL rail with Ghost Ring rear sight",
             "avg24hPrice": 12076,
-            "changeLast48hPercent": -24.35,
+            "changeLast48hPercent": -21.44,
             "historicalPrices": [
                 {
                     "price": 21309,
@@ -33971,7 +33971,7 @@
             "id": "5a7ad2e851dfba0016153692",
             "name": "Glock 9x19 \"Big Stick\" 33-round magazine",
             "avg24hPrice": 20783,
-            "changeLast48hPercent": -0.68,
+            "changeLast48hPercent": 2.39,
             "historicalPrices": [
                 {
                     "price": 26503,
@@ -34114,8 +34114,8 @@
         {
             "id": "5a7ad74e51dfba0015068f45",
             "name": "Glock 9x19 Fischer Development FD917 sound suppressor",
-            "avg24hPrice": 25042,
-            "changeLast48hPercent": -6.2,
+            "avg24hPrice": 25133,
+            "changeLast48hPercent": -5.86,
             "historicalPrices": [
                 {
                     "price": 24899,
@@ -34499,7 +34499,7 @@
             "id": "5a7c4850e899ef00150be885",
             "name": "6B47 Ratnik-BSh helmet",
             "avg24hPrice": 35261,
-            "changeLast48hPercent": -9.24,
+            "changeLast48hPercent": -9.95,
             "historicalPrices": [
                 {
                     "price": 34899,
@@ -34594,8 +34594,8 @@
         {
             "id": "5a7d90eb159bd400165484f1",
             "name": "Glock Dead Ringer Snake Eye front sight",
-            "avg24hPrice": 12054,
-            "changeLast48hPercent": 54.99,
+            "avg24hPrice": 12958,
+            "changeLast48hPercent": 66.61,
             "historicalPrices": [
                 {
                     "price": 12167,
@@ -34975,8 +34975,8 @@
         {
             "id": "5a9548c9159bd400133e97b3",
             "name": "HK MP5 B&T TL-99 aluminum handguard",
-            "avg24hPrice": 20737,
-            "changeLast48hPercent": 12.82,
+            "avg24hPrice": 21244,
+            "changeLast48hPercent": 15.58,
             "historicalPrices": [
                 {
                     "price": 36493,
@@ -35072,7 +35072,7 @@
             "id": "5a966ec8a2750c00171b3f36",
             "name": "HK MP5 B&T tri-rail receiver mount",
             "avg24hPrice": 24291,
-            "changeLast48hPercent": 24.7,
+            "changeLast48hPercent": 28.84,
             "historicalPrices": [
                 {
                     "price": 16710,
@@ -35360,7 +35360,7 @@
             "id": "5a9d6d21a2750c00137fa649",
             "name": "Strike Industries TRAX bridge rail",
             "avg24hPrice": 18493,
-            "changeLast48hPercent": 10.33,
+            "changeLast48hPercent": 11.93,
             "historicalPrices": [
                 {
                     "price": 19595,
@@ -35455,8 +35455,8 @@
         {
             "id": "5a9e81fba2750c00164f6b11",
             "name": "9x39 SR3M.130 30-round magazine",
-            "avg24hPrice": 49179,
-            "changeLast48hPercent": -20.38,
+            "avg24hPrice": 53464,
+            "changeLast48hPercent": -13.44,
             "historicalPrices": [
                 {
                     "price": 48195,
@@ -35503,8 +35503,8 @@
         {
             "id": "5a9ea27ca2750c00137fa672",
             "name": "AK Spikes Tactical Dynacomp 7.62x39 muzzle brake-compensator",
-            "avg24hPrice": 15244,
-            "changeLast48hPercent": 12.9,
+            "avg24hPrice": 15768,
+            "changeLast48hPercent": 19.01,
             "historicalPrices": [
                 {
                     "price": 13700,
@@ -35599,8 +35599,8 @@
         {
             "id": "5a9fb739a2750c003215717f",
             "name": "Rotor 43 9x19 muzzle brake-compensator",
-            "avg24hPrice": 17432,
-            "changeLast48hPercent": 0.9,
+            "avg24hPrice": 16644,
+            "changeLast48hPercent": -8.33,
             "historicalPrices": [
                 {
                     "price": 17120,
@@ -36031,8 +36031,8 @@
         {
             "id": "5aa2b923e5b5b000137b7589",
             "name": "Round frame sunglasses",
-            "avg24hPrice": 22423,
-            "changeLast48hPercent": 18.69,
+            "avg24hPrice": 23071,
+            "changeLast48hPercent": 22.12,
             "historicalPrices": [
                 {
                     "price": 17955,
@@ -36607,8 +36607,8 @@
         {
             "id": "5aa7d193e5b5b000171d063f",
             "name": "SSSh-94 SFERA-S helmet",
-            "avg24hPrice": 27849,
-            "changeLast48hPercent": 0.55,
+            "avg24hPrice": 27771,
+            "changeLast48hPercent": -3.46,
             "historicalPrices": [
                 {
                     "price": 29772,
@@ -36998,8 +36998,8 @@
         {
             "id": "5aaf8a0be5b5b00015693243",
             "name": "M1A 7.62x51 20-round magazine",
-            "avg24hPrice": 36239,
-            "changeLast48hPercent": 36.16,
+            "avg24hPrice": 33971,
+            "changeLast48hPercent": 27.64,
             "historicalPrices": [
                 {
                     "price": 19623,
@@ -37224,8 +37224,8 @@
         {
             "id": "5aafbde786f774389d0cbc0f",
             "name": "Ammunition case",
-            "avg24hPrice": 392135,
-            "changeLast48hPercent": -4.59,
+            "avg24hPrice": 396341,
+            "changeLast48hPercent": -1.8,
             "historicalPrices": [
                 {
                     "price": 338952,
@@ -37320,8 +37320,8 @@
         {
             "id": "5ab372a310e891001717f0d8",
             "name": "M14 TROY S.A.S.S. Chassis stock",
-            "avg24hPrice": 45880,
-            "changeLast48hPercent": -11.12,
+            "avg24hPrice": 44019,
+            "changeLast48hPercent": -24.06,
             "historicalPrices": [
                 {
                     "price": 43590,
@@ -37471,8 +37471,8 @@
         {
             "id": "5ab8dced86f774646209ec87",
             "name": "ANA Tactical M2 plate carrier",
-            "avg24hPrice": 151083,
-            "changeLast48hPercent": 13.57,
+            "avg24hPrice": 154699,
+            "changeLast48hPercent": 16.29,
             "historicalPrices": [
                 {
                     "price": 133833,
@@ -37520,7 +37520,7 @@
             "id": "5ab8e4ed86f7742d8e50c7fa",
             "name": "MF-UNTAR body armor",
             "avg24hPrice": 55318,
-            "changeLast48hPercent": 11.86,
+            "changeLast48hPercent": 15.44,
             "historicalPrices": [
                 {
                     "price": 63555,
@@ -38010,8 +38010,8 @@
         {
             "id": "5abcc328d8ce8700194394f3",
             "name": "APB 9x18PM sound suppressor",
-            "avg24hPrice": 6888,
-            "changeLast48hPercent": 16.18,
+            "avg24hPrice": 6536,
+            "changeLast48hPercent": 10.24,
             "historicalPrices": [
                 {
                     "price": 11591,
@@ -38337,7 +38337,7 @@
             "id": "5ac66c5d5acfc4001718d314",
             "name": "AK-101 5.56x45 6L29 30-round magazine",
             "avg24hPrice": 39629,
-            "changeLast48hPercent": -23.65,
+            "changeLast48hPercent": -22.23,
             "historicalPrices": [
                 {
                     "price": 39129,
@@ -38433,7 +38433,7 @@
             "id": "5ac66d015acfc400180ae6e4",
             "name": "Kalashnikov AK-102 5.56x45 assault rifle",
             "avg24hPrice": 37755,
-            "changeLast48hPercent": -39.82,
+            "changeLast48hPercent": -43.15,
             "historicalPrices": [
                 {
                     "price": 42108,
@@ -38528,8 +38528,8 @@
         {
             "id": "5ac66d725acfc43b321d4b60",
             "name": "Kalashnikov AK-104 7.62x39 assault rifle",
-            "avg24hPrice": 29888,
-            "changeLast48hPercent": -4.47,
+            "avg24hPrice": 29657,
+            "changeLast48hPercent": -7.99,
             "historicalPrices": [
                 {
                     "price": 26844,
@@ -38576,8 +38576,8 @@
         {
             "id": "5ac66d9b5acfc4001633997a",
             "name": "Kalashnikov AK-105 5.45x39 assault rifle",
-            "avg24hPrice": 33318,
-            "changeLast48hPercent": -6.9,
+            "avg24hPrice": 34663,
+            "changeLast48hPercent": -3.15,
             "historicalPrices": [
                 {
                     "price": 28018,
@@ -38684,7 +38684,7 @@
         {
             "id": "5ac72e895acfc43b321d4bd5",
             "name": "AK-104 7.62x39 muzzle brake-compensator (6P46 0-20)",
-            "avg24hPrice": 30000,
+            "avg24hPrice": 0,
             "changeLast48hPercent": 0,
             "historicalPrices": [
                 {
@@ -38877,7 +38877,7 @@
             "id": "5acf7dfc86f774401e19c390",
             "name": "Kalashnikov AK-102 5.56x45 assault rifle Default",
             "avg24hPrice": 37755,
-            "changeLast48hPercent": -39.82,
+            "changeLast48hPercent": -43.15,
             "historicalPrices": []
         },
         {
@@ -38890,15 +38890,15 @@
         {
             "id": "5acf7e4c86f774499a3f3bdd",
             "name": "Kalashnikov AK-104 7.62x39 assault rifle Default",
-            "avg24hPrice": 29888,
-            "changeLast48hPercent": -4.47,
+            "avg24hPrice": 29657,
+            "changeLast48hPercent": -7.99,
             "historicalPrices": []
         },
         {
             "id": "5acf7e7986f774401e19c3a0",
             "name": "Kalashnikov AK-105 5.45x39 assault rifle Default",
-            "avg24hPrice": 33318,
-            "changeLast48hPercent": -6.9,
+            "avg24hPrice": 34663,
+            "changeLast48hPercent": -3.15,
             "historicalPrices": []
         },
         {
@@ -39192,8 +39192,8 @@
         {
             "id": "5ad5db3786f7743568421cce",
             "name": "EMERCOM medical unit key",
-            "avg24hPrice": 57472,
-            "changeLast48hPercent": -3.29,
+            "avg24hPrice": 58122,
+            "changeLast48hPercent": -2.2,
             "historicalPrices": [
                 {
                     "price": 68385,
@@ -39240,8 +39240,8 @@
         {
             "id": "5ad7217186f7746744498875",
             "name": "OLI cash register key",
-            "avg24hPrice": 15542,
-            "changeLast48hPercent": 32.6,
+            "avg24hPrice": 17923,
+            "changeLast48hPercent": 52.91,
             "historicalPrices": [
                 {
                     "price": 9801,
@@ -39488,7 +39488,7 @@
             "id": "5addbb6e5acfc408fb1393fd",
             "name": "M1A National Match 7.62x51 flash suppressor",
             "avg24hPrice": 12253,
-            "changeLast48hPercent": -1.97,
+            "changeLast48hPercent": -11.08,
             "historicalPrices": [
                 {
                     "price": 10992,
@@ -39535,8 +39535,8 @@
         {
             "id": "5addbb825acfc408fb139400",
             "name": "M14 JP Enterprises 7.62x51 Tactical Compensator",
-            "avg24hPrice": 8024,
-            "changeLast48hPercent": -20.24,
+            "avg24hPrice": 8144,
+            "changeLast48hPercent": -13.73,
             "historicalPrices": [
                 {
                     "price": 5870,
@@ -39871,8 +39871,8 @@
         {
             "id": "5addbfe15acfc4001a5fc58b",
             "name": "M14 A.R.M.S. #18 scope mount",
-            "avg24hPrice": 14567,
-            "changeLast48hPercent": -50.37,
+            "avg24hPrice": 15318,
+            "changeLast48hPercent": -47.81,
             "historicalPrices": [
                 {
                     "price": 16777,
@@ -40255,8 +40255,8 @@
         {
             "id": "5addccf45acfc400185c2989",
             "name": "M14 7.62x51 X Products X-14 50-round drum magazine",
-            "avg24hPrice": 37400,
-            "changeLast48hPercent": -5.23,
+            "avg24hPrice": 36866,
+            "changeLast48hPercent": -11.48,
             "historicalPrices": [
                 {
                     "price": 34470,
@@ -40310,8 +40310,8 @@
         {
             "id": "5ae08f0a5acfc408fb1398a1",
             "name": "Mosin 7.62x54R bolt-action rifle (Sniper)",
-            "avg24hPrice": 66997,
-            "changeLast48hPercent": -58.34,
+            "avg24hPrice": 74399,
+            "changeLast48hPercent": -53.74,
             "historicalPrices": [
                 {
                     "price": 87407,
@@ -40563,8 +40563,8 @@
         {
             "id": "5ae35b315acfc4001714e8b0",
             "name": "M870 Mesa Tactical LEO stock adapter",
-            "avg24hPrice": 12758,
-            "changeLast48hPercent": 33.19,
+            "avg24hPrice": 14311,
+            "changeLast48hPercent": 56.96,
             "historicalPrices": [
                 {
                     "price": 4564,
@@ -40755,8 +40755,8 @@
         {
             "id": "5af0534a86f7743b6f354284",
             "name": "Ophthalmoscope",
-            "avg24hPrice": 78748,
-            "changeLast48hPercent": -56.06,
+            "avg24hPrice": 82228,
+            "changeLast48hPercent": -47.32,
             "historicalPrices": [
                 {
                     "price": 81242,
@@ -40851,8 +40851,8 @@
         {
             "id": "5af0561e86f7745f5f3ad6ac",
             "name": "Portable Powerbank",
-            "avg24hPrice": 21098,
-            "changeLast48hPercent": -4.19,
+            "avg24hPrice": 21500,
+            "changeLast48hPercent": -2.36,
             "historicalPrices": [
                 {
                     "price": 17688,
@@ -40934,8 +40934,8 @@
         {
             "id": "5afd7ded5acfc40017541f5e",
             "name": "SKS TAPCO Intrafuse chassis",
-            "avg24hPrice": 14999,
-            "changeLast48hPercent": 24.22,
+            "avg24hPrice": 13333,
+            "changeLast48hPercent": 10.42,
             "historicalPrices": [
                 {
                     "price": 14999,
@@ -41031,7 +41031,7 @@
             "id": "5afd7e445acfc4001637e35a",
             "name": "SKS TAPCO Intrafuse kit SAW-Style pistol grip",
             "avg24hPrice": 7519,
-            "changeLast48hPercent": -26.21,
+            "changeLast48hPercent": -27.86,
             "historicalPrices": [
                 {
                     "price": 10967,
@@ -41270,8 +41270,8 @@
         {
             "id": "5b0800175acfc400153aebd4",
             "name": "ERGO F93 PRO stock",
-            "avg24hPrice": 24500,
-            "changeLast48hPercent": 4.31,
+            "avg24hPrice": 24043,
+            "changeLast48hPercent": 2.36,
             "historicalPrices": [
                 {
                     "price": 20656,
@@ -41367,7 +41367,7 @@
             "id": "5b099a9d5acfc47a8607efe7",
             "name": "SA-58 quad rail handguard",
             "avg24hPrice": 14623,
-            "changeLast48hPercent": -10.98,
+            "changeLast48hPercent": -13.36,
             "historicalPrices": [
                 {
                     "price": 12192,
@@ -41606,8 +41606,8 @@
         {
             "id": "5b099bf25acfc4001637e683",
             "name": "SA-58 buffer tube adapter",
-            "avg24hPrice": 12144,
-            "changeLast48hPercent": -23.07,
+            "avg24hPrice": 11534,
+            "changeLast48hPercent": -26.94,
             "historicalPrices": [
                 {
                     "price": 13236,
@@ -42300,7 +42300,7 @@
             "id": "5b30b0dc5acfc400153b7124",
             "name": "Holosun HS401G5 reflex sight",
             "avg24hPrice": 13322,
-            "changeLast48hPercent": 6.74,
+            "changeLast48hPercent": 8.76,
             "historicalPrices": [
                 {
                     "price": 13481,
@@ -42539,8 +42539,8 @@
         {
             "id": "5b363dd25acfc4001a598fd2",
             "name": "SilencerCo Salvo 12 12ga sound suppressor",
-            "avg24hPrice": 40984,
-            "changeLast48hPercent": -7.23,
+            "avg24hPrice": 41008,
+            "changeLast48hPercent": -5.46,
             "historicalPrices": [
                 {
                     "price": 48795,
@@ -42587,8 +42587,8 @@
         {
             "id": "5b363dea5acfc4771e1c5e7e",
             "name": "SilencerCo Salvo 12 choke adapter",
-            "avg24hPrice": 24300,
-            "changeLast48hPercent": -23.7,
+            "avg24hPrice": 24461,
+            "changeLast48hPercent": -23.19,
             "historicalPrices": [
                 {
                     "price": 37224,
@@ -42683,8 +42683,8 @@
         {
             "id": "5b39f8db5acfc40016387a1b",
             "name": "Vltor EMOD stock",
-            "avg24hPrice": 21669,
-            "changeLast48hPercent": -9.3,
+            "avg24hPrice": 20664,
+            "changeLast48hPercent": -15.79,
             "historicalPrices": [
                 {
                     "price": 16779,
@@ -43019,8 +43019,8 @@
         {
             "id": "5b3b713c5acfc4330140bd8d",
             "name": "TT-33 7.62x25 TT pistol (Golden)",
-            "avg24hPrice": 73999,
-            "changeLast48hPercent": 5.77,
+            "avg24hPrice": 74666,
+            "changeLast48hPercent": 6.72,
             "historicalPrices": [
                 {
                     "price": 124999,
@@ -43428,8 +43428,8 @@
         {
             "id": "5b40e2bc5acfc40016388216",
             "name": "HighCom Striker ULACH IIIA helmet (Desert Tan)",
-            "avg24hPrice": 85427,
-            "changeLast48hPercent": -1.35,
+            "avg24hPrice": 84285,
+            "changeLast48hPercent": -2.66,
             "historicalPrices": [
                 {
                     "price": 96004,
@@ -43612,8 +43612,8 @@
         {
             "id": "5b4325355acfc40019478126",
             "name": "Shemagh (Tan)",
-            "avg24hPrice": 15366,
-            "changeLast48hPercent": 44.84,
+            "avg24hPrice": 16740,
+            "changeLast48hPercent": 51.68,
             "historicalPrices": [
                 {
                     "price": 23407,
@@ -43660,8 +43660,8 @@
         {
             "id": "5b4326435acfc433000ed01d",
             "name": "Neoprene mask",
-            "avg24hPrice": 21278,
-            "changeLast48hPercent": 8.54,
+            "avg24hPrice": 18981,
+            "changeLast48hPercent": -3.18,
             "historicalPrices": [
                 {
                     "price": 21175,
@@ -43997,7 +43997,7 @@
             "id": "5b432b965acfc47a8774094e",
             "name": "GSSh-01 active headset",
             "avg24hPrice": 21000,
-            "changeLast48hPercent": -10.54,
+            "changeLast48hPercent": -14.7,
             "historicalPrices": [
                 {
                     "price": 18000,
@@ -44045,7 +44045,7 @@
             "id": "5b432be65acfc433000ed01f",
             "name": "6B34 anti-fragmentation glasses",
             "avg24hPrice": 8443,
-            "changeLast48hPercent": -19.88,
+            "changeLast48hPercent": -23.26,
             "historicalPrices": [
                 {
                     "price": 7999,
@@ -44141,7 +44141,7 @@
             "id": "5b432d215acfc4771e1c6624",
             "name": "LShZ light helmet",
             "avg24hPrice": 44454,
-            "changeLast48hPercent": -0.18,
+            "changeLast48hPercent": -1.21,
             "historicalPrices": [
                 {
                     "price": 47814,
@@ -44236,8 +44236,8 @@
         {
             "id": "5b4335ba86f7744d2837a264",
             "name": "Medical bloodset",
-            "avg24hPrice": 15026,
-            "changeLast48hPercent": 15.03,
+            "avg24hPrice": 16155,
+            "changeLast48hPercent": 23.67,
             "historicalPrices": [
                 {
                     "price": 13936,
@@ -44394,8 +44394,8 @@
         {
             "id": "5b44abe986f774283e2e3512",
             "name": "TT-33 7.62x25 TT pistol (Golden) Default",
-            "avg24hPrice": 73999,
-            "changeLast48hPercent": 5.77,
+            "avg24hPrice": 74666,
+            "changeLast48hPercent": 6.72,
             "historicalPrices": []
         },
         {
@@ -44525,8 +44525,8 @@
         {
             "id": "5b44d22286f774172b0c9de8",
             "name": "BNTI Kirasa-N body armor",
-            "avg24hPrice": 50723,
-            "changeLast48hPercent": -15.37,
+            "avg24hPrice": 51003,
+            "changeLast48hPercent": -8.52,
             "historicalPrices": [
                 {
                     "price": 62111,
@@ -44731,8 +44731,8 @@
         {
             "id": "5b7be1265acfc400161d0798",
             "name": "SA-58 7.62x51 21 inch barrel",
-            "avg24hPrice": 94444,
-            "changeLast48hPercent": 4.94,
+            "avg24hPrice": 100000,
+            "changeLast48hPercent": 11.11,
             "historicalPrices": [
                 {
                     "price": 90000,
@@ -44827,8 +44827,8 @@
         {
             "id": "5b7be2345acfc400196d524a",
             "name": "SA-58/FAL AIM Sports Universal KeyMod handguard",
-            "avg24hPrice": 18458,
-            "changeLast48hPercent": 9.36,
+            "avg24hPrice": 17972,
+            "changeLast48hPercent": 6.48,
             "historicalPrices": [
                 {
                     "price": 13631,
@@ -45218,8 +45218,8 @@
         {
             "id": "5b7bee755acfc400196d5383",
             "name": "SA-58/FAL Vltor CASV-FAS handguard",
-            "avg24hPrice": 21919,
-            "changeLast48hPercent": -3.65,
+            "avg24hPrice": 21733,
+            "changeLast48hPercent": -9.63,
             "historicalPrices": [
                 {
                     "price": 33333,
@@ -45363,7 +45363,7 @@
             "id": "5b7bef9c5acfc43d102852ec",
             "name": "SA-58/FAL 7.62x51 X Products X-FAL 50-round drum magazine",
             "avg24hPrice": 31034,
-            "changeLast48hPercent": -14.28,
+            "changeLast48hPercent": -7.85,
             "historicalPrices": [
                 {
                     "price": 27693,
@@ -45657,8 +45657,8 @@
         {
             "id": "5b7d64555acfc4001876c8e2",
             "name": "SA-58 BRS stock",
-            "avg24hPrice": 25826,
-            "changeLast48hPercent": 0.5,
+            "avg24hPrice": 25694,
+            "changeLast48hPercent": -10.64,
             "historicalPrices": [
                 {
                     "price": 33724,
@@ -45742,7 +45742,7 @@
             "id": "5b7d678a5acfc4001a5c4022",
             "name": "SA-58 pistol grip",
             "avg24hPrice": 15147,
-            "changeLast48hPercent": -1.35,
+            "changeLast48hPercent": -7.25,
             "historicalPrices": [
                 {
                     "price": 12758,
@@ -45885,8 +45885,8 @@
         {
             "id": "5b7d693d5acfc43bca706a3d",
             "name": "AR-10 2A Armanent X3 7.62x51 compensator",
-            "avg24hPrice": 13520,
-            "changeLast48hPercent": 40.74,
+            "avg24hPrice": 11366,
+            "changeLast48hPercent": -18.14,
             "historicalPrices": [
                 {
                     "price": 12987,
@@ -46125,8 +46125,8 @@
         {
             "id": "5b80242286f77429445e0b47",
             "name": "AK Hexagon tubular handguard (Anodized Red)",
-            "avg24hPrice": 36945,
-            "changeLast48hPercent": -11.65,
+            "avg24hPrice": 36872,
+            "changeLast48hPercent": -11.83,
             "historicalPrices": [
                 {
                     "price": 32980,
@@ -46290,8 +46290,8 @@
         {
             "id": "5b8683a486f77467f2423114",
             "name": "Mosin 7.62x54R bolt-action rifle (Sniper) Default",
-            "avg24hPrice": 66997,
-            "changeLast48hPercent": -58.34,
+            "avg24hPrice": 74399,
+            "changeLast48hPercent": -53.74,
             "historicalPrices": []
         },
         {
@@ -46394,7 +46394,7 @@
             "id": "5ba264f6d4351e0034777d52",
             "name": "HK MP7 4.6x30 20-round magazine",
             "avg24hPrice": 9999,
-            "changeLast48hPercent": -35.32,
+            "changeLast48hPercent": -32.12,
             "historicalPrices": [
                 {
                     "price": 16248,
@@ -46537,8 +46537,8 @@
         {
             "id": "5ba2678ad4351e44f824b344",
             "name": "4.6x30mm FMJ SX",
-            "avg24hPrice": 2198,
-            "changeLast48hPercent": -67.39,
+            "avg24hPrice": 2159,
+            "changeLast48hPercent": -62.53,
             "historicalPrices": [
                 {
                     "price": 12716,
@@ -46795,8 +46795,8 @@
         {
             "id": "5bae13bad4351e00320204af",
             "name": "Mosin Rifle ProMag Archangel OPFOR PRS chassis",
-            "avg24hPrice": 21970,
-            "changeLast48hPercent": -34.77,
+            "avg24hPrice": 20765,
+            "changeLast48hPercent": -39.96,
             "historicalPrices": [
                 {
                     "price": 20040,
@@ -46903,8 +46903,8 @@
         {
             "id": "5bb20d92d4351e00853263eb",
             "name": "HK 416A5 5.56x45 11 inch barrel",
-            "avg24hPrice": 151750,
-            "changeLast48hPercent": 90.18,
+            "avg24hPrice": 135212,
+            "changeLast48hPercent": 24.44,
             "historicalPrices": [
                 {
                     "price": 102897,
@@ -47599,8 +47599,8 @@
         {
             "id": "5bbdb811d4351e45020113c7",
             "name": "Mosin Rifle AIM Sports Tri-Rail mount",
-            "avg24hPrice": 41113,
-            "changeLast48hPercent": -91.08,
+            "avg24hPrice": 41517,
+            "changeLast48hPercent": -90.99,
             "historicalPrices": [
                 {
                     "price": 249302,
@@ -47839,8 +47839,8 @@
         {
             "id": "5bbde41ed4351e003562b038",
             "name": "Mosin Rifle Tacfire pistol grip",
-            "avg24hPrice": 54721,
-            "changeLast48hPercent": -23.25,
+            "avg24hPrice": 31666,
+            "changeLast48hPercent": -55.8,
             "historicalPrices": [
                 {
                     "price": 32898,
@@ -48141,8 +48141,8 @@
         {
             "id": "5bc9b156d4351e00367fbce9",
             "name": "Jar of DevilDog mayo",
-            "avg24hPrice": 14399,
-            "changeLast48hPercent": 11.9,
+            "avg24hPrice": 14269,
+            "changeLast48hPercent": 10.89,
             "historicalPrices": [
                 {
                     "price": 13650,
@@ -48238,7 +48238,7 @@
             "id": "5bc9b720d4351e450201234b",
             "name": "Golden 1GPhone smartphone",
             "avg24hPrice": 32377,
-            "changeLast48hPercent": -1.17,
+            "changeLast48hPercent": -1.37,
             "historicalPrices": [
                 {
                     "price": 31925,
@@ -48333,8 +48333,8 @@
         {
             "id": "5bc9bc53d4351e00367fbcee",
             "name": "Golden rooster figurine",
-            "avg24hPrice": 57269,
-            "changeLast48hPercent": -0.04,
+            "avg24hPrice": 57274,
+            "changeLast48hPercent": -0.03,
             "historicalPrices": [
                 {
                     "price": 57292,
@@ -48429,8 +48429,8 @@
         {
             "id": "5bc9be8fd4351e00334cae6e",
             "name": "42 Signature Blend English Tea",
-            "avg24hPrice": 21365,
-            "changeLast48hPercent": 1.36,
+            "avg24hPrice": 21023,
+            "changeLast48hPercent": -1.59,
             "historicalPrices": [
                 {
                     "price": 29828,
@@ -48477,8 +48477,8 @@
         {
             "id": "5bc9c049d4351e44f824d360",
             "name": "Battered antique book",
-            "avg24hPrice": 40006,
-            "changeLast48hPercent": -1.56,
+            "avg24hPrice": 40209,
+            "changeLast48hPercent": -1.06,
             "historicalPrices": [
                 {
                     "price": 40684,
@@ -48574,7 +48574,7 @@
             "id": "5bc9c29cd4351e003562b8a3",
             "name": "Can of sprats",
             "avg24hPrice": 24698,
-            "changeLast48hPercent": 20.62,
+            "changeLast48hPercent": 31.08,
             "historicalPrices": [
                 {
                     "price": 21377,
@@ -48787,7 +48787,7 @@
             "id": "5bd071d786f7747e707b93a3",
             "name": "Jason mask",
             "avg24hPrice": 16658,
-            "changeLast48hPercent": -5.91,
+            "changeLast48hPercent": -6.18,
             "historicalPrices": [
                 {
                     "price": 23814,
@@ -48882,8 +48882,8 @@
         {
             "id": "5bd073c986f7747f627e796c",
             "name": "Kotton beanie",
-            "avg24hPrice": 16174,
-            "changeLast48hPercent": -9.94,
+            "avg24hPrice": 16433,
+            "changeLast48hPercent": -8.5,
             "historicalPrices": [
                 {
                     "price": 15683,
@@ -49212,8 +49212,8 @@
         {
             "id": "5beec2820db834001b095426",
             "name": "RPK-16 5.45x39 22 inch barrel",
-            "avg24hPrice": 49703,
-            "changeLast48hPercent": 32.24,
+            "avg24hPrice": 43564,
+            "changeLast48hPercent": 15.91,
             "historicalPrices": [
                 {
                     "price": 28958,
@@ -49787,8 +49787,8 @@
         {
             "id": "5bfd36290db834001966869a",
             "name": "Mosin Rifle sawed-off sniper stock",
-            "avg24hPrice": 120110,
-            "changeLast48hPercent": -1.33,
+            "avg24hPrice": 106171,
+            "changeLast48hPercent": -20.85,
             "historicalPrices": [
                 {
                     "price": 120000,
@@ -49835,8 +49835,8 @@
         {
             "id": "5bfd36ad0db834001c38ef66",
             "name": "Mosin Rifle sawed-off stock",
-            "avg24hPrice": 24492,
-            "changeLast48hPercent": 19.33,
+            "avg24hPrice": 22426,
+            "changeLast48hPercent": 9.26,
             "historicalPrices": [
                 {
                     "price": 23518,
@@ -50073,8 +50073,8 @@
         {
             "id": "5bfe86a20db834001d23e8f7",
             "name": "M870 FAB Defense AGR-870 pistol grip",
-            "avg24hPrice": 12759,
-            "changeLast48hPercent": -37.8,
+            "avg24hPrice": 14032,
+            "changeLast48hPercent": -31.6,
             "historicalPrices": [
                 {
                     "price": 15268,
@@ -50272,8 +50272,8 @@
         {
             "id": "5bfea7ad0db834001c38f1ee",
             "name": "M700 7.62x51 Wyatt's Outdoor 5-round magazine",
-            "avg24hPrice": 25238,
-            "changeLast48hPercent": -58.67,
+            "avg24hPrice": 24221,
+            "changeLast48hPercent": -60.34,
             "historicalPrices": [
                 {
                     "price": 17382,
@@ -50423,7 +50423,7 @@
         {
             "id": "5bfebc320db8340019668d79",
             "name": "M700 7.62x51 20 inch threaded barrel",
-            "avg24hPrice": 50000,
+            "avg24hPrice": 51960,
             "changeLast48hPercent": 0,
             "historicalPrices": [
                 {
@@ -50705,8 +50705,8 @@
         {
             "id": "5bffe7c50db834001d23ece1",
             "name": "P226 Axelson Tactical MK25 pistol slide",
-            "avg24hPrice": 21944,
-            "changeLast48hPercent": -9.96,
+            "avg24hPrice": 17588,
+            "changeLast48hPercent": -30.13,
             "historicalPrices": [
                 {
                     "price": 16142,
@@ -51071,8 +51071,8 @@
         {
             "id": "5c010e350db83400232feec7",
             "name": "SP-8 Survival Machete",
-            "avg24hPrice": 63153,
-            "changeLast48hPercent": -7.65,
+            "avg24hPrice": 61313,
+            "changeLast48hPercent": -10.34,
             "historicalPrices": [
                 {
                     "price": 66171,
@@ -51215,8 +51215,8 @@
         {
             "id": "5c0126f40db834002a125382",
             "name": "Red Rebel ice pick",
-            "avg24hPrice": 4132890,
-            "changeLast48hPercent": -5.11,
+            "avg24hPrice": 4088043,
+            "changeLast48hPercent": -6.14,
             "historicalPrices": [
                 {
                     "price": 3769061,
@@ -51263,8 +51263,8 @@
         {
             "id": "5c012ffc0db834001d23f03f",
             "name": "Camper axe",
-            "avg24hPrice": 28311,
-            "changeLast48hPercent": -14.6,
+            "avg24hPrice": 27786,
+            "changeLast48hPercent": -16.19,
             "historicalPrices": [
                 {
                     "price": 24908,
@@ -51312,7 +51312,7 @@
             "id": "5c0505e00db834001b735073",
             "name": "Valday PK-120 (1P87) holographic sight",
             "avg24hPrice": 15070,
-            "changeLast48hPercent": -7.06,
+            "changeLast48hPercent": -4.51,
             "historicalPrices": [
                 {
                     "price": 23246,
@@ -51407,8 +51407,8 @@
         {
             "id": "5c05293e0db83400232fff80",
             "name": "Trijicon ACOG TA01NSN 4x32 scope (Black)",
-            "avg24hPrice": 20567,
-            "changeLast48hPercent": -14.17,
+            "avg24hPrice": 21274,
+            "changeLast48hPercent": -11.22,
             "historicalPrices": [
                 {
                     "price": 24207,
@@ -51558,8 +51558,8 @@
         {
             "id": "5c052f6886f7746b1e3db148",
             "name": "Military COFDM Wireless Signal Transmitter",
-            "avg24hPrice": 92194,
-            "changeLast48hPercent": -0.93,
+            "avg24hPrice": 92255,
+            "changeLast48hPercent": -0.86,
             "historicalPrices": [
                 {
                     "price": 93143,
@@ -51607,7 +51607,7 @@
             "id": "5c052fb986f7746b2101e909",
             "name": "UHF RFID Reader",
             "avg24hPrice": 45220,
-            "changeLast48hPercent": -3.87,
+            "changeLast48hPercent": -4.18,
             "historicalPrices": [
                 {
                     "price": 37061,
@@ -51750,8 +51750,8 @@
         {
             "id": "5c0530ee86f774697952d952",
             "name": "LEDX Skin Transilluminator",
-            "avg24hPrice": 796692,
-            "changeLast48hPercent": -5.6,
+            "avg24hPrice": 804888,
+            "changeLast48hPercent": -3.28,
             "historicalPrices": [
                 {
                     "price": 855231,
@@ -52693,8 +52693,8 @@
         {
             "id": "5c07c60e0db834002330051f",
             "name": "ADAR 2-15 5.56x45 carbine",
-            "avg24hPrice": 35953,
-            "changeLast48hPercent": -12.64,
+            "avg24hPrice": 36562,
+            "changeLast48hPercent": -11.16,
             "historicalPrices": [
                 {
                     "price": 36498,
@@ -52853,8 +52853,8 @@
         {
             "id": "5c08f87c0db8340019124324",
             "name": "ShPM Firefighter helmet",
-            "avg24hPrice": 25643,
-            "changeLast48hPercent": 36.86,
+            "avg24hPrice": 24057,
+            "changeLast48hPercent": 28.39,
             "historicalPrices": [
                 {
                     "price": 17583,
@@ -53261,7 +53261,7 @@
             "id": "5c0d591486f7744c505b416f",
             "name": "12/70 RIP",
             "avg24hPrice": 349,
-            "changeLast48hPercent": -27.02,
+            "changeLast48hPercent": -26.78,
             "historicalPrices": [
                 {
                     "price": 399,
@@ -53465,8 +53465,8 @@
         {
             "id": "5c0e2f94d174af029f650d56",
             "name": "AR-15 5.56x45 Molot Arms 406mm barrel",
-            "avg24hPrice": 18972,
-            "changeLast48hPercent": -14.92,
+            "avg24hPrice": 18988,
+            "changeLast48hPercent": -14.15,
             "historicalPrices": [
                 {
                     "price": 18850,
@@ -53782,7 +53782,7 @@
             "id": "5c0e531d86f7747fa23f4d42",
             "name": "SJ6 TGLabs combat stimulant injector",
             "avg24hPrice": 68326,
-            "changeLast48hPercent": -3.02,
+            "changeLast48hPercent": -2.33,
             "historicalPrices": [
                 {
                     "price": 67291,
@@ -53829,8 +53829,8 @@
         {
             "id": "5c0e533786f7747fa23f4d47",
             "name": "Zagustin hemostatic drug injector",
-            "avg24hPrice": 30251,
-            "changeLast48hPercent": 0.27,
+            "avg24hPrice": 29689,
+            "changeLast48hPercent": -1.59,
             "historicalPrices": [
                 {
                     "price": 30284,
@@ -53878,7 +53878,7 @@
             "id": "5c0e534186f7747fa1419867",
             "name": "eTG-change regenerative stimulant injector",
             "avg24hPrice": 109236,
-            "changeLast48hPercent": -2.22,
+            "changeLast48hPercent": 1.51,
             "historicalPrices": [
                 {
                     "price": 99482,
@@ -54132,7 +54132,7 @@
             "id": "5c0e655586f774045612eeb2",
             "name": "HighCom Trooper TFO body armor (Multicam)",
             "avg24hPrice": 242214,
-            "changeLast48hPercent": 5.86,
+            "changeLast48hPercent": 7.51,
             "historicalPrices": [
                 {
                     "price": 189877,
@@ -54228,7 +54228,7 @@
             "id": "5c0e6a1586f77404597b4965",
             "name": "Belt-A + Belt-B gear rig",
             "avg24hPrice": 28162,
-            "changeLast48hPercent": -5.41,
+            "changeLast48hPercent": -4.17,
             "historicalPrices": [
                 {
                     "price": 28314,
@@ -54344,8 +54344,8 @@
         {
             "id": "5c0e842486f77443a74d2976",
             "name": "Maska-1SCh face shield (Killa)",
-            "avg24hPrice": 109818,
-            "changeLast48hPercent": -35.1,
+            "avg24hPrice": 108388,
+            "changeLast48hPercent": -34.6,
             "historicalPrices": [
                 {
                     "price": 199999,
@@ -54662,8 +54662,8 @@
         {
             "id": "5c10fcb186f774533e5529ab",
             "name": "ADAR 2-15 5.56x45 carbine Default",
-            "avg24hPrice": 35953,
-            "changeLast48hPercent": -12.64,
+            "avg24hPrice": 36562,
+            "changeLast48hPercent": -11.16,
             "historicalPrices": []
         },
         {
@@ -54938,7 +54938,7 @@
             "id": "5c12620d86f7743f8b198b72",
             "name": "Tetriz portable game console",
             "avg24hPrice": 90653,
-            "changeLast48hPercent": -13.06,
+            "changeLast48hPercent": 7.89,
             "historicalPrices": [
                 {
                     "price": 80809,
@@ -55088,8 +55088,8 @@
         {
             "id": "5c12688486f77426843c7d32",
             "name": "Paracord",
-            "avg24hPrice": 32238,
-            "changeLast48hPercent": -18.09,
+            "avg24hPrice": 32822,
+            "changeLast48hPercent": -16.61,
             "historicalPrices": [
                 {
                     "price": 49220,
@@ -55184,8 +55184,8 @@
         {
             "id": "5c13cd2486f774072c757944",
             "name": "Soap",
-            "avg24hPrice": 11921,
-            "changeLast48hPercent": 5.09,
+            "avg24hPrice": 11703,
+            "changeLast48hPercent": 0.65,
             "historicalPrices": [
                 {
                     "price": 11747,
@@ -55232,8 +55232,8 @@
         {
             "id": "5c13cef886f774072e618e82",
             "name": "Toilet paper",
-            "avg24hPrice": 8172,
-            "changeLast48hPercent": -3.22,
+            "avg24hPrice": 8075,
+            "changeLast48hPercent": -4.36,
             "historicalPrices": [
                 {
                     "price": 6318,
@@ -55520,8 +55520,8 @@
         {
             "id": "5c1793902e221602b21d3de2",
             "name": "Crye Precision AirFrame Ears",
-            "avg24hPrice": 36038,
-            "changeLast48hPercent": 4.17,
+            "avg24hPrice": 36129,
+            "changeLast48hPercent": 4.43,
             "historicalPrices": [
                 {
                     "price": 33044,
@@ -55823,7 +55823,7 @@
             "id": "5c1bc5af2e221602b412949b",
             "name": "Zenit RK-2 tactical foregrip",
             "avg24hPrice": 78645,
-            "changeLast48hPercent": 9.36,
+            "changeLast48hPercent": 20.64,
             "historicalPrices": [
                 {
                     "price": 76962,
@@ -56302,8 +56302,8 @@
         {
             "id": "5c1d0efb86f7744baf2e7b7b",
             "name": "TerraGroup Labs keycard (Red)",
-            "avg24hPrice": 53006944,
-            "changeLast48hPercent": -8.92,
+            "avg24hPrice": 53305555,
+            "changeLast48hPercent": -8.4,
             "historicalPrices": [
                 {
                     "price": 55972222,
@@ -56494,8 +56494,8 @@
         {
             "id": "5c1e495a86f7743109743dfb",
             "name": "TerraGroup Labs keycard (Violet)",
-            "avg24hPrice": 8542309,
-            "changeLast48hPercent": 0.2,
+            "avg24hPrice": 8448598,
+            "changeLast48hPercent": -2.81,
             "historicalPrices": [
                 {
                     "price": 7931481,
@@ -56542,8 +56542,8 @@
         {
             "id": "5c1f79a086f7746ed066fb8f",
             "name": "TerraGroup Labs arsenal storage room key",
-            "avg24hPrice": 91542,
-            "changeLast48hPercent": -39.03,
+            "avg24hPrice": 88823,
+            "changeLast48hPercent": -40.84,
             "historicalPrices": [
                 {
                     "price": 76323,
@@ -56855,7 +56855,7 @@
             "id": "5c471c2d2e22164bef5d077f",
             "name": "SVDS upper band",
             "avg24hPrice": 26084,
-            "changeLast48hPercent": 16.67,
+            "changeLast48hPercent": 11.74,
             "historicalPrices": [
                 {
                     "price": 50666,
@@ -56951,7 +56951,7 @@
             "id": "5c471c6c2e221602b66cd9ae",
             "name": "SVDS polymer handguard",
             "avg24hPrice": 29900,
-            "changeLast48hPercent": 0,
+            "changeLast48hPercent": 199,
             "historicalPrices": [
                 {
                     "price": 2000,
@@ -57018,8 +57018,8 @@
         {
             "id": "5c471cb32e221602b177afaa",
             "name": "SVDS 7.62x54R 22 inch barrel",
-            "avg24hPrice": 211285,
-            "changeLast48hPercent": 80.21,
+            "avg24hPrice": 228488,
+            "changeLast48hPercent": 97.48,
             "historicalPrices": [
                 {
                     "price": 196093,
@@ -57067,7 +57067,7 @@
             "id": "5c488a752e221602b412af63",
             "name": "Desert Tech MDR 5.56x45 assault rifle",
             "avg24hPrice": 58187,
-            "changeLast48hPercent": -1.12,
+            "changeLast48hPercent": -1.05,
             "historicalPrices": [
                 {
                     "price": 56545,
@@ -57355,7 +57355,7 @@
             "id": "5c4eec9b2e2216398b5aaba2",
             "name": "SV-98 7.62x54R thread adapter",
             "avg24hPrice": 48851,
-            "changeLast48hPercent": -10.52,
+            "changeLast48hPercent": -17.31,
             "historicalPrices": [
                 {
                     "price": 133000,
@@ -57457,8 +57457,8 @@
         {
             "id": "5c501a4d2e221602b412b540",
             "name": "Molot VPO-101 \"Vepr-Hunter\" 7.62x51 carbine",
-            "avg24hPrice": 42296,
-            "changeLast48hPercent": -4.4,
+            "avg24hPrice": 42472,
+            "changeLast48hPercent": -4,
             "historicalPrices": [
                 {
                     "price": 41490,
@@ -57877,8 +57877,8 @@
         {
             "id": "5c5db5f22e2216000e5e47e8",
             "name": "MPX Midwest Industries 4.5 inch M-LOK handguard",
-            "avg24hPrice": 12190,
-            "changeLast48hPercent": -6.91,
+            "avg24hPrice": 16768,
+            "changeLast48hPercent": 36.51,
             "historicalPrices": [
                 {
                     "price": 32455,
@@ -57974,7 +57974,7 @@
             "id": "5c5db6302e2216000e5e47f0",
             "name": "MPX Midwest Industries 10.5 inch M-LOK handguard",
             "avg24hPrice": 13463,
-            "changeLast48hPercent": -0.18,
+            "changeLast48hPercent": -1,
             "historicalPrices": [
                 {
                     "price": 11599,
@@ -58022,7 +58022,7 @@
             "id": "5c5db63a2e2216000f1b284a",
             "name": "MPX Midwest Industries 14 inch M-LOK handguard",
             "avg24hPrice": 24155,
-            "changeLast48hPercent": -31.54,
+            "changeLast48hPercent": -31.52,
             "historicalPrices": [
                 {
                     "price": 38682,
@@ -58118,7 +58118,7 @@
             "id": "5c5db6652e221600113fba51",
             "name": "MPX 9x19 TTI \"Base Pad +11\" 41-round magazine",
             "avg24hPrice": 26638,
-            "changeLast48hPercent": -9.49,
+            "changeLast48hPercent": -7.79,
             "historicalPrices": [
                 {
                     "price": 17314,
@@ -58401,8 +58401,8 @@
         {
             "id": "5c6162682e22160010261a2b",
             "name": "TOZ-106 dovetail mount",
-            "avg24hPrice": 13822,
-            "changeLast48hPercent": -39.43,
+            "avg24hPrice": 11749,
+            "changeLast48hPercent": -41.75,
             "historicalPrices": [
                 {
                     "price": 4998,
@@ -58600,8 +58600,8 @@
         {
             "id": "5c61a40d2e2216001403158d",
             "name": "Zenit B-13 \"Klassika\" dovetail rail platform",
-            "avg24hPrice": 16675,
-            "changeLast48hPercent": -14.84,
+            "avg24hPrice": 16896,
+            "changeLast48hPercent": -13.71,
             "historicalPrices": [
                 {
                     "price": 16381,
@@ -59464,8 +59464,8 @@
         {
             "id": "5c78f26f2e221601da3581d1",
             "name": "AR-15 Magpul MOE SL medium length M-LOK handguard",
-            "avg24hPrice": 18679,
-            "changeLast48hPercent": -14.02,
+            "avg24hPrice": 17646,
+            "changeLast48hPercent": -19.33,
             "historicalPrices": [
                 {
                     "price": 26355,
@@ -59512,8 +59512,8 @@
         {
             "id": "5c78f2792e221600106f4683",
             "name": "AR-15 Magpul MOE SL carbine length M-LOK handguard",
-            "avg24hPrice": 19654,
-            "changeLast48hPercent": 18.96,
+            "avg24hPrice": 16932,
+            "changeLast48hPercent": -18.7,
             "historicalPrices": [
                 {
                     "price": 11055,
@@ -59609,7 +59609,7 @@
             "id": "5c791e872e2216001219c40a",
             "name": "Strike Industries Cobra Tactical foregrip",
             "avg24hPrice": 27450,
-            "changeLast48hPercent": -9.97,
+            "changeLast48hPercent": -7.45,
             "historicalPrices": [
                 {
                     "price": 36251,
@@ -59657,7 +59657,7 @@
             "id": "5c793fb92e221644f31bfb64",
             "name": "Strike Industries Advanced Receiver Extension buffer tube",
             "avg24hPrice": 141581,
-            "changeLast48hPercent": 10.17,
+            "changeLast48hPercent": 21.64,
             "historicalPrices": [
                 {
                     "price": 110277,
@@ -59848,8 +59848,8 @@
         {
             "id": "5c7954d52e221600106f4cc7",
             "name": "Gemtech ONE Direct Thread Mount adapter",
-            "avg24hPrice": 68519,
-            "changeLast48hPercent": -7.86,
+            "avg24hPrice": 66041,
+            "changeLast48hPercent": -12.9,
             "historicalPrices": [
                 {
                     "price": 59712,
@@ -59945,7 +59945,7 @@
             "id": "5c7d55de2e221644f31bff68",
             "name": "Aimpoint CompM4 reflex sight",
             "avg24hPrice": 18441,
-            "changeLast48hPercent": -4.34,
+            "changeLast48hPercent": -3.34,
             "historicalPrices": [
                 {
                     "price": 18731,
@@ -60040,8 +60040,8 @@
         {
             "id": "5c7d560b2e22160bc12c6139",
             "name": "Aimpoint Standard Spacer",
-            "avg24hPrice": 15079,
-            "changeLast48hPercent": -7.02,
+            "avg24hPrice": 14888,
+            "changeLast48hPercent": -9.44,
             "historicalPrices": [
                 {
                     "price": 8196,
@@ -60088,8 +60088,8 @@
         {
             "id": "5c7e5f112e221600106f4ede",
             "name": "AR-15 AAC Blackout 51T 5.56x45 flash hider",
-            "avg24hPrice": 20590,
-            "changeLast48hPercent": -54.88,
+            "avg24hPrice": 21588,
+            "changeLast48hPercent": -52.69,
             "historicalPrices": [
                 {
                     "price": 30432,
@@ -60184,8 +60184,8 @@
         {
             "id": "5c7fb51d2e2216001219ce11",
             "name": "AR-15 SureFire SF3P 5.56x45 Flash hider",
-            "avg24hPrice": 36026,
-            "changeLast48hPercent": 35.86,
+            "avg24hPrice": 40210,
+            "changeLast48hPercent": 51.13,
             "historicalPrices": [
                 {
                     "price": 24199,
@@ -60424,8 +60424,8 @@
         {
             "id": "5c878e9d2e2216000f201903",
             "name": "AR-10 Lantac Dragon 7.62x51 muzzle brake-compensator",
-            "avg24hPrice": 43262,
-            "changeLast48hPercent": -7.96,
+            "avg24hPrice": 47913,
+            "changeLast48hPercent": 1.93,
             "historicalPrices": [
                 {
                     "price": 47905,
@@ -60767,8 +60767,8 @@
         {
             "id": "5c94bbff86f7747ee735c08f",
             "name": "TerraGroup Labs access keycard",
-            "avg24hPrice": 197956,
-            "changeLast48hPercent": -0.15,
+            "avg24hPrice": 196815,
+            "changeLast48hPercent": -1.09,
             "historicalPrices": [
                 {
                     "price": 190342,
@@ -60816,7 +60816,7 @@
             "id": "5c98bd7386f7740cfb15654e",
             "name": "Desert Tech MDR 5.56x45 assault rifle Default",
             "avg24hPrice": 58187,
-            "changeLast48hPercent": -1.12,
+            "changeLast48hPercent": -1.05,
             "historicalPrices": []
         },
         {
@@ -60829,8 +60829,8 @@
         {
             "id": "5c98bf9186f7740cf708c509",
             "name": "Molot VPO-101 \"Vepr-Hunter\" 7.62x51 carbine Default",
-            "avg24hPrice": 42296,
-            "changeLast48hPercent": -4.4,
+            "avg24hPrice": 42472,
+            "changeLast48hPercent": -4,
             "historicalPrices": []
         },
         {
@@ -60981,7 +60981,7 @@
             "id": "5c9a1c422e221600106f69f0",
             "name": "AK Magpul Zhukov-U handguard (Plum)",
             "avg24hPrice": 22120,
-            "changeLast48hPercent": -4.51,
+            "changeLast48hPercent": -2.73,
             "historicalPrices": [
                 {
                     "price": 17657,
@@ -61029,7 +61029,7 @@
             "id": "5c9a25172e2216000f20314e",
             "name": "AR-15 Daniel Defense RIS II 12.25 handguard (Coyote Brown)",
             "avg24hPrice": 20969,
-            "changeLast48hPercent": 7.89,
+            "changeLast48hPercent": 8.04,
             "historicalPrices": [
                 {
                     "price": 17912,
@@ -61248,8 +61248,8 @@
         {
             "id": "5cadc190ae921500103bb3b6",
             "name": "Beretta M9A3 9x19 pistol",
-            "avg24hPrice": 14324,
-            "changeLast48hPercent": -14.25,
+            "avg24hPrice": 15728,
+            "changeLast48hPercent": -0.49,
             "historicalPrices": [
                 {
                     "price": 17521,
@@ -61401,8 +61401,8 @@
         {
             "id": "5cadd954ae921500103bb3c2",
             "name": "M9A3 Sight Mount rear sight rail",
-            "avg24hPrice": 7375,
-            "changeLast48hPercent": -35.6,
+            "avg24hPrice": 7395,
+            "changeLast48hPercent": -34.7,
             "historicalPrices": [
                 {
                     "price": 9583,
@@ -61860,8 +61860,8 @@
         {
             "id": "5cbda392ae92155f3c17c39f",
             "name": "AK 100-series polymer handguard",
-            "avg24hPrice": 48890,
-            "changeLast48hPercent": 224.49,
+            "avg24hPrice": 48613,
+            "changeLast48hPercent": 122.85,
             "historicalPrices": [
                 {
                     "price": 39999,
@@ -61956,8 +61956,8 @@
         {
             "id": "5cbdaf89ae9215000e5b9c94",
             "name": "AK-74 5.45x39 6L23 \"Plum\" 30-round magazine",
-            "avg24hPrice": 0,
-            "changeLast48hPercent": 0,
+            "avg24hPrice": 14000,
+            "changeLast48hPercent": 15.97,
             "historicalPrices": [
                 {
                     "price": 5750,
@@ -62114,8 +62114,8 @@
         {
             "id": "5cc70093e4a949033c734312",
             "name": "FN P90 5.7x28 50-round magazine",
-            "avg24hPrice": 31042,
-            "changeLast48hPercent": -4.57,
+            "avg24hPrice": 30595,
+            "changeLast48hPercent": -5.95,
             "historicalPrices": [
                 {
                     "price": 34921,
@@ -62262,7 +62262,7 @@
             "id": "5cc700ede4a949033c734315",
             "name": "FN P90 EFFEN 90 5.7x28 upper receiver",
             "avg24hPrice": 23364,
-            "changeLast48hPercent": -31.51,
+            "changeLast48hPercent": -28.65,
             "historicalPrices": [
                 {
                     "price": 32944,
@@ -63747,7 +63747,7 @@
             "id": "5cf4e3f3d7f00c06595bc7f0",
             "name": "AK 5.45 Design Aggressor handguard",
             "avg24hPrice": 37588,
-            "changeLast48hPercent": -4.01,
+            "changeLast48hPercent": -10.47,
             "historicalPrices": [
                 {
                     "price": 38146,
@@ -64377,8 +64377,8 @@
         {
             "id": "5cf78496d7f00c065703d6ca",
             "name": "Lantac BMD Blast Mitigation Device A3 direct thread adapter",
-            "avg24hPrice": 51505,
-            "changeLast48hPercent": 11.1,
+            "avg24hPrice": 52738,
+            "changeLast48hPercent": 12.14,
             "historicalPrices": [
                 {
                     "price": 49418,
@@ -64679,8 +64679,8 @@
         {
             "id": "5cff9e84d7ad1a049e54ed55",
             "name": "Daniel Defense WAVE QD sound suppressor",
-            "avg24hPrice": 58443,
-            "changeLast48hPercent": 19.68,
+            "avg24hPrice": 58457,
+            "changeLast48hPercent": 19.71,
             "historicalPrices": [
                 {
                     "price": 56436,
@@ -64775,8 +64775,8 @@
         {
             "id": "5d00ec68d7ad1a04a067e5be",
             "name": "AR-15 JP Enterprises Gas System-5B",
-            "avg24hPrice": 40996,
-            "changeLast48hPercent": 17.78,
+            "avg24hPrice": 40654,
+            "changeLast48hPercent": 16.14,
             "historicalPrices": [
                 {
                     "price": 48150,
@@ -64823,8 +64823,8 @@
         {
             "id": "5d00ede1d7ad1a0940739a76",
             "name": "AR-10 Noveske SWS N6 10.5 inch handguard",
-            "avg24hPrice": 19166,
-            "changeLast48hPercent": -3.64,
+            "avg24hPrice": 18469,
+            "changeLast48hPercent": -19.11,
             "historicalPrices": [
                 {
                     "price": 17072,
@@ -64919,8 +64919,8 @@
         {
             "id": "5d00f63bd7ad1a59283b1c1e",
             "name": "AR-15 Strike Industries Viper carbine length M-LOK handguard (FDE)",
-            "avg24hPrice": 27373,
-            "changeLast48hPercent": 28.07,
+            "avg24hPrice": 23425,
+            "changeLast48hPercent": 9.6,
             "historicalPrices": [
                 {
                     "price": 18058,
@@ -65160,7 +65160,7 @@
             "id": "5d025cc1d7ad1a53845279ef",
             "name": "AR-15 HK Ergo PSG-1 style pistol grip",
             "avg24hPrice": 69392,
-            "changeLast48hPercent": -7.05,
+            "changeLast48hPercent": 5.26,
             "historicalPrices": [
                 {
                     "price": 73386,
@@ -65207,8 +65207,8 @@
         {
             "id": "5d02676dd7ad1a049e54f6dc",
             "name": "AR-15 Nordic Components Corvette 5.56x45 compensator",
-            "avg24hPrice": 18599,
-            "changeLast48hPercent": -23.15,
+            "avg24hPrice": 17718,
+            "changeLast48hPercent": -26.79,
             "historicalPrices": [
                 {
                     "price": 15268,
@@ -65352,7 +65352,7 @@
             "id": "5d02778e86f774203e7dedbe",
             "name": "CMS surgical kit",
             "avg24hPrice": 32334,
-            "changeLast48hPercent": -12.51,
+            "changeLast48hPercent": -16.4,
             "historicalPrices": [
                 {
                     "price": 35220,
@@ -65592,7 +65592,7 @@
             "id": "5d0377ce86f774186372f689",
             "name": "Iridium military thermal vision module",
             "avg24hPrice": 59467,
-            "changeLast48hPercent": -1.07,
+            "changeLast48hPercent": -0.56,
             "historicalPrices": [
                 {
                     "price": 74466,
@@ -65783,8 +65783,8 @@
         {
             "id": "5d0379a886f77420407aa271",
             "name": "OFZ 30x160mm shell",
-            "avg24hPrice": 77786,
-            "changeLast48hPercent": 9.14,
+            "avg24hPrice": 77778,
+            "changeLast48hPercent": 9.13,
             "historicalPrices": [
                 {
                     "price": 48392,
@@ -65916,7 +65916,7 @@
             "id": "5d0a29fed7ad1a002769ad08",
             "name": "KMZ 1P69 Weaver mount",
             "avg24hPrice": 27366,
-            "changeLast48hPercent": -24.53,
+            "changeLast48hPercent": -22.3,
             "historicalPrices": [
                 {
                     "price": 31388,
@@ -66072,7 +66072,7 @@
             "id": "5d10b49bd7ad1a1a560708b0",
             "name": "AN/PEQ-2 tactical device",
             "avg24hPrice": 13723,
-            "changeLast48hPercent": 16.67,
+            "changeLast48hPercent": 15.09,
             "historicalPrices": [
                 {
                     "price": 12264,
@@ -66498,7 +66498,7 @@
             "id": "5d1340cad7ad1a0b0b249869",
             "name": "5.56x45 Magpul PMAG 30 GEN M3 W STANAG 30-round magazine (FDE)",
             "avg24hPrice": 26412,
-            "changeLast48hPercent": -23.37,
+            "changeLast48hPercent": -9.3,
             "historicalPrices": [
                 {
                     "price": 28148,
@@ -66690,7 +66690,7 @@
             "id": "5d15cf3bd7ad1a67e71518b2",
             "name": "AR-15 Magpul MOE pistol grip (FDE)",
             "avg24hPrice": 32222,
-            "changeLast48hPercent": -46.22,
+            "changeLast48hPercent": -41.11,
             "historicalPrices": [
                 {
                     "price": 66786,
@@ -66881,8 +66881,8 @@
         {
             "id": "5d1b2fa286f77425227d1674",
             "name": "Electric motor",
-            "avg24hPrice": 69358,
-            "changeLast48hPercent": -14.15,
+            "avg24hPrice": 64667,
+            "changeLast48hPercent": -19.96,
             "historicalPrices": [
                 {
                     "price": 60061,
@@ -66977,8 +66977,8 @@
         {
             "id": "5d1b304286f774253763a528",
             "name": "Working LCD",
-            "avg24hPrice": 32654,
-            "changeLast48hPercent": 10.8,
+            "avg24hPrice": 31763,
+            "changeLast48hPercent": 7.78,
             "historicalPrices": [
                 {
                     "price": 35509,
@@ -67169,8 +67169,8 @@
         {
             "id": "5d1b31ce86f7742523398394",
             "name": "Round pliers",
-            "avg24hPrice": 17770,
-            "changeLast48hPercent": 3.36,
+            "avg24hPrice": 17706,
+            "changeLast48hPercent": 2.99,
             "historicalPrices": [
                 {
                     "price": 17456,
@@ -67553,8 +67553,8 @@
         {
             "id": "5d1b392c86f77425243e98fe",
             "name": "Light bulb",
-            "avg24hPrice": 18427,
-            "changeLast48hPercent": 4.72,
+            "avg24hPrice": 19423,
+            "changeLast48hPercent": 14.39,
             "historicalPrices": [
                 {
                     "price": 24867,
@@ -67602,7 +67602,7 @@
             "id": "5d1b39a386f774252339976f",
             "name": "Silicone tube",
             "avg24hPrice": 18986,
-            "changeLast48hPercent": -15.17,
+            "changeLast48hPercent": -14.86,
             "historicalPrices": [
                 {
                     "price": 14972,
@@ -67698,7 +67698,7 @@
             "id": "5d1b3f2d86f774253763b735",
             "name": "Disposable syringe",
             "avg24hPrice": 23909,
-            "changeLast48hPercent": -7,
+            "changeLast48hPercent": -13.28,
             "historicalPrices": [
                 {
                     "price": 19251,
@@ -67896,8 +67896,8 @@
         {
             "id": "5d1f819086f7744b355c219b",
             "name": "AR-10 Daniel Defense WAVE 7.62x51 muzzle brake",
-            "avg24hPrice": 33244,
-            "changeLast48hPercent": -8.22,
+            "avg24hPrice": 30570,
+            "changeLast48hPercent": -26.37,
             "historicalPrices": [
                 {
                     "price": 20184,
@@ -68076,7 +68076,7 @@
             "id": "5d235bb686f77443f4331278",
             "name": "S I C C organizational pouch",
             "avg24hPrice": 6364444,
-            "changeLast48hPercent": -1.39,
+            "changeLast48hPercent": 3.48,
             "historicalPrices": [
                 {
                     "price": 6944443,
@@ -68487,8 +68487,8 @@
         {
             "id": "5d2c76ed48f03532f2136169",
             "name": "AK AKademia Bastion dust cover",
-            "avg24hPrice": 12697,
-            "changeLast48hPercent": 11.13,
+            "avg24hPrice": 13727,
+            "changeLast48hPercent": 20.14,
             "historicalPrices": [
                 {
                     "price": 19490,
@@ -68679,8 +68679,8 @@
         {
             "id": "5d2da1e948f035477b1ce2ba",
             "name": "Trijicon SRS-02 reflex sight",
-            "avg24hPrice": 18866,
-            "changeLast48hPercent": -5.99,
+            "avg24hPrice": 18833,
+            "changeLast48hPercent": -6.16,
             "historicalPrices": [
                 {
                     "price": 20303,
@@ -68727,8 +68727,8 @@
         {
             "id": "5d2dc3e548f035404a1a4798",
             "name": "Monstrum Tactical Compact Prism Scope 2x32",
-            "avg24hPrice": 40049,
-            "changeLast48hPercent": 1.02,
+            "avg24hPrice": 39818,
+            "changeLast48hPercent": -1.06,
             "historicalPrices": [
                 {
                     "price": 52227,
@@ -68916,7 +68916,7 @@
             "id": "5d3eb3b0a4b93615055e84d2",
             "name": "FN Five-seveN MK2 5.7x28 pistol",
             "avg24hPrice": 23215,
-            "changeLast48hPercent": -11.45,
+            "changeLast48hPercent": -7.01,
             "historicalPrices": [
                 {
                     "price": 25208,
@@ -69249,8 +69249,8 @@
         {
             "id": "5d3f0bc986f7743cb332abdc",
             "name": "Beretta M9A3 9x19 pistol Default",
-            "avg24hPrice": 14324,
-            "changeLast48hPercent": -14.25,
+            "avg24hPrice": 15728,
+            "changeLast48hPercent": -0.49,
             "historicalPrices": []
         },
         {
@@ -69352,8 +69352,8 @@
         {
             "id": "5d40412b86f7743cb332ac3a",
             "name": "Schaman shampoo",
-            "avg24hPrice": 26849,
-            "changeLast48hPercent": 10.33,
+            "avg24hPrice": 26764,
+            "changeLast48hPercent": 9.98,
             "historicalPrices": [
                 {
                     "price": 23992,
@@ -69689,7 +69689,7 @@
             "id": "5d4405f0a4b9361e6a4e6bd9",
             "name": "AR-15 Lone Star Ion Lite handguard",
             "avg24hPrice": 27237,
-            "changeLast48hPercent": -11.34,
+            "changeLast48hPercent": -16.43,
             "historicalPrices": [
                 {
                     "price": 31680,
@@ -69928,8 +69928,8 @@
         {
             "id": "5d440b93a4b9364276578d4b",
             "name": "AR-15 5.56x45 18 inch barrel",
-            "avg24hPrice": 79082,
-            "changeLast48hPercent": -12.11,
+            "avg24hPrice": 75820,
+            "changeLast48hPercent": -15.4,
             "historicalPrices": [
                 {
                     "price": 114332,
@@ -70072,8 +70072,8 @@
         {
             "id": "5d443f8fa4b93678dd4a01aa",
             "name": "AR-10 Thunder Beast Arms 30CB 7.62x51 muzzle brake",
-            "avg24hPrice": 25666,
-            "changeLast48hPercent": 16.56,
+            "avg24hPrice": 21710,
+            "changeLast48hPercent": -16.87,
             "historicalPrices": [
                 {
                     "price": 30004,
@@ -70169,7 +70169,7 @@
             "id": "5d4aaa73a4b9365392071175",
             "name": "AK TDI AKM-L handguard (Anodized Bronze)",
             "avg24hPrice": 29655,
-            "changeLast48hPercent": -19.79,
+            "changeLast48hPercent": -21.52,
             "historicalPrices": [
                 {
                     "price": 22854,
@@ -70272,7 +70272,7 @@
             "id": "5d51290186f77419093e7c24",
             "name": "FN Five-seveN MK2 5.7x28 pistol Default",
             "avg24hPrice": 23215,
-            "changeLast48hPercent": -11.45,
+            "changeLast48hPercent": -7.01,
             "historicalPrices": []
         },
         {
@@ -70477,8 +70477,8 @@
         {
             "id": "5d5e7d28a4b936645d161203",
             "name": "MSA ACH TC-2001 MICH Series helmet",
-            "avg24hPrice": 54456,
-            "changeLast48hPercent": -2.31,
+            "avg24hPrice": 54999,
+            "changeLast48hPercent": -0.34,
             "historicalPrices": [
                 {
                     "price": 59465,
@@ -70525,8 +70525,8 @@
         {
             "id": "5d5e9c74a4b9364855191c40",
             "name": "MSA ACH TC-2002 MICH Series helmet",
-            "avg24hPrice": 58388,
-            "changeLast48hPercent": -2.88,
+            "avg24hPrice": 58979,
+            "changeLast48hPercent": 1.31,
             "historicalPrices": [
                 {
                     "price": 58645,
@@ -70669,8 +70669,8 @@
         {
             "id": "5d67abc1a4b93614ec50137f",
             "name": "FN Five-seveN MK2 5.7x28 pistol (FDE)",
-            "avg24hPrice": 20665,
-            "changeLast48hPercent": -5.02,
+            "avg24hPrice": 21319,
+            "changeLast48hPercent": -2.02,
             "historicalPrices": [
                 {
                     "price": 22824,
@@ -70813,8 +70813,8 @@
         {
             "id": "5d6d3716a4b9361bc8618872",
             "name": "BNTI LShZ-2DTM helmet",
-            "avg24hPrice": 112177,
-            "changeLast48hPercent": 6.29,
+            "avg24hPrice": 115029,
+            "changeLast48hPercent": 8.78,
             "historicalPrices": [
                 {
                     "price": 115536,
@@ -71169,8 +71169,8 @@
         {
             "id": "5d6e6891a4b9361bd473feea",
             "name": "12/70 \"Poleva-3\" slug",
-            "avg24hPrice": 275,
-            "changeLast48hPercent": 127.27,
+            "avg24hPrice": 100,
+            "changeLast48hPercent": -42.2,
             "historicalPrices": [
                 {
                     "price": 152,
@@ -71562,8 +71562,8 @@
         {
             "id": "5d6e6a05a4b93618084f58d0",
             "name": "20/70 Star slug",
-            "avg24hPrice": 646,
-            "changeLast48hPercent": 120.74,
+            "avg24hPrice": 487,
+            "changeLast48hPercent": 66.41,
             "historicalPrices": [
                 {
                     "price": 84,
@@ -71838,7 +71838,7 @@
         {
             "id": "5d7b6bafa4b93652786f4c76",
             "name": "FN Five-seveN MK2 RMR mount",
-            "avg24hPrice": 32543,
+            "avg24hPrice": 40331,
             "changeLast48hPercent": 0,
             "historicalPrices": [
                 {
@@ -71886,15 +71886,15 @@
         {
             "id": "5d7b845786f7743c1e531da7",
             "name": "FN Five-seveN MK2 5.7x28 pistol (FDE) Default",
-            "avg24hPrice": 20665,
-            "changeLast48hPercent": -5.02,
+            "avg24hPrice": 21319,
+            "changeLast48hPercent": -2.02,
             "historicalPrices": []
         },
         {
             "id": "5d80c60f86f77440373c4ece",
             "name": "RB-BK marked key",
-            "avg24hPrice": 490121,
-            "changeLast48hPercent": 3.71,
+            "avg24hPrice": 484322,
+            "changeLast48hPercent": 2.48,
             "historicalPrices": [
                 {
                     "price": 440686,
@@ -72373,8 +72373,8 @@
         {
             "id": "5d80ca9086f774403a401e40",
             "name": "RB-MP21 key",
-            "avg24hPrice": 28304,
-            "changeLast48hPercent": -9.16,
+            "avg24hPrice": 29888,
+            "changeLast48hPercent": 0.14,
             "historicalPrices": [
                 {
                     "price": 25241,
@@ -72565,8 +72565,8 @@
         {
             "id": "5d80cb8786f774405611c7d9",
             "name": "RB-PP key",
-            "avg24hPrice": 11301,
-            "changeLast48hPercent": -1.47,
+            "avg24hPrice": 10548,
+            "changeLast48hPercent": -8.04,
             "historicalPrices": [
                 {
                     "price": 14444,
@@ -72709,8 +72709,8 @@
         {
             "id": "5d80ccdd86f77474f7575e02",
             "name": "RB-ORB2 key",
-            "avg24hPrice": 107931,
-            "changeLast48hPercent": -6.69,
+            "avg24hPrice": 99933,
+            "changeLast48hPercent": -13.6,
             "historicalPrices": [
                 {
                     "price": 108828,
@@ -73801,7 +73801,7 @@
             "id": "5de7bd7bfd6b4e6e2276dc25",
             "name": "B&T MP9-N 9x19 submachine gun",
             "avg24hPrice": 22441,
-            "changeLast48hPercent": -5.65,
+            "changeLast48hPercent": -0.93,
             "historicalPrices": [
                 {
                     "price": 23036,
@@ -74005,7 +74005,7 @@
             "id": "5de8eac42a78646d96665d91",
             "name": "MP9 9x19 30-round magazine",
             "avg24hPrice": 22768,
-            "changeLast48hPercent": -10.9,
+            "changeLast48hPercent": -10.36,
             "historicalPrices": [
                 {
                     "price": 19318,
@@ -74381,7 +74381,7 @@
         {
             "id": "5df35ddddfc58d14537c2036",
             "name": "ORSIS T-5000M stock",
-            "avg24hPrice": 60000,
+            "avg24hPrice": 0,
             "changeLast48hPercent": 0,
             "historicalPrices": [
                 {
@@ -74434,7 +74434,7 @@
             "id": "5df35e7f2a78646d96665dd4",
             "name": "ORSIS T-5000M 7.62x51 muzzle brake-compensator",
             "avg24hPrice": 8682,
-            "changeLast48hPercent": 22.28,
+            "changeLast48hPercent": 16.08,
             "historicalPrices": [
                 {
                     "price": 13777,
@@ -74636,8 +74636,8 @@
         {
             "id": "5df8a2ca86f7740bfe6df777",
             "name": "6B2 body armor (Flora)",
-            "avg24hPrice": 29764,
-            "changeLast48hPercent": -10.71,
+            "avg24hPrice": 32560,
+            "changeLast48hPercent": 14.51,
             "historicalPrices": [
                 {
                     "price": 30000,
@@ -74832,7 +74832,7 @@
             "id": "5df8e085bb49d91fb446d6a8",
             "name": "AR-10 KAC ambidextrous charging handle",
             "avg24hPrice": 12789,
-            "changeLast48hPercent": -21.03,
+            "changeLast48hPercent": -15.23,
             "historicalPrices": [
                 {
                     "price": 9673,
@@ -75023,8 +75023,8 @@
         {
             "id": "5df916dfbb49d91fb446d6b9",
             "name": "AR-10 KAC URX 4 14.5 inch handguard",
-            "avg24hPrice": 24518,
-            "changeLast48hPercent": -23.58,
+            "avg24hPrice": 23600,
+            "changeLast48hPercent": -26.22,
             "historicalPrices": [
                 {
                     "price": 21332,
@@ -75168,7 +75168,7 @@
             "id": "5dfa3cd1b33c0951220c079b",
             "name": "AR-10 KAC QDC 7.62x51 Flash Suppressor Kit",
             "avg24hPrice": 9826,
-            "changeLast48hPercent": -14.14,
+            "changeLast48hPercent": -16.74,
             "historicalPrices": [
                 {
                     "price": 11997,
@@ -75359,8 +75359,8 @@
         {
             "id": "5dfa3d950dee1b22f862eae0",
             "name": "KAC Folding Micro front sight",
-            "avg24hPrice": 19805,
-            "changeLast48hPercent": 13.18,
+            "avg24hPrice": 20210,
+            "changeLast48hPercent": 15.5,
             "historicalPrices": [
                 {
                     "price": 15628,
@@ -76019,7 +76019,7 @@
             "id": "5e023cf8186a883be655e54f",
             "name": "7.62x54mm R T-46M gzh",
             "avg24hPrice": 333,
-            "changeLast48hPercent": -12.28,
+            "changeLast48hPercent": -5.94,
             "historicalPrices": [
                 {
                     "price": 626,
@@ -76128,8 +76128,8 @@
         {
             "id": "5e023e6e34d52a55c3304f71",
             "name": "7.62x51mm TCW SP",
-            "avg24hPrice": 624,
-            "changeLast48hPercent": 43.78,
+            "avg24hPrice": 666,
+            "changeLast48hPercent": 40.57,
             "historicalPrices": [
                 {
                     "price": 1515,
@@ -76176,8 +76176,8 @@
         {
             "id": "5e023e88277cce2b522ff2b1",
             "name": "7.62x51mm Ultra Nosler",
-            "avg24hPrice": 4621,
-            "changeLast48hPercent": -60.28,
+            "avg24hPrice": 5739,
+            "changeLast48hPercent": -50.67,
             "historicalPrices": [
                 {
                     "price": 2222,
@@ -76232,7 +76232,7 @@
             "id": "5e03410186f77469041348ea",
             "name": "B&T MP9-N 9x19 submachine gun Default",
             "avg24hPrice": 22441,
-            "changeLast48hPercent": -5.65,
+            "changeLast48hPercent": -0.93,
             "historicalPrices": []
         },
         {
@@ -76554,8 +76554,8 @@
         {
             "id": "5e2aee0a86f774755a234b62",
             "name": "Cyclon rechargeable battery",
-            "avg24hPrice": 54988,
-            "changeLast48hPercent": -0.46,
+            "avg24hPrice": 54938,
+            "changeLast48hPercent": -0.55,
             "historicalPrices": [
                 {
                     "price": 54306,
@@ -76602,8 +76602,8 @@
         {
             "id": "5e2aef7986f7746d3f3c33f5",
             "name": "Repellent",
-            "avg24hPrice": 21146,
-            "changeLast48hPercent": 4.47,
+            "avg24hPrice": 20143,
+            "changeLast48hPercent": -2.39,
             "historicalPrices": [
                 {
                     "price": 16021,
@@ -76650,8 +76650,8 @@
         {
             "id": "5e2af00086f7746d3f3c33f7",
             "name": "Smoked Chimney drain cleaner",
-            "avg24hPrice": 13125,
-            "changeLast48hPercent": -8.82,
+            "avg24hPrice": 14427,
+            "changeLast48hPercent": 0.23,
             "historicalPrices": [
                 {
                     "price": 37030,
@@ -76699,7 +76699,7 @@
             "id": "5e2af02c86f7746d420957d4",
             "name": "Pack of chlorine",
             "avg24hPrice": 23891,
-            "changeLast48hPercent": -0.29,
+            "changeLast48hPercent": -7.43,
             "historicalPrices": [
                 {
                     "price": 19954,
@@ -76939,7 +76939,7 @@
             "id": "5e2af41e86f774755a234b67",
             "name": "Cordura polyamide fabric",
             "avg24hPrice": 28300,
-            "changeLast48hPercent": -5.7,
+            "changeLast48hPercent": -3.37,
             "historicalPrices": [
                 {
                     "price": 30145,
@@ -77034,8 +77034,8 @@
         {
             "id": "5e2af4a786f7746d3f3c3400",
             "name": "Ripstop fabric",
-            "avg24hPrice": 28253,
-            "changeLast48hPercent": 0.8,
+            "avg24hPrice": 28726,
+            "changeLast48hPercent": 4.33,
             "historicalPrices": [
                 {
                     "price": 29584,
@@ -77474,7 +77474,7 @@
             "id": "5e4abc1f86f774069619fbaa",
             "name": "Spiritus Systems Bank Robber chest rig",
             "avg24hPrice": 15572,
-            "changeLast48hPercent": 12.24,
+            "changeLast48hPercent": 17.35,
             "historicalPrices": [
                 {
                     "price": 11000,
@@ -77521,8 +77521,8 @@
         {
             "id": "5e4abc6786f77406812bd572",
             "name": "LBT-2670 Slim Field Med Pack",
-            "avg24hPrice": 66225,
-            "changeLast48hPercent": -30.42,
+            "avg24hPrice": 67746,
+            "changeLast48hPercent": -28.82,
             "historicalPrices": [
                 {
                     "price": 65407,
@@ -77625,7 +77625,7 @@
             "id": "5e4bfc1586f774264f7582d3",
             "name": "MSA Gallet TC 800 High Cut combat helmet",
             "avg24hPrice": 70562,
-            "changeLast48hPercent": -15.18,
+            "changeLast48hPercent": -14.38,
             "historicalPrices": [
                 {
                     "price": 74930,
@@ -77768,8 +77768,8 @@
         {
             "id": "5e54f6af86f7742199090bf3",
             "name": "Can of Dr. Lupo's coffee beans",
-            "avg24hPrice": 35753,
-            "changeLast48hPercent": 0.06,
+            "avg24hPrice": 35103,
+            "changeLast48hPercent": -3.17,
             "historicalPrices": [
                 {
                     "price": 36221,
@@ -78203,8 +78203,8 @@
         {
             "id": "5e71fad086f77422443d4604",
             "name": "Twitch Rivals 2020 half-mask",
-            "avg24hPrice": 150000,
-            "changeLast48hPercent": -58.54,
+            "avg24hPrice": 0,
+            "changeLast48hPercent": 0,
             "historicalPrices": [
                 {
                     "price": 417453,
@@ -78732,8 +78732,8 @@
         {
             "id": "5e85a9a6eacf8c039e4e2ac1",
             "name": "23x75mm Shrapnel-10 buckshot",
-            "avg24hPrice": 2367,
-            "changeLast48hPercent": 36.01,
+            "avg24hPrice": 2363,
+            "changeLast48hPercent": 35.78,
             "historicalPrices": [
                 {
                     "price": 704,
@@ -78990,8 +78990,8 @@
         {
             "id": "5e8f3423fd7471236e6e3b64",
             "name": "Bottle of \"Norvinskiy Yadreniy\" premium kvass (0.6L)",
-            "avg24hPrice": 24005,
-            "changeLast48hPercent": -9.69,
+            "avg24hPrice": 24363,
+            "changeLast48hPercent": -5.55,
             "historicalPrices": [
                 {
                     "price": 29054,
@@ -79141,8 +79141,8 @@
         {
             "id": "5e9dcf5986f7746c417435b3",
             "name": "LBT-8005A Day Pack backpack",
-            "avg24hPrice": 27475,
-            "changeLast48hPercent": -8.59,
+            "avg24hPrice": 29105,
+            "changeLast48hPercent": -3.17,
             "historicalPrices": [
                 {
                     "price": 36995,
@@ -79402,8 +79402,8 @@
         {
             "id": "5ea05cf85ad9772e6624305d",
             "name": "Tac-Kek FAST MT helmet (Replica)",
-            "avg24hPrice": 21293,
-            "changeLast48hPercent": -16.9,
+            "avg24hPrice": 22282,
+            "changeLast48hPercent": -13.05,
             "historicalPrices": [
                 {
                     "price": 22013,
@@ -79594,8 +79594,8 @@
         {
             "id": "5ea172e498dacb342978818e",
             "name": "AR-15 SureFire SF4P 5.56x45 flash hider",
-            "avg24hPrice": 33884,
-            "changeLast48hPercent": -10.63,
+            "avg24hPrice": 30910,
+            "changeLast48hPercent": -20.19,
             "historicalPrices": [
                 {
                     "price": 34005,
@@ -79691,7 +79691,7 @@
             "id": "5ea17ca01412a1425304d1c0",
             "name": "Diamond Age Bastion helmet",
             "avg24hPrice": 86781,
-            "changeLast48hPercent": -2.94,
+            "changeLast48hPercent": -2.87,
             "historicalPrices": [
                 {
                     "price": 94775,
@@ -79862,8 +79862,8 @@
         {
             "id": "5ed515c8d380ab312177c0fa",
             "name": "3-(b-TG) stimulant injector",
-            "avg24hPrice": 39177,
-            "changeLast48hPercent": 3.99,
+            "avg24hPrice": 37534,
+            "changeLast48hPercent": -17,
             "historicalPrices": [
                 {
                     "price": 35751,
@@ -80151,7 +80151,7 @@
             "id": "5ed5166ad380ab312177c100",
             "name": "\"Obdolbos\" cocktail injector",
             "avg24hPrice": 38999,
-            "changeLast48hPercent": -1.4,
+            "changeLast48hPercent": -1.75,
             "historicalPrices": [
                 {
                     "price": 38998,
@@ -80404,8 +80404,8 @@
         {
             "id": "5ede7b0c6d23e5473e6e8c66",
             "name": "RB-RLSA key",
-            "avg24hPrice": 49543,
-            "changeLast48hPercent": -1.83,
+            "avg24hPrice": 49510,
+            "changeLast48hPercent": -3.9,
             "historicalPrices": [
                 {
                     "price": 50275,
@@ -80452,8 +80452,8 @@
         {
             "id": "5eea21647547d6330471b3c9",
             "name": "Mossberg 590A1 Magpul MOE forestock",
-            "avg24hPrice": 12653,
-            "changeLast48hPercent": -23.69,
+            "avg24hPrice": 11621,
+            "changeLast48hPercent": -29.91,
             "historicalPrices": [
                 {
                     "price": 8959,
@@ -80501,7 +80501,7 @@
             "id": "5eea217fc64c5d0dfc05712a",
             "name": "Mossberg 590A1 Magpul SGA stock",
             "avg24hPrice": 14096,
-            "changeLast48hPercent": -36.96,
+            "changeLast48hPercent": -35.79,
             "historicalPrices": [
                 {
                     "price": 22706,
@@ -80644,8 +80644,8 @@
         {
             "id": "5ef1ba28c64c5d0dfc0571a5",
             "name": "Mesa Tactical Crosshair Hydraulic buffer tube",
-            "avg24hPrice": 81218,
-            "changeLast48hPercent": 4.35,
+            "avg24hPrice": 86941,
+            "changeLast48hPercent": 11.7,
             "historicalPrices": [
                 {
                     "price": 90377,
@@ -81122,8 +81122,8 @@
         {
             "id": "5eff09cd30a7dc22fd1ddfed",
             "name": "Health Resort office key with a blue tape",
-            "avg24hPrice": 84275,
-            "changeLast48hPercent": 1.7,
+            "avg24hPrice": 85433,
+            "changeLast48hPercent": 3.1,
             "historicalPrices": [
                 {
                     "price": 221298,
@@ -81239,8 +81239,8 @@
         {
             "id": "5f2a9575926fd9352339381f",
             "name": "Kel-Tec RFB 7.62x51 rifle",
-            "avg24hPrice": 38173,
-            "changeLast48hPercent": 5.44,
+            "avg24hPrice": 37619,
+            "changeLast48hPercent": 1.64,
             "historicalPrices": [
                 {
                     "price": 33640,
@@ -81287,8 +81287,8 @@
         {
             "id": "5f2aa43ba9b91d26f20ae6d2",
             "name": "RFB thread spacer",
-            "avg24hPrice": 45000,
-            "changeLast48hPercent": 22.68,
+            "avg24hPrice": 39861,
+            "changeLast48hPercent": 8.67,
             "historicalPrices": [
                 {
                     "price": 33333,
@@ -81745,8 +81745,8 @@
         {
             "id": "5f3e7801153b8571434a924c",
             "name": "M1911A1 .45 ACP National Match barrel",
-            "avg24hPrice": 17251,
-            "changeLast48hPercent": -22.16,
+            "avg24hPrice": 15103,
+            "changeLast48hPercent": -31.85,
             "historicalPrices": [
                 {
                     "price": 13166,
@@ -81794,7 +81794,7 @@
             "id": "5f3e7823ddc4f03b010e2045",
             "name": "M45A1 .45 ACP pistol slide",
             "avg24hPrice": 35513,
-            "changeLast48hPercent": 6.9,
+            "changeLast48hPercent": 8.71,
             "historicalPrices": [
                 {
                     "price": 33620,
@@ -81882,7 +81882,7 @@
             "id": "5f4f9eb969cdc30ff33f09db",
             "name": "EYE MK.2 professional hand-held compass",
             "avg24hPrice": 42531,
-            "changeLast48hPercent": -28.4,
+            "changeLast48hPercent": -12.43,
             "historicalPrices": [
                 {
                     "price": 99296,
@@ -82095,7 +82095,7 @@
             "id": "5f60b85bbdb8e27dee3dc985",
             "name": "Galvion Caiman Hybrid Ballistic Applique",
             "avg24hPrice": 43211,
-            "changeLast48hPercent": -4.11,
+            "changeLast48hPercent": -3.06,
             "historicalPrices": [
                 {
                     "price": 43726,
@@ -82190,8 +82190,8 @@
         {
             "id": "5f60c076f2bcbb675b00dac2",
             "name": "Galvion Caiman Hybrid Ballistic Mandible Guard",
-            "avg24hPrice": 32793,
-            "changeLast48hPercent": 8.5,
+            "avg24hPrice": 31959,
+            "changeLast48hPercent": 5.74,
             "historicalPrices": [
                 {
                     "price": 29841,
@@ -82253,7 +82253,7 @@
             "id": "5f60cd6cf2bcbb675b00dac6",
             "name": "Walker's XCEL 500BT Digital headset",
             "avg24hPrice": 90522,
-            "changeLast48hPercent": -0.87,
+            "changeLast48hPercent": 2.99,
             "historicalPrices": [
                 {
                     "price": 94745,
@@ -82396,8 +82396,8 @@
         {
             "id": "5f60e784f2bcbb675b00dac7",
             "name": "Beret (Olive)",
-            "avg24hPrice": 11374,
-            "changeLast48hPercent": -22.34,
+            "avg24hPrice": 10999,
+            "changeLast48hPercent": -21.12,
             "historicalPrices": [
                 {
                     "price": 12000,
@@ -82589,7 +82589,7 @@
             "id": "5f633f68f5750b524b45f112",
             "name": "AKM thread type JMac Customs RRD-4C 7.62x39 muzzle brake",
             "avg24hPrice": 51495,
-            "changeLast48hPercent": 31.12,
+            "changeLast48hPercent": 30.34,
             "historicalPrices": [
                 {
                     "price": 42573,
@@ -82780,8 +82780,8 @@
         {
             "id": "5f63407e1b231926f2329f15",
             "name": "VPO-101 \"Vepr-Hunter\" Rotor 43 7.62x51 muzzle brake-compensator",
-            "avg24hPrice": 54283,
-            "changeLast48hPercent": 17.1,
+            "avg24hPrice": 53876,
+            "changeLast48hPercent": 12.32,
             "historicalPrices": [
                 {
                     "price": 41856,
@@ -82925,7 +82925,7 @@
             "id": "5f63418ef5750b524b45f116",
             "name": "SOK-12 Bravo-18 aluminium handguard",
             "avg24hPrice": 24005,
-            "changeLast48hPercent": -11.14,
+            "changeLast48hPercent": -14.25,
             "historicalPrices": [
                 {
                     "price": 20000,
@@ -83052,8 +83052,8 @@
         {
             "id": "5f647f31b6238e5dd066e196",
             "name": "23x75mm Shrapnel-25 buckshot",
-            "avg24hPrice": 385,
-            "changeLast48hPercent": -26.28,
+            "avg24hPrice": 387,
+            "changeLast48hPercent": -25.89,
             "historicalPrices": [
                 {
                     "price": 601,
@@ -83107,8 +83107,8 @@
         {
             "id": "5f676b779ab5ec19f028eaf3",
             "name": "Kel-Tec RFB 7.62x51 rifle Default",
-            "avg24hPrice": 38173,
-            "changeLast48hPercent": 5.44,
+            "avg24hPrice": 37619,
+            "changeLast48hPercent": 1.64,
             "historicalPrices": []
         },
         {
@@ -83362,8 +83362,8 @@
         {
             "id": "5fb653962b1b027b1f50bd03",
             "name": "KRISS Vector .45 ACP 6 inch barrel",
-            "avg24hPrice": 20892,
-            "changeLast48hPercent": 0.95,
+            "avg24hPrice": 21867,
+            "changeLast48hPercent": 2.34,
             "historicalPrices": [
                 {
                     "price": 17538,
@@ -83768,8 +83768,8 @@
         {
             "id": "5fbbc34106bde7524f03cbe9",
             "name": "KRISS Vector 9x19 thread protection cap",
-            "avg24hPrice": 17265,
-            "changeLast48hPercent": 227.3,
+            "avg24hPrice": 16924,
+            "changeLast48hPercent": 220.83,
             "historicalPrices": [
                 {
                     "price": 8999,
@@ -83864,8 +83864,8 @@
         {
             "id": "5fbbc383d5cb881a7363194a",
             "name": "KRISS Vector 9x19 6 inch barrel",
-            "avg24hPrice": 92926,
-            "changeLast48hPercent": -24.2,
+            "avg24hPrice": 87090,
+            "changeLast48hPercent": -33.67,
             "historicalPrices": [
                 {
                     "price": 200621,
@@ -84629,7 +84629,7 @@
             "id": "5fc0f9b5d724d907e2077d82",
             "name": "A3 Tactical MVF001 KeyMod vertical foregrip (Black)",
             "avg24hPrice": 17594,
-            "changeLast48hPercent": 6.12,
+            "changeLast48hPercent": 10.01,
             "historicalPrices": [
                 {
                     "price": 22569,
@@ -84771,8 +84771,8 @@
         {
             "id": "5fc23426900b1d5091531e15",
             "name": "Mk-18 .338 LM 10-round magazine",
-            "avg24hPrice": 19363,
-            "changeLast48hPercent": -9.64,
+            "avg24hPrice": 18803,
+            "changeLast48hPercent": -13.31,
             "historicalPrices": [
                 {
                     "price": 18057,
@@ -85185,7 +85185,7 @@
             "id": "5fc4b97bab884124df0cd5e3",
             "name": "SilencerCo Omega 45k Piston Mount adapter",
             "avg24hPrice": 11666,
-            "changeLast48hPercent": -42.64,
+            "changeLast48hPercent": -48.24,
             "historicalPrices": [
                 {
                     "price": 6377,
@@ -85280,8 +85280,8 @@
         {
             "id": "5fc4b9b17283c4046c5814d7",
             "name": "SilencerCo Omega 45k .45 ACP sound suppressor",
-            "avg24hPrice": 33507,
-            "changeLast48hPercent": 15.71,
+            "avg24hPrice": 34605,
+            "changeLast48hPercent": 19.5,
             "historicalPrices": [
                 {
                     "price": 35244,
@@ -85352,7 +85352,7 @@
         {
             "id": "5fc5396e900b1d5091531e72",
             "name": "HK UMP side handguard rail",
-            "avg24hPrice": 18999,
+            "avg24hPrice": 18000,
             "changeLast48hPercent": 0,
             "historicalPrices": [
                 {
@@ -85525,7 +85525,7 @@
             "id": "5fce0cf655375d18a253eff0",
             "name": "Magpul RVG foregrip (FDE)",
             "avg24hPrice": 25641,
-            "changeLast48hPercent": -25.55,
+            "changeLast48hPercent": -25.46,
             "historicalPrices": [
                 {
                     "price": 37993,
@@ -85910,7 +85910,7 @@
             "id": "60098ad7c2240c0fe85c570a",
             "name": "AFAK tactical individual first aid kit",
             "avg24hPrice": 36639,
-            "changeLast48hPercent": 0.36,
+            "changeLast48hPercent": 2.91,
             "historicalPrices": [
                 {
                     "price": 41499,
@@ -86796,7 +86796,7 @@
             "id": "6034cf5fffd42c541047f72e",
             "name": "Umka M33-SET1 hunter vest",
             "avg24hPrice": 25321,
-            "changeLast48hPercent": 7.04,
+            "changeLast48hPercent": 0.84,
             "historicalPrices": [
                 {
                     "price": 25680,
@@ -86844,7 +86844,7 @@
             "id": "6034d0230ca681766b6a0fb5",
             "name": "CSA chest rig",
             "avg24hPrice": 13202,
-            "changeLast48hPercent": -5.11,
+            "changeLast48hPercent": -0.25,
             "historicalPrices": [
                 {
                     "price": 11500,
@@ -86892,7 +86892,7 @@
             "id": "6034d103ca006d2dca39b3f0",
             "name": "Hazard 4 Takedown sling backpack (Black)",
             "avg24hPrice": 55432,
-            "changeLast48hPercent": -6.01,
+            "changeLast48hPercent": -1.75,
             "historicalPrices": [
                 {
                     "price": 74665,
@@ -86994,8 +86994,8 @@
         {
             "id": "6034e3d953a60014f970617b",
             "name": "AR-15 Soyuz-TM 15 inch M-LOK handguard",
-            "avg24hPrice": 34213,
-            "changeLast48hPercent": -24.69,
+            "avg24hPrice": 35638,
+            "changeLast48hPercent": -21.55,
             "historicalPrices": [
                 {
                     "price": 24801,
@@ -87042,8 +87042,8 @@
         {
             "id": "6034e3e20ddce744014cb878",
             "name": "AR-15 Soyuz-TM 12 inch M-LOK handguard",
-            "avg24hPrice": 28609,
-            "changeLast48hPercent": -14.14,
+            "avg24hPrice": 27876,
+            "changeLast48hPercent": -17.79,
             "historicalPrices": [
                 {
                     "price": 97833,
@@ -87472,8 +87472,8 @@
         {
             "id": "60391a8b3364dc22b04d0ce5",
             "name": "Can of thermite",
-            "avg24hPrice": 107500,
-            "changeLast48hPercent": 6.8,
+            "avg24hPrice": 104306,
+            "changeLast48hPercent": 3.63,
             "historicalPrices": [
                 {
                     "price": 91561,
@@ -87569,7 +87569,7 @@
             "id": "60391b0fb847c71012789415",
             "name": "TP-200 TNT brick",
             "avg24hPrice": 23913,
-            "changeLast48hPercent": 1.33,
+            "changeLast48hPercent": 1.69,
             "historicalPrices": [
                 {
                     "price": 23140,
@@ -87616,8 +87616,8 @@
         {
             "id": "6040dd4ddcf9592f401632d2",
             "name": "Azimut SS \"Zhuk\" chest harness (SURPAT)",
-            "avg24hPrice": 27975,
-            "changeLast48hPercent": 2.58,
+            "avg24hPrice": 28037,
+            "changeLast48hPercent": 2.8,
             "historicalPrices": [
                 {
                     "price": 25155,
@@ -87729,8 +87729,8 @@
         {
             "id": "60658776f2cb2e02a42ace2b",
             "name": "Mk47 254mm barrel",
-            "avg24hPrice": 18573,
-            "changeLast48hPercent": 5.7,
+            "avg24hPrice": 18975,
+            "changeLast48hPercent": 7.98,
             "historicalPrices": [
                 {
                     "price": 19256,
@@ -87826,7 +87826,7 @@
             "id": "606587a88900dc2d9a55b659",
             "name": "Mk47 Resolute 7.62x39 upper receiver",
             "avg24hPrice": 191919,
-            "changeLast48hPercent": -20.4,
+            "changeLast48hPercent": -14.67,
             "historicalPrices": [
                 {
                     "price": 148518,
@@ -87922,7 +87922,7 @@
             "id": "606587d11246154cad35d635",
             "name": "CMMG RipStock buttstock",
             "avg24hPrice": 11085,
-            "changeLast48hPercent": -4.72,
+            "changeLast48hPercent": -6.06,
             "historicalPrices": [
                 {
                     "price": 12331,
@@ -87970,7 +87970,7 @@
             "id": "606587e18900dc2d9a55b65f",
             "name": "CMMG buffer tube",
             "avg24hPrice": 12129,
-            "changeLast48hPercent": -5.55,
+            "changeLast48hPercent": -0.69,
             "historicalPrices": [
                 {
                     "price": 21604,
@@ -88018,7 +88018,7 @@
             "id": "6065880c132d4d12c81fd8da",
             "name": "AR-10 CMMG MK3 RML9 9 inch M-LOK handguard",
             "avg24hPrice": 13778,
-            "changeLast48hPercent": -27.73,
+            "changeLast48hPercent": -30.5,
             "historicalPrices": [
                 {
                     "price": 20087,
@@ -88113,8 +88113,8 @@
         {
             "id": "6065c6e7132d4d12c81fd8e1",
             "name": "AR-10 CMMG SV Brake 7.62x51 muzzle brake",
-            "avg24hPrice": 10201,
-            "changeLast48hPercent": 12.13,
+            "avg24hPrice": 11113,
+            "changeLast48hPercent": 22.81,
             "historicalPrices": [
                 {
                     "price": 7943,
@@ -88769,7 +88769,7 @@
             "id": "607f20859ee58b18e41ecd90",
             "name": "PACA Soft Armor (Rivals Edition)",
             "avg24hPrice": 37299,
-            "changeLast48hPercent": -9.22,
+            "changeLast48hPercent": -7.29,
             "historicalPrices": [
                 {
                     "price": 59784,
@@ -88913,7 +88913,7 @@
             "id": "6086b5731246154cad35d6c7",
             "name": "SOK-12 Custom Guns Type-340 handguard",
             "avg24hPrice": 19660,
-            "changeLast48hPercent": -13.18,
+            "changeLast48hPercent": -8.39,
             "historicalPrices": [
                 {
                     "price": 19865,
@@ -89153,7 +89153,7 @@
             "id": "60926df0132d4d12c81fd9df",
             "name": "SilencerCo Saker ASR 556 5.56x45 sound suppressor",
             "avg24hPrice": 105777,
-            "changeLast48hPercent": -13.75,
+            "changeLast48hPercent": -17.07,
             "historicalPrices": [
                 {
                     "price": 127769,
@@ -89344,8 +89344,8 @@
         {
             "id": "609bab8b455afd752b2e6138",
             "name": "Torrey Pines Logic T12W 30Hz thermal reflex sight",
-            "avg24hPrice": 54191,
-            "changeLast48hPercent": 2.08,
+            "avg24hPrice": 53710,
+            "changeLast48hPercent": 1.18,
             "historicalPrices": [
                 {
                     "price": 47791,
@@ -89495,8 +89495,8 @@
         {
             "id": "60a272cc93ef783291411d8e",
             "name": "Hazard 4 Drawbridge backpack (Coyote Tan)",
-            "avg24hPrice": 42341,
-            "changeLast48hPercent": 3.92,
+            "avg24hPrice": 42048,
+            "changeLast48hPercent": 3.2,
             "historicalPrices": [
                 {
                     "price": 40371,
@@ -89612,8 +89612,8 @@
         {
             "id": "60a621c49c197e4e8c4455e6",
             "name": "Stich Profi Chest Rig MK2 (Assault, A-TACS FG)",
-            "avg24hPrice": 27584,
-            "changeLast48hPercent": 8.82,
+            "avg24hPrice": 28130,
+            "changeLast48hPercent": 10.97,
             "historicalPrices": [
                 {
                     "price": 31044,
@@ -89660,8 +89660,8 @@
         {
             "id": "60a6220e953894617404b00a",
             "name": "Stich Profi Chest Rig MK2 (Recon, A-TACS FG)",
-            "avg24hPrice": 29491,
-            "changeLast48hPercent": -1.04,
+            "avg24hPrice": 28955,
+            "changeLast48hPercent": -3.93,
             "historicalPrices": [
                 {
                     "price": 27463,
@@ -89819,7 +89819,7 @@
             "id": "60b0f6c058e0b0481a09ad11",
             "name": "WZ Wallet",
             "avg24hPrice": 28658,
-            "changeLast48hPercent": -1.56,
+            "changeLast48hPercent": 3.31,
             "historicalPrices": [
                 {
                     "price": 65000,
@@ -89867,7 +89867,7 @@
             "id": "60b0f7057897d47c5b04ab94",
             "name": "Loot Lord plushie",
             "avg24hPrice": 77262,
-            "changeLast48hPercent": 5.82,
+            "changeLast48hPercent": 6.45,
             "historicalPrices": [
                 {
                     "price": 82673,
@@ -90010,8 +90010,8 @@
         {
             "id": "60b52e5bc7d8103275739d67",
             "name": "Stich Profi Chimera boonie hat",
-            "avg24hPrice": 12254,
-            "changeLast48hPercent": 27.7,
+            "avg24hPrice": 12454,
+            "changeLast48hPercent": 29.15,
             "historicalPrices": [
                 {
                     "price": 9749,
@@ -90183,7 +90183,7 @@
             "id": "6113c3586c780c1e710c90bc",
             "name": "AR-15 F1 Firearms Skeletonized Style 1 pistol grip",
             "avg24hPrice": 18654,
-            "changeLast48hPercent": 7.78,
+            "changeLast48hPercent": 9.56,
             "historicalPrices": [
                 {
                     "price": 15282,
@@ -90327,7 +90327,7 @@
             "id": "6113d6c3290d254f5e6b27db",
             "name": "BelOMO PK-AA dovetail reflex sight",
             "avg24hPrice": 6947,
-            "changeLast48hPercent": -21.23,
+            "changeLast48hPercent": -20.87,
             "historicalPrices": [
                 {
                     "price": 8383,
@@ -90431,7 +90431,7 @@
             "id": "612e0cfc8004cc50514c2d9e",
             "name": "AR-15 AWC PSR 5.56x45 muzzle brake",
             "avg24hPrice": 80367,
-            "changeLast48hPercent": -31.84,
+            "changeLast48hPercent": -23.18,
             "historicalPrices": [
                 {
                     "price": 74351,
@@ -90526,8 +90526,8 @@
         {
             "id": "612e0d81290d254f5e6b291a",
             "name": "AWC PSR .338 LM muzzle brake",
-            "avg24hPrice": 29360,
-            "changeLast48hPercent": 3.05,
+            "avg24hPrice": 29244,
+            "changeLast48hPercent": 2.64,
             "historicalPrices": [
                 {
                     "price": 34775,
@@ -90629,8 +90629,8 @@
         {
             "id": "612e0e55a112697a4b3a66e7",
             "name": "AR-15 TAA ZK-23 5.56x45 muzzle brake",
-            "avg24hPrice": 11482,
-            "changeLast48hPercent": -21.87,
+            "avg24hPrice": 13505,
+            "changeLast48hPercent": -0.92,
             "historicalPrices": [
                 {
                     "price": 21157,
@@ -90773,8 +90773,8 @@
         {
             "id": "6130c4d51cb55961fa0fd49f",
             "name": "HK UMP B&T OEM .45 ACP sound suppressor",
-            "avg24hPrice": 35392,
-            "changeLast48hPercent": -16.43,
+            "avg24hPrice": 33118,
+            "changeLast48hPercent": -24.29,
             "historicalPrices": [
                 {
                     "price": 53282,
@@ -90821,8 +90821,8 @@
         {
             "id": "6130ca3fd92c473c77020dbd",
             "name": "AK CSS knurled charging handle",
-            "avg24hPrice": 67620,
-            "changeLast48hPercent": -11.16,
+            "avg24hPrice": 68352,
+            "changeLast48hPercent": -10.2,
             "historicalPrices": [
                 {
                     "price": 79092,
@@ -90966,7 +90966,7 @@
             "id": "615d8dbd290d254f5e6b2ed6",
             "name": "Glock 17 9x19 MOS pistol slide",
             "avg24hPrice": 10777,
-            "changeLast48hPercent": 39.42,
+            "changeLast48hPercent": 37.78,
             "historicalPrices": [
                 {
                     "price": 7500,
@@ -91589,8 +91589,8 @@
         {
             "id": "61657230d92c473c770213d7",
             "name": "Aimpoint Micro H-2 reflex sight",
-            "avg24hPrice": 19250,
-            "changeLast48hPercent": 2.27,
+            "avg24hPrice": 19205,
+            "changeLast48hPercent": 2.03,
             "historicalPrices": [
                 {
                     "price": 21775,
@@ -91685,8 +91685,8 @@
         {
             "id": "61659f79d92c473c770213ee",
             "name": "Aimpoint PRO reflex sight",
-            "avg24hPrice": 15372,
-            "changeLast48hPercent": -8.18,
+            "avg24hPrice": 15252,
+            "changeLast48hPercent": -8.9,
             "historicalPrices": [
                 {
                     "price": 17735,
@@ -92050,8 +92050,8 @@
         {
             "id": "617131a4568c120fdd29482d",
             "name": "HK417/G28 7.62x51 20-round magazine",
-            "avg24hPrice": 120374,
-            "changeLast48hPercent": -9.33,
+            "avg24hPrice": 124999,
+            "changeLast48hPercent": -5.05,
             "historicalPrices": [
                 {
                     "price": 128110,
@@ -92146,8 +92146,8 @@
         {
             "id": "6171367e1cb55961fa0fdb36",
             "name": "HK G28 B&T QD 7.62x51 sound suppressor",
-            "avg24hPrice": 34916,
-            "changeLast48hPercent": -2.14,
+            "avg24hPrice": 34736,
+            "changeLast48hPercent": -2.97,
             "historicalPrices": [
                 {
                     "price": 43498,
@@ -92590,7 +92590,7 @@
             "id": "6176a40f0b8c0312ac75a3d3",
             "name": "Ghoul mask",
             "avg24hPrice": 34293,
-            "changeLast48hPercent": 13.28,
+            "changeLast48hPercent": 12.74,
             "historicalPrices": [
                 {
                     "price": 51037,
@@ -92911,7 +92911,7 @@
             "id": "618168dc8004cc50514c34fc",
             "name": "FN SCAR-H 7.62x51 20-round magazine",
             "avg24hPrice": 31869,
-            "changeLast48hPercent": 14.39,
+            "changeLast48hPercent": 4.55,
             "historicalPrices": [
                 {
                     "price": 15817,
@@ -93131,7 +93131,7 @@
             "id": "618178aa1cb55961fa0fdc80",
             "name": "AAC SCAR-SD 51T 7.62x51 flash hider",
             "avg24hPrice": 15262,
-            "changeLast48hPercent": -10.13,
+            "changeLast48hPercent": -9.63,
             "historicalPrices": [
                 {
                     "price": 19489,
@@ -93493,8 +93493,8 @@
         {
             "id": "6183fd9e8004cc50514c358f",
             "name": "FN SCAR-L 5.56x45 18 inch barrel",
-            "avg24hPrice": 122222,
-            "changeLast48hPercent": -13.42,
+            "avg24hPrice": 0,
+            "changeLast48hPercent": 0,
             "historicalPrices": [
                 {
                     "price": 88832,
@@ -93613,8 +93613,8 @@
         {
             "id": "618407a850224f204c1da549",
             "name": "FN SCAR-L 5.56x45 flash hider",
-            "avg24hPrice": 10710,
-            "changeLast48hPercent": 367.9,
+            "avg24hPrice": 11244,
+            "changeLast48hPercent": 398.64,
             "historicalPrices": [
                 {
                     "price": 2369,
@@ -94452,7 +94452,7 @@
             "id": "618bb76513f5097c8d5aa2d5",
             "name": "Gruppa 99 T20 backpack",
             "avg24hPrice": 40842,
-            "changeLast48hPercent": -6.85,
+            "changeLast48hPercent": -6.51,
             "historicalPrices": [
                 {
                     "price": 44000,
@@ -94499,8 +94499,8 @@
         {
             "id": "618cfae774bb2d036a049e7c",
             "name": "LBT-1476A 3Day Pack (Woodland)",
-            "avg24hPrice": 52681,
-            "changeLast48hPercent": -7.89,
+            "avg24hPrice": 50803,
+            "changeLast48hPercent": -12.65,
             "historicalPrices": [
                 {
                     "price": 49296,
@@ -95361,8 +95361,8 @@
         {
             "id": "619621a4de3cdf1d2614a7a7",
             "name": "HK USP .45 ACP Elite compensator",
-            "avg24hPrice": 11277,
-            "changeLast48hPercent": -54.31,
+            "avg24hPrice": 11222,
+            "changeLast48hPercent": -54.53,
             "historicalPrices": [
                 {
                     "price": 21222,
@@ -95567,8 +95567,8 @@
         {
             "id": "6196365d58ef8c428c287da1",
             "name": ".300 Whisper",
-            "avg24hPrice": 509,
-            "changeLast48hPercent": 32.59,
+            "avg24hPrice": 483,
+            "changeLast48hPercent": 21.97,
             "historicalPrices": [
                 {
                     "price": 949,
@@ -95712,7 +95712,7 @@
             "id": "61965d9058ef8c428c287e0d",
             "name": "FN SCAR PWS SRX rail extension",
             "avg24hPrice": 17566,
-            "changeLast48hPercent": -19.86,
+            "changeLast48hPercent": -6.88,
             "historicalPrices": [
                 {
                     "price": 11938,
@@ -95808,7 +95808,7 @@
             "id": "6197b229af1f5202c57a9bea",
             "name": "SVDS Lynx Arms Hinge buffer tube adapter",
             "avg24hPrice": 15352,
-            "changeLast48hPercent": -13.22,
+            "changeLast48hPercent": -7.07,
             "historicalPrices": [
                 {
                     "price": 26926,
@@ -96096,8 +96096,8 @@
         {
             "id": "619bdef8c9546643a67df6f6",
             "name": "TerraGroup armband",
-            "avg24hPrice": 136666,
-            "changeLast48hPercent": 2.95,
+            "avg24hPrice": 120306,
+            "changeLast48hPercent": -9.38,
             "historicalPrices": [
                 {
                     "price": 666666,
@@ -96391,8 +96391,8 @@
         {
             "id": "619cbfeb6b8a1b37a54eebfa",
             "name": "Bulbex cable cutter",
-            "avg24hPrice": 66650,
-            "changeLast48hPercent": 0.07,
+            "avg24hPrice": 66655,
+            "changeLast48hPercent": -0.09,
             "historicalPrices": [
                 {
                     "price": 67321,
@@ -96487,8 +96487,8 @@
         {
             "id": "619cf0335771dd3c390269ae",
             "name": "Gruppa 99 T20 backpack (Multicam)",
-            "avg24hPrice": 45134,
-            "changeLast48hPercent": -18.38,
+            "avg24hPrice": 44523,
+            "changeLast48hPercent": -18.73,
             "historicalPrices": [
                 {
                     "price": 58999,
@@ -96570,8 +96570,8 @@
         {
             "id": "619d36da53b4d42ee724fae4",
             "name": "MTs-255-12 12ga choke",
-            "avg24hPrice": 4840,
-            "changeLast48hPercent": -37.45,
+            "avg24hPrice": 4218,
+            "changeLast48hPercent": -45.49,
             "historicalPrices": [
                 {
                     "price": 1633,
@@ -96771,7 +96771,7 @@
             "id": "61a6444b8c141d68246e2d2f",
             "name": "Hillside house key",
             "avg24hPrice": 24527,
-            "changeLast48hPercent": -17.49,
+            "changeLast48hPercent": -20.21,
             "historicalPrices": [
                 {
                     "price": 21035,
@@ -96914,8 +96914,8 @@
         {
             "id": "61aa5b518f5e7a39b41416e2",
             "name": "Merin car trunk key",
-            "avg24hPrice": 27323,
-            "changeLast48hPercent": 5.65,
+            "avg24hPrice": 27400,
+            "changeLast48hPercent": 5.83,
             "historicalPrices": [
                 {
                     "price": 26903,
@@ -96962,8 +96962,8 @@
         {
             "id": "61aa5b7db225ac1ead7957c1",
             "name": "USEC first safe key",
-            "avg24hPrice": 47460,
-            "changeLast48hPercent": -26.83,
+            "avg24hPrice": 48116,
+            "changeLast48hPercent": -25.82,
             "historicalPrices": [
                 {
                     "price": 64055,
@@ -97121,7 +97121,7 @@
             "id": "61bca7cda0eae612383adf57",
             "name": "NFM HJELM helmet",
             "avg24hPrice": 51076,
-            "changeLast48hPercent": -1.56,
+            "changeLast48hPercent": -2.37,
             "historicalPrices": [
                 {
                     "price": 50078,
@@ -97320,7 +97320,7 @@
             "id": "61c18d83b00456371a66814b",
             "name": "Gas welder safety goggles",
             "avg24hPrice": 21420,
-            "changeLast48hPercent": -9.25,
+            "changeLast48hPercent": -9.46,
             "historicalPrices": [
                 {
                     "price": 21115,
@@ -97694,8 +97694,8 @@
         {
             "id": "622b38c56762c718e457e246",
             "name": "HK G36 5.56x45 480mm barrel",
-            "avg24hPrice": 150000,
-            "changeLast48hPercent": 400,
+            "avg24hPrice": 71000,
+            "changeLast48hPercent": 136.67,
             "historicalPrices": [
                 {
                     "price": 90209,
@@ -97859,8 +97859,8 @@
         {
             "id": "622efbcb99f4ea1a4d6c9a15",
             "name": "Hensoldt RV red dot sight",
-            "avg24hPrice": 4999,
-            "changeLast48hPercent": -2.45,
+            "avg24hPrice": 5000,
+            "changeLast48hPercent": -2.43,
             "historicalPrices": [
                 {
                     "price": 6644,
@@ -98272,8 +98272,8 @@
         {
             "id": "62330c18744e5e31df12f516",
             "name": ".357 Magnum JHP",
-            "avg24hPrice": 1949,
-            "changeLast48hPercent": 53.46,
+            "avg24hPrice": 1899,
+            "changeLast48hPercent": 49.53,
             "historicalPrices": [
                 {
                     "price": 1997,
@@ -98377,7 +98377,7 @@
             "id": "62389bc9423ed1685422dc57",
             "name": "26x75mm flare cartridge (White)",
             "avg24hPrice": 26485,
-            "changeLast48hPercent": -33.53,
+            "changeLast48hPercent": -25.81,
             "historicalPrices": [
                 {
                     "price": 19416,
@@ -98521,7 +98521,7 @@
             "id": "623c2f4242aee3103f1c44b7",
             "name": "CNC Guns KeyMod 4 inch rail",
             "avg24hPrice": 13611,
-            "changeLast48hPercent": 1.45,
+            "changeLast48hPercent": -4.1,
             "historicalPrices": [
                 {
                     "price": 10116,
@@ -98617,7 +98617,7 @@
             "id": "623c3be0484b5003161840dc",
             "name": "AK FAB Defense AGR-47 pistol grip",
             "avg24hPrice": 11420,
-            "changeLast48hPercent": -5.77,
+            "changeLast48hPercent": -6.47,
             "historicalPrices": [
                 {
                     "price": 13075,
@@ -99071,7 +99071,7 @@
             "id": "625eb0faa6e3a82193267ad9",
             "name": "Benelli M3 Mesa Tactical Urbino stock",
             "avg24hPrice": 36218,
-            "changeLast48hPercent": -9.48,
+            "changeLast48hPercent": -1.71,
             "historicalPrices": [
                 {
                     "price": 27100,
@@ -99156,7 +99156,7 @@
             "id": "625ff2eb9f5537057932257d",
             "name": "Benelli M3 Super 90 12ga Toni System 9-shell magazine",
             "avg24hPrice": 20949,
-            "changeLast48hPercent": -15.93,
+            "changeLast48hPercent": -13.58,
             "historicalPrices": [
                 {
                     "price": 25132,
@@ -99444,7 +99444,7 @@
             "id": "6267c6396b642f77f56f5c1c",
             "name": "Daniel Defense 25mm accessory ring mount",
             "avg24hPrice": 27209,
-            "changeLast48hPercent": 1.63,
+            "changeLast48hPercent": 6.53,
             "historicalPrices": [
                 {
                     "price": 19666,
@@ -99779,8 +99779,8 @@
         {
             "id": "626becf9582c3e319310b837",
             "name": "Insight WMX200 tactical flashlight",
-            "avg24hPrice": 23857,
-            "changeLast48hPercent": -31.99,
+            "avg24hPrice": 27521,
+            "changeLast48hPercent": -21.54,
             "historicalPrices": [
                 {
                     "price": 20756,
@@ -99827,8 +99827,8 @@
         {
             "id": "6272370ee4013c5d7e31f418",
             "name": "Olight Baldr Pro tactical flashlight with laser",
-            "avg24hPrice": 23580,
-            "changeLast48hPercent": 0.28,
+            "avg24hPrice": 20856,
+            "changeLast48hPercent": -23.34,
             "historicalPrices": [
                 {
                     "price": 28516,
@@ -99923,8 +99923,8 @@
         {
             "id": "627254cc9c563e6e442c398f",
             "name": "Strike Industries Viper PDW stock",
-            "avg24hPrice": 33388,
-            "changeLast48hPercent": 7.51,
+            "avg24hPrice": 31106,
+            "changeLast48hPercent": -9.94,
             "historicalPrices": [
                 {
                     "price": 26634,
@@ -100026,8 +100026,8 @@
         {
             "id": "627bce33f21bc425b06ab967",
             "name": "M32A1 40mm cylinder",
-            "avg24hPrice": 25409,
-            "changeLast48hPercent": -1.9,
+            "avg24hPrice": 25700,
+            "changeLast48hPercent": -0.27,
             "historicalPrices": [
                 {
                     "price": 25404,
@@ -100511,7 +100511,7 @@
             "id": "628a664bccaab13006640e47",
             "name": "AK TangoDown Battle Grip pistol grip",
             "avg24hPrice": 20138,
-            "changeLast48hPercent": -5.34,
+            "changeLast48hPercent": -4.31,
             "historicalPrices": [
                 {
                     "price": 24405,
@@ -100558,8 +100558,8 @@
         {
             "id": "628a665a86cbd9750d2ff5e5",
             "name": "RD-704 dust cover",
-            "avg24hPrice": 35503,
-            "changeLast48hPercent": -11.32,
+            "avg24hPrice": 37129,
+            "changeLast48hPercent": -7.26,
             "historicalPrices": [
                 {
                     "price": 37937,
@@ -100795,7 +100795,7 @@
             "id": "628a85ee6b1d481ff772e9d5",
             "name": "SB Tactical SBA3 brace",
             "avg24hPrice": 9982,
-            "changeLast48hPercent": -35.65,
+            "changeLast48hPercent": -35.75,
             "historicalPrices": [
                 {
                     "price": 13966,
@@ -100842,8 +100842,8 @@
         {
             "id": "628b5638ad252a16da6dd245",
             "name": "SAG AK-545 5.45x39 carbine",
-            "avg24hPrice": 44849,
-            "changeLast48hPercent": -2.76,
+            "avg24hPrice": 43880,
+            "changeLast48hPercent": -7.77,
             "historicalPrices": [
                 {
                     "price": 47157,
@@ -100997,8 +100997,8 @@
         {
             "id": "628b9be6cff66b70c002b14c",
             "name": "AK-545 SAG railed dust cover",
-            "avg24hPrice": 86426,
-            "changeLast48hPercent": -22.49,
+            "avg24hPrice": 85217,
+            "changeLast48hPercent": -23.57,
             "historicalPrices": [
                 {
                     "price": 94965,
@@ -101046,7 +101046,7 @@
             "id": "628b9c37a733087d0d7fe84b",
             "name": "SAG AK-545 Short 5.45x39 carbine",
             "avg24hPrice": 55756,
-            "changeLast48hPercent": 5.6,
+            "changeLast48hPercent": 6.05,
             "historicalPrices": [
                 {
                     "price": 69248,
@@ -101361,8 +101361,8 @@
         {
             "id": "628e4e576d783146b124c64d",
             "name": "Peltor ComTac 4 Hybrid headset",
-            "avg24hPrice": 272255,
-            "changeLast48hPercent": 10.14,
+            "avg24hPrice": 256147,
+            "changeLast48hPercent": -5.63,
             "historicalPrices": [
                 {
                     "price": 292371,
@@ -101417,14 +101417,14 @@
             "id": "629711787af74c3ff577951d",
             "name": "SAG AK-545 Short 5.45x39 carbine Default",
             "avg24hPrice": 55756,
-            "changeLast48hPercent": 5.6,
+            "changeLast48hPercent": 6.05,
             "historicalPrices": []
         },
         {
             "id": "62971cf67af74c3ff577954b",
             "name": "SAG AK-545 5.45x39 carbine Default",
-            "avg24hPrice": 44849,
-            "changeLast48hPercent": -2.76,
+            "avg24hPrice": 43880,
+            "changeLast48hPercent": -7.77,
             "historicalPrices": []
         },
         {
@@ -101522,7 +101522,7 @@
             "id": "62987c658081af308d7558c6",
             "name": "Radar station commandant room key",
             "avg24hPrice": 168843,
-            "changeLast48hPercent": 0.68,
+            "changeLast48hPercent": 1.02,
             "historicalPrices": [
                 {
                     "price": 164074,
@@ -101618,7 +101618,7 @@
             "id": "62987da96188c076bc0d8c51",
             "name": "Operating room key",
             "avg24hPrice": 66210,
-            "changeLast48hPercent": -3.93,
+            "changeLast48hPercent": -5.41,
             "historicalPrices": [
                 {
                     "price": 70407,
@@ -101858,7 +101858,7 @@
             "id": "62a09cb7a04c0c5c6e0a84f8",
             "name": "Press pass (issued for NoiceGuy)",
             "avg24hPrice": 31499,
-            "changeLast48hPercent": -0.01,
+            "changeLast48hPercent": -0.04,
             "historicalPrices": [
                 {
                     "price": 31753,
@@ -101905,8 +101905,8 @@
         {
             "id": "62a09cfe4f842e1bd12da3e4",
             "name": "Golden egg",
-            "avg24hPrice": 42845,
-            "changeLast48hPercent": 0.06,
+            "avg24hPrice": 42846,
+            "changeLast48hPercent": 0.16,
             "historicalPrices": [
                 {
                     "price": 42856,
@@ -102145,8 +102145,8 @@
         {
             "id": "62a09e410b9d3c46de5b6e78",
             "name": "JohnB Liquid DNB glasses",
-            "avg24hPrice": 42341,
-            "changeLast48hPercent": 33.97,
+            "avg24hPrice": 47129,
+            "changeLast48hPercent": 49.12,
             "historicalPrices": [
                 {
                     "price": 41811,
@@ -102194,7 +102194,7 @@
             "id": "62a09e73af34e73a266d932a",
             "name": "BakeEzy cook book",
             "avg24hPrice": 35946,
-            "changeLast48hPercent": 4.44,
+            "changeLast48hPercent": 4.37,
             "historicalPrices": [
                 {
                     "price": 32957,
@@ -102433,8 +102433,8 @@
         {
             "id": "62a0a043cf4a99369e2624a5",
             "name": "Bottle of OLOLO Multivitamins",
-            "avg24hPrice": 19693,
-            "changeLast48hPercent": 0.33,
+            "avg24hPrice": 19900,
+            "changeLast48hPercent": 1.38,
             "historicalPrices": [
                 {
                     "price": 19450,
@@ -102577,8 +102577,8 @@
         {
             "id": "62a0a124de7ac81993580542",
             "name": "Topographic survey maps",
-            "avg24hPrice": 42006,
-            "changeLast48hPercent": -1.11,
+            "avg24hPrice": 42269,
+            "changeLast48hPercent": -0.49,
             "historicalPrices": [
                 {
                     "price": 41287,
@@ -102626,7 +102626,7 @@
             "id": "62a0a16d0b9d3c46de5b6e97",
             "name": "Military flash drive",
             "avg24hPrice": 116859,
-            "changeLast48hPercent": 3.65,
+            "changeLast48hPercent": 5.95,
             "historicalPrices": [
                 {
                     "price": 107881,
@@ -102769,8 +102769,8 @@
         {
             "id": "62a5c333ec21e50cad3b5dc6",
             "name": "Hockey player mask \"Brawler\"",
-            "avg24hPrice": 17795,
-            "changeLast48hPercent": -18.23,
+            "avg24hPrice": 18359,
+            "changeLast48hPercent": -15.64,
             "historicalPrices": [
                 {
                     "price": 12155,
@@ -103559,8 +103559,8 @@
         {
             "id": "630767c37d50ff5e8a1ea71a",
             "name": "Glock 9x19 \"Big Stick\" 31-round magazine (Coyote)",
-            "avg24hPrice": 28777,
-            "changeLast48hPercent": -10.1,
+            "avg24hPrice": 24694,
+            "changeLast48hPercent": -25.32,
             "historicalPrices": [
                 {
                     "price": 20535,
@@ -103656,7 +103656,7 @@
             "id": "63088377b5cd696784087147",
             "name": "Glock 19X 9x19 pistol",
             "avg24hPrice": 18502,
-            "changeLast48hPercent": 1.67,
+            "changeLast48hPercent": 4.19,
             "historicalPrices": [
                 {
                     "price": 18731,
@@ -103827,8 +103827,8 @@
         {
             "id": "630f27f04f3f6281050b94d7",
             "name": "Steyr AUG RAT Worx 5.56x45 muzzle device adapter",
-            "avg24hPrice": 18622,
-            "changeLast48hPercent": 6.14,
+            "avg24hPrice": 18207,
+            "changeLast48hPercent": 3.77,
             "historicalPrices": [
                 {
                     "price": 14666,
@@ -103955,8 +103955,8 @@
         {
             "id": "630f2982cdb9e392db0cbcc7",
             "name": "Steyr AUG Relfex T4AUG Ranger 5.56x45 sound suppressor",
-            "avg24hPrice": 29385,
-            "changeLast48hPercent": -2.73,
+            "avg24hPrice": 29969,
+            "changeLast48hPercent": 1.95,
             "historicalPrices": [
                 {
                     "price": 26646,
@@ -104003,8 +104003,8 @@
         {
             "id": "63171672192e68c5460cebc5",
             "name": "Steyr AUG A3 5.56x45 assault rifle",
-            "avg24hPrice": 58002,
-            "changeLast48hPercent": -15.88,
+            "avg24hPrice": 57889,
+            "changeLast48hPercent": -16.05,
             "historicalPrices": [
                 {
                     "price": 49842,
@@ -104106,7 +104106,7 @@
             "id": "633ec7c2a6918cb895019c6c",
             "name": "RSh-12 12.7x55 revolver",
             "avg24hPrice": 74325,
-            "changeLast48hPercent": 18.73,
+            "changeLast48hPercent": 11.32,
             "historicalPrices": [
                 {
                     "price": 56774,
@@ -104446,7 +104446,7 @@
             "id": "636270263f2495c26f00b007",
             "name": "Zryachiy's balaclava (folded)",
             "avg24hPrice": 78333,
-            "changeLast48hPercent": -16.74,
+            "changeLast48hPercent": -15.09,
             "historicalPrices": [
                 {
                     "price": 95555,
@@ -104658,8 +104658,8 @@
         {
             "id": "637b6179104668754b72f8f5",
             "name": "PNB (Product 16) stimulant injector",
-            "avg24hPrice": 42237,
-            "changeLast48hPercent": 1.7,
+            "avg24hPrice": 41915,
+            "changeLast48hPercent": 0.93,
             "historicalPrices": [
                 {
                     "price": 41580,
@@ -104802,8 +104802,8 @@
         {
             "id": "637b6d610aef6cfc5e02dd14",
             "name": "PM Tactic Kit pistol grip",
-            "avg24hPrice": 8499,
-            "changeLast48hPercent": -63.81,
+            "avg24hPrice": 7999,
+            "changeLast48hPercent": -64.01,
             "historicalPrices": [
                 {
                     "price": 9950,
@@ -104888,7 +104888,7 @@
             "id": "637f57b78d137b27f70c496a",
             "name": "AR-15 KAC RIS lower handguard",
             "avg24hPrice": 15685,
-            "changeLast48hPercent": -18.95,
+            "changeLast48hPercent": -18.88,
             "historicalPrices": [
                 {
                     "price": 15000,
@@ -105255,8 +105255,8 @@
         {
             "id": "63888bbd28e5cc32cc09d2b6",
             "name": "AR-15 Precision Reflex GEN III Delta Carbon handguard",
-            "avg24hPrice": 31754,
-            "changeLast48hPercent": 2.62,
+            "avg24hPrice": 32154,
+            "changeLast48hPercent": 5,
             "historicalPrices": [
                 {
                     "price": 35085,
@@ -105400,7 +105400,7 @@
             "id": "6388c5d19c00405f4717c0f0",
             "name": "Precision Reflex handguard long top rail mount",
             "avg24hPrice": 11610,
-            "changeLast48hPercent": -42.83,
+            "changeLast48hPercent": -37.87,
             "historicalPrices": [
                 {
                     "price": 27542,
@@ -105543,8 +105543,8 @@
         {
             "id": "6389c70ca33d8c4cdf4932c6",
             "name": "Electronic components",
-            "avg24hPrice": 11699,
-            "changeLast48hPercent": 0.44,
+            "avg24hPrice": 11789,
+            "changeLast48hPercent": 1.22,
             "historicalPrices": [
                 {
                     "price": 11885,
@@ -106045,8 +106045,8 @@
         {
             "id": "63986752a28b76105a33c095",
             "name": "Steyr AUG A3 5.56x45 assault rifle Default",
-            "avg24hPrice": 58002,
-            "changeLast48hPercent": -15.88,
+            "avg24hPrice": 57889,
+            "changeLast48hPercent": -16.05,
             "historicalPrices": []
         },
         {
@@ -106067,14 +106067,14 @@
             "id": "6398685ee678457197138035",
             "name": "Glock 19X 9x19 pistol Default",
             "avg24hPrice": 18502,
-            "changeLast48hPercent": 1.67,
+            "changeLast48hPercent": 4.19,
             "historicalPrices": []
         },
         {
             "id": "639868a207a3eb0207197bb5",
             "name": "RSh-12 12.7x55 revolver Default",
             "avg24hPrice": 74325,
-            "changeLast48hPercent": 18.73,
+            "changeLast48hPercent": 11.32,
             "historicalPrices": []
         },
         {
@@ -106109,7 +106109,7 @@
             "id": "63a0b208f444d32d6f03ea1e",
             "name": "Fierce Blow sledgehammer",
             "avg24hPrice": 90639,
-            "changeLast48hPercent": -5.84,
+            "changeLast48hPercent": -7.7,
             "historicalPrices": [
                 {
                     "price": 87454,
@@ -106547,8 +106547,8 @@
         {
             "id": "63a39dfe3901f439517cafba",
             "name": "Zmeisky 3 apartment 8 key",
-            "avg24hPrice": 19577,
-            "changeLast48hPercent": 8.02,
+            "avg24hPrice": 18478,
+            "changeLast48hPercent": 1.95,
             "historicalPrices": [
                 {
                     "price": 14136,
@@ -107035,7 +107035,7 @@
             "id": "63a71e86b7f4570d3a293169",
             "name": "Concordia apartment 64 office room key",
             "avg24hPrice": 49771,
-            "changeLast48hPercent": -7.37,
+            "changeLast48hPercent": -7.56,
             "historicalPrices": [
                 {
                     "price": 46471,
@@ -107131,7 +107131,7 @@
             "id": "63a71eb5b7f4570d3a29316b",
             "name": "Primorsky 48 apartment key",
             "avg24hPrice": 31590,
-            "changeLast48hPercent": 27.41,
+            "changeLast48hPercent": 27.46,
             "historicalPrices": [
                 {
                     "price": 26847,
@@ -110253,8 +110253,8 @@
         {
             "id": "64b8f7c241772715af0f9c3d",
             "name": "7.62x54mm R HP BT",
-            "avg24hPrice": 338,
-            "changeLast48hPercent": 9.08,
+            "avg24hPrice": 350,
+            "changeLast48hPercent": 14.62,
             "historicalPrices": [
                 {
                     "price": 350,
@@ -110301,8 +110301,8 @@
         {
             "id": "64b9cf0ac12b9c38db26923a",
             "name": "AK 7.62x39 Magpul PMAG 20 GEN M3 20-round magazine",
-            "avg24hPrice": 7299,
-            "changeLast48hPercent": -42.88,
+            "avg24hPrice": 7666,
+            "changeLast48hPercent": -35.09,
             "historicalPrices": [
                 {
                     "price": 8500,
@@ -110445,8 +110445,8 @@
         {
             "id": "64be7095047e826eae02b0c1",
             "name": "Zulu Nylon Gear M4 Reduced Signature Chest Rig",
-            "avg24hPrice": 13860,
-            "changeLast48hPercent": 2.55,
+            "avg24hPrice": 17750,
+            "changeLast48hPercent": 39.41,
             "historicalPrices": [
                 {
                     "price": 11945,
@@ -110772,8 +110772,8 @@
         {
             "id": "64ccc1d4a0f13c24561edf27",
             "name": "Concordia apartment 34 room key",
-            "avg24hPrice": 30047,
-            "changeLast48hPercent": -24.93,
+            "avg24hPrice": 30579,
+            "changeLast48hPercent": -21.84,
             "historicalPrices": [
                 {
                     "price": 34445,
@@ -110868,8 +110868,8 @@
         {
             "id": "64ccc1f4ff54fb38131acf27",
             "name": "Concordia apartment 63 room key",
-            "avg24hPrice": 30575,
-            "changeLast48hPercent": -8.5,
+            "avg24hPrice": 30894,
+            "changeLast48hPercent": -8.21,
             "historicalPrices": [
                 {
                     "price": 43235,
@@ -110916,8 +110916,8 @@
         {
             "id": "64ccc1fe088064307e14a6f7",
             "name": "Beluga restaurant director key",
-            "avg24hPrice": 36633,
-            "changeLast48hPercent": 8.32,
+            "avg24hPrice": 35055,
+            "changeLast48hPercent": -13.29,
             "historicalPrices": [
                 {
                     "price": 34700,
@@ -111252,8 +111252,8 @@
         {
             "id": "64ce572331dd890873175115",
             "name": "Aspect company office key",
-            "avg24hPrice": 93388,
-            "changeLast48hPercent": -15.01,
+            "avg24hPrice": 90680,
+            "changeLast48hPercent": -15.58,
             "historicalPrices": [
                 {
                     "price": 89777,
