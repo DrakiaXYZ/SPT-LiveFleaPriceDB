@@ -35,8 +35,9 @@ const main = (async () => {
         fs.writeFileSync('tarkovdevprices.json', JSON.stringify(tarkovDevPrices, null, 4));
 
         // Fetch the latest prices.json and handbook.json from SPT-AKI's git repo
-        await downloadFile('https://dev.sp-tarkov.com/SPT-AKI/Server/raw/branch/master/project/assets/database/templates/handbook.json', 'akihandbook.json');
-        await downloadFile('https://dev.sp-tarkov.com/SPT-AKI/Server/raw/branch/master/project/assets/database/templates/items.json', 'akiitems.json');
+        await downloadFile('https://dev.sp-tarkov.com/SPT-AKI/Server/raw/branch/3.8.0/project/assets/database/templates/handbook.json', 'akihandbook.json');
+        await downloadFile('https://dev.sp-tarkov.com/SPT-AKI/Server/raw/branch/3.8.0/project/assets/database/templates/items.json', 'akiitems.json');
+        await downloadFile('https://dev.sp-tarkov.com/SPT-AKI/Server/raw/branch/3.8.0/project/assets/database/templates/prices.json', 'akiprices.json');
     }
 
     processData();
@@ -47,24 +48,27 @@ const processData = (() => {
     const tarkovDevPrices = JSON.parse(fs.readFileSync('tarkovdevprices.json', 'utf-8'));
     const akiHandbook = JSON.parse(fs.readFileSync('akihandbook.json', 'utf-8'));
     const akiItems = JSON.parse(fs.readFileSync('akiitems.json', 'utf-8'));
-    const priceList = {};
+    const akiPrices = JSON.parse(fs.readFileSync('akiprices.json', 'utf-8'));
+
+    // Start with a base of the SPT price list
+    const priceList = structuredClone(akiPrices);
 
     // Filter tarkov.dev prices in the same way SPT does
     const filteredTarkovDevPrices = processTarkovDevPrices(tarkovDevPrices);
 
     // Get a price for each item in the items list
-    for (const itemId in akiItems)
+    for (const itemId in filteredTarkovDevPrices)
     {
         const itemPrice = filteredTarkovDevPrices[itemId];
-        if (itemPrice && itemPrice.Average7DaysPrice != 0)
+        if (itemPrice.Average7DaysPrice !== 0)
         {
             priceList[itemId] = itemPrice.Average7DaysPrice;
         }
     }
 
-    // Ammo packs are easy to exploit, they're never listed on flea which casues server to use handbook price, often contain ammo worth x100 the cost of handbook price
-    var ammoPacks = Object.values(akiItems)
-    .filter(x => (x._parent == "5661632d4bdc2d903d8b456b" || x._parent == "543be5cb4bdc2deb348b4568")
+    // Ammo packs are easy to exploit, they're never listed on flea which causes server to use handbook price, often contain ammo worth x100 the cost of handbook price
+    const ammoPacks = Object.values(akiItems)
+    .filter(x => (x._parent === "5661632d4bdc2d903d8b456b" || x._parent === "543be5cb4bdc2deb348b4568")
         && (x._name.includes("item_ammo_box_") || x._name.includes("ammo_box_"))
         && !x._name.includes("_damaged"));
 
@@ -74,9 +78,9 @@ const processData = (() => {
         {
             if (DEBUG) console.info(`edge case ammo pack ${ammoPack._id} ${ammoPack._name} not found in prices, adding manually`);
             // get price of item to multiply price of
-            var itemMultipler = ammoPack._props.StackSlots[0]._max_count;
-            var singleItemPrice = getItemPrice(priceList, akiHandbook.Items, ammoPack._props.StackSlots[0]._props.filters[0].Filter[0]);
-            var price = singleItemPrice * itemMultipler;
+            const itemMultipler = ammoPack._props.StackSlots[0]._max_count;
+            const singleItemPrice = getItemPrice(priceList, akiHandbook.Items, ammoPack._props.StackSlots[0]._props.filters[0].Filter[0]);
+            const price = singleItemPrice * itemMultipler;
 
             priceList[ammoPack._id] = price;
 
@@ -103,7 +107,14 @@ const processTarkovDevPrices = ((tarkovDevPrices) => {
 
     for (const item of tarkovDevPrices.items)
     {
-        if (item.historicalPrices.length == 0)
+        // For some reason, tarkov.dev is sending back invalid items, exclude them
+        if (!item.id.match(/^[a-fA-F0-9]+$/))
+        {
+            if (DEBUG) console.warn(`Skipping invalid item ${item.id}`);
+            continue;
+        }
+
+        if (item.historicalPrices.length === 0)
         {
             if (DEBUG) console.error(`unable to add item ${item.id} ${item.name} with no historical prices, ignoring`);
             continue;
@@ -115,7 +126,7 @@ const processTarkovDevPrices = ((tarkovDevPrices) => {
         }
 
         const averagedItemPrice = getAveragedPrice(item);
-        if (averagedItemPrice == 0)
+        if (averagedItemPrice === 0)
         {
             if (DEBUG) console.error(`unable to add item ${item.id} ${item.name} with average price of 0, ignoring`);
             continue;
@@ -128,10 +139,10 @@ const processTarkovDevPrices = ((tarkovDevPrices) => {
         }
 
         filteredTarkovDevPrices[item.id] = {
-            "Name": item.name,
-            "Average24hPrice": item.avg24hPrice,
-            "Average7DaysPrice": averagedItemPrice,
-            "TemplateId": item.id
+            Name: item.name,
+            Average24hPrice: item.avg24hPrice,
+            Average7DaysPrice: averagedItemPrice,
+            TemplateId: item.id
         };
 
         if (DEBUG) console.log(`Adding item: ${item.id} ${item.name}`);
@@ -142,14 +153,14 @@ const processTarkovDevPrices = ((tarkovDevPrices) => {
 
 const getAveragedPrice = ((item) => {
     const fourteenDaysAgoTimestamp = new Date(Date.now() - 12096e5);
-    var filteredPrices = item.historicalPrices.filter(x => x.timestamp > fourteenDaysAgoTimestamp).sort((a, b) => a.price - b.price);
+    let filteredPrices = item.historicalPrices.filter(x => x.timestamp > fourteenDaysAgoTimestamp).sort((a, b) => a.price - b.price);
     
-    if (filteredPrices.length == 0)
+    if (filteredPrices.length === 0)
     {
         filteredPrices = item.historicalPrices;
     }
 
-    if (filteredPrices.length == 1)
+    if (filteredPrices.length === 1)
     {
         return 0;
     }
@@ -167,10 +178,10 @@ const getAveragedPrice = ((item) => {
 });
 
 const getItemPrice = ((priceList, handbookItems, itemTpl) => {
-    var fleaPrice = priceList[itemTpl];
+    const fleaPrice = priceList[itemTpl];
     if (!fleaPrice)
     {
-        return handbookItems.find(x => x.Id == itemTpl).Price;
+        return handbookItems.find(x => x.Id === itemTpl).Price;
     }
     return fleaPrice;
 });
@@ -184,7 +195,7 @@ const downloadFile = (async (url, filename) => {
 const getStandardDeviation = ((array) => {
     const n = array.length;
     const mean = getAverage(array);
-    return Math.sqrt(array.map(x => Math.pow(x - mean, 2)).reduce((a, b) => a + b) / n);
+    return Math.sqrt(array.map(x => (x - mean) ** 2).reduce((a, b) => a + b) / n);
 });
 
 const getAverage = ((array) => {
