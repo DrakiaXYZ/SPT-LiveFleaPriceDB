@@ -35,9 +35,9 @@ const main = (async () => {
         fs.writeFileSync('tarkovdevprices.json', JSON.stringify(tarkovDevPrices, null, 4));
 
         // Fetch the latest prices.json and handbook.json from SPT-AKI's git repo
-        await downloadFile('https://dev.sp-tarkov.com/SPT-AKI/Server/raw/branch/3.8.0/project/assets/database/templates/handbook.json', 'akihandbook.json');
-        await downloadFile('https://dev.sp-tarkov.com/SPT-AKI/Server/raw/branch/3.8.0/project/assets/database/templates/items.json', 'akiitems.json');
-        await downloadFile('https://dev.sp-tarkov.com/SPT-AKI/Server/raw/branch/3.8.0/project/assets/database/templates/prices.json', 'akiprices.json');
+        await downloadFile('https://dev.sp-tarkov.com/SPT-AKI/Server/raw/branch/master/project/assets/database/templates/handbook.json', 'akihandbook.json');
+        await downloadFile('https://dev.sp-tarkov.com/SPT-AKI/Server/raw/branch/master/project/assets/database/templates/items.json', 'akiitems.json');
+        await downloadFile('https://dev.sp-tarkov.com/SPT-AKI/Server/raw/branch/master/project/assets/database/templates/prices.json', 'akiprices.json');
     }
 
     processData();
