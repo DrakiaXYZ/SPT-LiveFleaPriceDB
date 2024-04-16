@@ -1,7 +1,7 @@
 import * as fs from 'fs';
 import { Readable } from 'stream';
 import { finished } from 'stream/promises';
-import { request, gql } from 'graphql-request'
+import { gql, GraphQLClient } from 'graphql-request'
 
 /**
  * Configuration
@@ -31,7 +31,12 @@ const main = (async () => {
     // Fetch data
     if (!DEBUG)
     {
-        const tarkovDevPrices = await request('https://api.tarkov.dev/graphql', query);
+        const endpoint = "https://api.tarkov.dev/graphql";
+        const graphQLClient = new GraphQLClient(endpoint, {
+            errorPolicy: "ignore"
+        });
+        
+        const tarkovDevPrices = await graphQLClient.request(query);
         fs.writeFileSync('tarkovdevprices.json', JSON.stringify(tarkovDevPrices, null, 4));
 
         // Fetch the latest prices.json and handbook.json from SPT-AKI's git repo
@@ -59,6 +64,12 @@ const processData = (() => {
     // Get a price for each item in the items list
     for (const itemId in filteredTarkovDevPrices)
     {
+        // Skip items that aren't in SPTs item database, this tends to be presets
+        if (!akiItems[itemId])
+        {
+            continue;
+        }
+
         const itemPrice = filteredTarkovDevPrices[itemId];
         if (itemPrice.Average7DaysPrice !== 0)
         {
