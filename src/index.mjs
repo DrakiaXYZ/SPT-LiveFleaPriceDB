@@ -7,25 +7,6 @@ import { gql, GraphQLClient } from 'graphql-request'
  * Configuration
  */
 const DEBUG = false;
-const specialCases = {
-    "627e14b21713922ded6f2c15": 250000,
-    "634959225289190e5e773b3b": 15000
-};
-
-const query = gql`
-{
-    items(lang: en) {
-        id
-        name
-        avg24hPrice
-        changeLast48hPercent
-        historicalPrices {
-            price
-            timestamp
-        }
-    }
-}
-`
 
 const main = (async () => {
     // Fetch data
@@ -36,8 +17,9 @@ const main = (async () => {
             errorPolicy: "ignore"
         });
         
-        const tarkovDevPrices = await graphQLClient.request(query);
-        fs.writeFileSync('tarkovdevprices.json', JSON.stringify(tarkovDevPrices, null, 4));
+        // Fetch data from tarkov.dev
+        await fetchTarkovDevData(graphQLClient, 'regular');
+        await fetchTarkovDevData(graphQLClient, 'pve');
 
         // Fetch the latest prices.json and handbook.json from SPT-AKI's git repo
         await downloadFile('https://dev.sp-tarkov.com/SPT-AKI/Server/raw/branch/master/project/assets/database/templates/handbook.json', 'akihandbook.json');
@@ -45,12 +27,28 @@ const main = (async () => {
         await downloadFile('https://dev.sp-tarkov.com/SPT-AKI/Server/raw/branch/master/project/assets/database/templates/prices.json', 'akiprices.json');
     }
 
-    processData();
+    processData('regular');
+    processData('pve');
 });
 
-const processData = (() => {
+const fetchTarkovDevData = (async (graphQLClient, gameMode) => {
+    const query = gql`
+    {
+        items(lang: en, gameMode: ${gameMode}) {
+            id
+            name
+            avg24hPrice
+            changeLast48hPercent
+        }
+    }
+    `
+    const tarkovDevPrices = await graphQLClient.request(query);
+    fs.writeFileSync(`tarkovdevprices-${gameMode}.json`, JSON.stringify(tarkovDevPrices, null, 4));
+})
+
+const processData = ((gameMode) => {
     // Read in data
-    const tarkovDevPrices = JSON.parse(fs.readFileSync('tarkovdevprices.json', 'utf-8'));
+    const tarkovDevPrices = JSON.parse(fs.readFileSync(`tarkovdevprices-${gameMode}.json`, 'utf-8'));
     const akiHandbook = JSON.parse(fs.readFileSync('akihandbook.json', 'utf-8'));
     const akiItems = JSON.parse(fs.readFileSync('akiitems.json', 'utf-8'));
     const akiPrices = JSON.parse(fs.readFileSync('akiprices.json', 'utf-8'));
@@ -59,7 +57,7 @@ const processData = (() => {
     const priceList = structuredClone(akiPrices);
 
     // Filter tarkov.dev prices in the same way SPT does
-    const filteredTarkovDevPrices = processTarkovDevPrices(tarkovDevPrices);
+    const filteredTarkovDevPrices = processTarkovDevPrices(gameMode, tarkovDevPrices);
 
     // Get a price for each item in the items list
     for (const itemId in filteredTarkovDevPrices)
@@ -71,9 +69,10 @@ const processData = (() => {
         }
 
         const itemPrice = filteredTarkovDevPrices[itemId];
-        if (itemPrice.Average7DaysPrice !== 0)
+        if (itemPrice.Average24hPrice)
         {
-            priceList[itemId] = itemPrice.Average7DaysPrice;
+            if (DEBUG) console.log(`[${gameMode}] Adding item: ${itemPrice.TemplateId} ${itemPrice.Name} -> ${itemPrice.Average24hPrice}`);
+            priceList[itemId] = itemPrice.Average24hPrice;
         }
     }
 
@@ -87,7 +86,7 @@ const processData = (() => {
     {
         if (!priceList[ammoPack._id])
         {
-            if (DEBUG) console.info(`edge case ammo pack ${ammoPack._id} ${ammoPack._name} not found in prices, adding manually`);
+            if (DEBUG) console.info(`[${gameMode}] edge case ammo pack ${ammoPack._id} ${ammoPack._name} not found in prices, adding manually`);
             // get price of item to multiply price of
             const itemMultipler = ammoPack._props.StackSlots[0]._max_count;
             const singleItemPrice = getItemPrice(priceList, akiHandbook.Items, ammoPack._props.StackSlots[0]._props.filters[0].Filter[0]);
@@ -98,94 +97,34 @@ const processData = (() => {
         }
     }
 
-    // Some items dont get listed on flea often, manually add prices for these
-    for (const specialCaseId of Object.keys(specialCases))
-    {
-        const specialCasePrice = specialCases[specialCaseId];
-        if (!priceList[specialCaseId])
-        {
-            if (DEBUG) console.info(`edge case item ${specialCaseId} not found in prices, adding manually`);
-            priceList[specialCaseId] = specialCasePrice;
-        }
-    }
-
     // Write out the updated price data
-    fs.writeFileSync('prices.json', JSON.stringify(priceList, null, 4));
+    fs.writeFileSync(`prices-${gameMode}.json`, JSON.stringify(priceList, null, 4));
 });
 
-const processTarkovDevPrices = ((tarkovDevPrices) => {
+const processTarkovDevPrices = ((gameMode, tarkovDevPrices) => {
     const filteredTarkovDevPrices = {};
 
     for (const item of tarkovDevPrices.items)
     {
-        // For some reason, tarkov.dev is sending back invalid items, exclude them
-        if (!item.id.match(/^[a-fA-F0-9]+$/))
-        {
-            if (DEBUG) console.warn(`Skipping invalid item ${item.id}`);
-            continue;
-        }
-
-        if (item.historicalPrices.length === 0)
-        {
-            if (DEBUG) console.error(`unable to add item ${item.id} ${item.name} with no historical prices, ignoring`);
-            continue;
-        }
-
         if (item.changeLast48hPercent > 100)
         {
-            console.warn(`Item ${item.id} ${item.name} Has had recent ${item.changeLast48hPercent}% increase in price. ${item.historicalPrices.length} price values`);
-        }
-
-        const averagedItemPrice = getAveragedPrice(item);
-        if (averagedItemPrice === 0)
-        {
-            if (DEBUG) console.error(`unable to add item ${item.id} ${item.name} with average price of 0, ignoring`);
-            continue;
+            console.warn(`[${gameMode}] Item ${item.id} ${item.name} Has had recent ${item.changeLast48hPercent}% increase in price`);
         }
 
         if (item.name.indexOf(" (0/") >= 0)
         {
-            if (DEBUG) console.warn(`Skipping 0 durability item: ${item.id} ${item.name}`);
+            if (DEBUG) console.warn(`[${gameMode}] Skipping 0 durability item: ${item.id} ${item.name}`);
             continue;
         }
 
         filteredTarkovDevPrices[item.id] = {
             Name: item.name,
             Average24hPrice: item.avg24hPrice,
-            Average7DaysPrice: averagedItemPrice,
             TemplateId: item.id
         };
-
-        if (DEBUG) console.log(`Adding item: ${item.id} ${item.name}`);
     }
 
     return filteredTarkovDevPrices;
-});
-
-const getAveragedPrice = ((item) => {
-    const fourteenDaysAgoTimestamp = new Date(Date.now() - 12096e5);
-    let filteredPrices = item.historicalPrices.filter(x => x.timestamp > fourteenDaysAgoTimestamp).sort((a, b) => a.price - b.price);
-    
-    if (filteredPrices.length === 0)
-    {
-        filteredPrices = item.historicalPrices;
-    }
-
-    if (filteredPrices.length === 1)
-    {
-        return 0;
-    }
-
-    const prices = filteredPrices.map(x => x.price);
-    const avgMean = getAverage(prices);
-    const standardDev = getStandardDeviation(prices);
-    const upperCutoff = standardDev * 1.5;
-    const lowerCutoff = standardDev * 2;
-    const lowerBound = avgMean - lowerCutoff;
-    const upperBound = avgMean + upperCutoff;
-    const pricesWithOutliersRemoved = prices.filter(x => x >= lowerBound && x <= upperBound);
-    const avgPriceWithoutOutliers = Math.round(getAverage(pricesWithOutliersRemoved));
-    return avgPriceWithoutOutliers;
 });
 
 const getItemPrice = ((priceList, handbookItems, itemTpl) => {
@@ -201,16 +140,6 @@ const downloadFile = (async (url, filename) => {
   const res = await fetch(url);
   const fileStream = fs.createWriteStream(filename, { flags: 'w' });
   await finished(Readable.fromWeb(res.body).pipe(fileStream));
-});
-
-const getStandardDeviation = ((array) => {
-    const n = array.length;
-    const mean = getAverage(array);
-    return Math.sqrt(array.map(x => (x - mean) ** 2).reduce((a, b) => a + b) / n);
-});
-
-const getAverage = ((array) => {
-    return array.reduce((a, b) => a + b, 0) / array.length;
 });
 
 // Trigger main
