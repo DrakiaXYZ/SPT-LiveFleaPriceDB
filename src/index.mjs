@@ -21,10 +21,9 @@ const main = (async () => {
         await fetchTarkovDevData(graphQLClient, 'regular');
         await fetchTarkovDevData(graphQLClient, 'pve');
 
-        // Fetch the latest prices.json and handbook.json from SPT-AKI's git repo
-        await downloadFile('https://dev.sp-tarkov.com/SPT-AKI/Server/raw/branch/master/project/assets/database/templates/handbook.json', 'akihandbook.json');
-        await downloadFile('https://dev.sp-tarkov.com/SPT-AKI/Server/raw/branch/master/project/assets/database/templates/items.json', 'akiitems.json');
-        await downloadFile('https://dev.sp-tarkov.com/SPT-AKI/Server/raw/branch/master/project/assets/database/templates/prices.json', 'akiprices.json');
+        // Fetch the latest prices.json and handbook.json from SPT's git repo
+        await downloadFile('https://raw.githubusercontent.com/sp-tarkov/server/refs/heads/master/project/assets/database/templates/handbook.json', 'spthandbook.json');
+        await downloadFile('https://raw.githubusercontent.com/sp-tarkov/server/refs/heads/master/project/assets/database/templates/prices.json', 'sptprices.json');
     }
 
     processData('regular');
@@ -49,12 +48,12 @@ const fetchTarkovDevData = (async (graphQLClient, gameMode) => {
 const processData = ((gameMode) => {
     // Read in data
     const tarkovDevPrices = JSON.parse(fs.readFileSync(`tarkovdevprices-${gameMode}.json`, 'utf-8'));
-    const akiHandbook = JSON.parse(fs.readFileSync('akihandbook.json', 'utf-8'));
-    const akiItems = JSON.parse(fs.readFileSync('akiitems.json', 'utf-8'));
-    const akiPrices = JSON.parse(fs.readFileSync('akiprices.json', 'utf-8'));
+    const sptHandbook = JSON.parse(fs.readFileSync('spthandbook.json', 'utf-8'));
+    const sptItems = JSON.parse(fs.readFileSync('items.json', 'utf-8'));
+    const sptPrices = JSON.parse(fs.readFileSync('sptprices.json', 'utf-8'));
 
     // Start with a base of the SPT price list
-    const priceList = structuredClone(akiPrices);
+    const priceList = structuredClone(sptPrices);
 
     // Filter tarkov.dev prices in the same way SPT does
     const filteredTarkovDevPrices = processTarkovDevPrices(gameMode, tarkovDevPrices);
@@ -63,7 +62,7 @@ const processData = ((gameMode) => {
     for (const itemId in filteredTarkovDevPrices)
     {
         // Skip items that aren't in SPTs item database, this tends to be presets
-        if (!akiItems[itemId])
+        if (!sptItems[itemId])
         {
             continue;
         }
@@ -77,7 +76,7 @@ const processData = ((gameMode) => {
     }
 
     // Ammo packs are easy to exploit, they're never listed on flea which causes server to use handbook price, often contain ammo worth x100 the cost of handbook price
-    const ammoPacks = Object.values(akiItems)
+    const ammoPacks = Object.values(sptItems)
     .filter(x => (x._parent === "5661632d4bdc2d903d8b456b" || x._parent === "543be5cb4bdc2deb348b4568")
         && (x._name.includes("item_ammo_box_") || x._name.includes("ammo_box_"))
         && !x._name.includes("_damaged"));
@@ -89,7 +88,7 @@ const processData = ((gameMode) => {
             if (DEBUG) console.info(`[${gameMode}] edge case ammo pack ${ammoPack._id} ${ammoPack._name} not found in prices, adding manually`);
             // get price of item to multiply price of
             const itemMultipler = ammoPack._props.StackSlots[0]._max_count;
-            const singleItemPrice = getItemPrice(priceList, akiHandbook.Items, ammoPack._props.StackSlots[0]._props.filters[0].Filter[0]);
+            const singleItemPrice = getItemPrice(priceList, sptHandbook.Items, ammoPack._props.StackSlots[0]._props.filters[0].Filter[0]);
             const price = singleItemPrice * itemMultipler;
 
             priceList[ammoPack._id] = price;

@@ -4,7 +4,6 @@ npm-debug.log
 .nyc
 .env
 .DS_Store
-akihandbook.json
-akiitems.json
-akiprices.json
+spthandbook.json
+sptprices.json
 tarkovdevprices*.json

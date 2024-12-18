@@ -1,6 +1,6 @@
 {
   "name": "spt-livefleapricedb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "SPT live flea price DB updater",
   "main": "src/index.mjs",
   "scripts": {
