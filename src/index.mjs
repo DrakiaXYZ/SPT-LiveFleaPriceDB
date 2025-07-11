@@ -26,7 +26,8 @@ const main = (async () => {
         await downloadFile('https://raw.githubusercontent.com/sp-tarkov/server/refs/heads/master/project/assets/database/templates/prices.json', 'sptprices.json');
     }
 
-    processData('regular');
+    // Tarkov has disabled flea for this wipe for PvP, so don't update the prices
+    // processData('regular');
     processData('pve');
 });
 
