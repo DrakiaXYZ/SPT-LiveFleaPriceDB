@@ -12,7 +12,7 @@ const main = (async () => {
     // Fetch data
     if (!DEBUG)
     {
-        const endpoint = "https://api.tarkov.dev/graphql";
+        const endpoint = "https://api.tarkov-market.app/api/v1/items/all?x-api-key=8RLDnwubGYLfpP5j";
         const graphQLClient = new GraphQLClient(endpoint, {
             errorPolicy: "ignore"
         });
@@ -27,7 +27,7 @@ const main = (async () => {
     }
 
     // Tarkov has disabled flea for this wipe for PvP, so don't update the prices
-    // processData('regular');
+    processData('regular');
     processData('pve');
 });
 
