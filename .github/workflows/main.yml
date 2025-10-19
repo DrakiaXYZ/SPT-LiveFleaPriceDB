@@ -27,7 +27,6 @@ jobs:
         with:
           default_author: github_actions
           add: |
-            - prices.json
             - prices-regular.json
             - prices-pve.json
           message: 'Update prices'
