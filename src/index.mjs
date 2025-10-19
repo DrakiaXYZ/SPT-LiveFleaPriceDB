@@ -22,8 +22,8 @@ const main = (async () => {
         await fetchTarkovDevData(graphQLClient, 'pve');
 
         // Fetch the latest prices.json and handbook.json from SPT's git repo
-        await downloadFile('https://raw.githubusercontent.com/sp-tarkov/server/refs/heads/master/project/assets/database/templates/handbook.json', 'spthandbook.json');
-        await downloadFile('https://raw.githubusercontent.com/sp-tarkov/server/refs/heads/master/project/assets/database/templates/prices.json', 'sptprices.json');
+        await downloadFile('https://raw.githubusercontent.com/sp-tarkov/server-csharp/refs/heads/main/Libraries/SPTarkov.Server.Assets/SPT_Data/database/templates/handbook.json', 'spthandbook.json');
+        await downloadFile('https://raw.githubusercontent.com/sp-tarkov/server-csharp/refs/heads/main/Libraries/SPTarkov.Server.Assets/SPT_Data/database/templates/prices.json', 'sptprices.json');
     }
 
     // PvP prices are fucked, but users want them anyways, good luck
